@@ -1,0 +1,442 @@
+---
+title: "Decret pel qual s'aprova el Reglament d'aplicació de la llei de caça, del 23-7- 2003"
+identifier: "BOPA-D-2003-2FAC6"
+country: "ad"
+rank: "reglament"
+publication_date: "2003-07-29"
+last_updated: "2003-07-29"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/015059/Pagines/2FAC6.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "2003-07-22"
+bopa_issue: "BOPA 59/2003"
+bopa_document_id: "2FAC6"
+---
+# Decret pel qual s'aprova el Reglament d'aplicació de la llei de caça, del 23-7- 2003
+
+Decret pel qual s'aprova el Reglament d'aplicació de la llei de caça Exposició de motius Vista la Llei del Govern, del 15 de desembre del 2000;
+
+Vista la Llei de caça, del 13 d'abril del 2000;
+
+Vist el Reglament d'aplicació de la Llei de caça, del 4 de setembre del 2002;
+
+Atesa la necessitat de dur a terme diverses modificacions en les condicions i les formes per capturar determinades unitats, en aplicació dels plans de gestió de certes poblacions d'espècies caçables, o per limitar els perjudicis al medi natural o a les activitats agrícoles;
+
+Aquest Reglament defineix les espècies caçables, regula l'aplicació dels plans de gestió, modifica els sistemes de regulació de les poblacions d'espècies caçables regulables i estableix el funcionament de la Comissió de Seguiment de la Caça.
+
+Aquest Reglament deroga el Reglament d'aplicació de la Llei de caça, del 4 de setembre del 2002, i s'aprova íntegrament per motius de seguretat jurídica.
+
+A proposta de la ministra d'Agricultura i Medi Ambient i d'acord amb el Govern, en la sessió del 23 de juliol del 2003, s'acorda:
+
+##### Article únic
+
+S'aprova el Reglament d'aplicació de la Llei de caça, que entrarà en vigor l'endemà de ser publicat al Butlletí Oficial del Principat d'Andorra.
+
+Reglament d'aplicació de la llei de caça
+
+### Capítol I. Disposicions generals
+
+##### Article 1
+
+Les llicències de caça s'han de sol·licitar al Servei de Tràmits de l'edifici administratiu del Govern, o als serveis de tràmits dels comuns, durant els dies laborables i els horaris oficials d'atenció al públic, amb el pagament previ de l'import de la llicència de caça fixat pel Govern.
+
+##### Article 2
+
+Per formalitzar la sol·licitud d'una llicència de caça s'ha d'adjuntar la documentació següent:
+
+Certificació d'una companyia d'assegurances, degudament autoritzada per actuar dins del territori nacional, que atesti que queden cobertes les responsabilitats civils en què puguin incórrer el caçador directament o els seus gossos per una suma mínima de 240.000 euros. En cas que la companyia asseguradora no faciliti la llista certificada prop del ministeri responsable de la caça, el sol·licitant ha d'adjuntar el certificat individual d'assegurança.
+
+Còpia del permís d'arma. Queden exempts d'adjuntar el permís d'arma els caçadors de nacionalitat andorrana que cacin amb escopeta.
+
+Còpia del passaport o del document d'identitat per als caçadors no inscrits en un Cens parroquial.
+
+Una (1) fotografia actual de 3,5 x 4,5 cm per a les primeres llicències.
+
+##### Article 3
+
+Per a l'obtenció de qualsevol llicència de caça és obligatori abonar prèviament l'import corresponent a la quota de soci de la Federació Andorrana de Caça.
+
+##### Article 4
+
+Les llicències de caça es poden recollir el dia següent de la resolució favorable de la sol·licitud al Servei de Tràmits on s'ha tramès la sol·licitud, durant els dies laborables i els horaris oficials d'atenció al públic.
+
+##### Article 5
+
+Els dies hàbils per a l'exercici de la caça en els terrenys d'aprofitament cinegètic comú són els diumenges, els dijous i els dies festius. El Ministeri d'Agricultura i Medi Ambient publica anualment el calendari de dies hàbils.
+
+##### Article 6
+
+Per poder sol·licitar la participació en el sorteig de batudes organitzades del porc senglar en vedats temporals de caça, o vedats de caça, els caçadors s'han d'inscriure en colles de caçadors del porc senglar prop del Departament de Medi Ambient. Les colles s'inscriuen per parròquies.
+
+##### Article 7
+
+Per inscriure's com a colla de caça del porc senglar, s'ha de presentar la sol·licitud corresponent prop del Servei de Tràmits de l'edifici administratiu del Govern, o als serveis de tràmits dels comuns, i complir les condicions següents:
+
+Tots els caçadors han de figurar en el Cens parroquial de la parròquia, i ser titulars de la llicència corresponent de caça del porc senglar.
+
+El nombre mínim de caçadors membres de la colla és de 15 persones.
+
+Un caçador només pot formar part d'una colla de caça del porc senglar.
+
+També cal adjuntar els documents següents:
+
+En la sol·licitud s'ha d'adjuntar la llista dels gossos emprats en la caça del porc senglar, que han d'estar en acord amb la Llei de tinença i protecció dels animals, del 30 de juny de 1998, i les normes que la desenvolupin. S'hi ha d'adjuntar el número del document oficial d'identificació del Registre d'Animals de Companyia de cada gos.
+
+### Capítol II. Comissió de Seguiment de la Caça
+
+##### Article 8
+
+La Comissió de Seguiment de la Caça està formada pels membres següents:
+
+El/la president/a de la Comissió, càrrec que recau en el/la ministre/a responsable de la caça El/la vicepresident/a de la Comissió, càrrec que recau en el/la president/a de la Federació Andorrana de Caça El/la director/a del Departament de Medi Ambient El/la cap del Servei de Patrimoni Natural El/la cap del Cos de Banders Dos vocals designats per la Federació de Caça Un/a representant de les associacions protectores d'animals i de defensa de la natura
+
+##### Article 9
+
+El/la president/a de la Comissió de Seguiment de la Caça convoca les sessions, proposa l'ordre del dia i dirigeix les sessions.
+
+En absència del/de la president/a de la Comissió, el/la vicepresident/a assegura les funcions del/de la president/a.
+
+La Comissió de Seguiment de la Caça nomena un secretari entre els seus representants. El secretari pren acta de les reunions.
+
+##### Article 10
+
+La Comissió de Seguiment de la Caça es reuneix tantes vegades com sigui necessari, i almenys dues vegades l'any.
+
+Un terç dels membres de la Comissió de Seguiment de la Caça poden sol·licitar al president la convocatòria d'una sessió extraordinària.
+
+##### Article 11
+
+El quòrum de constitució de la Comissió es fixa a la meitat dels representants més un. Les decisions de la Comissió de Seguiment de la Caça s'aproven per majoria simple.
+
+### Capítol III. Espècies caçables
+
+##### Article 12
+
+Espècies caçables 1. Les espècies que es poden caçar sense altres limitacions que les establertes per la Llei de caça i les normes que la desenvolupen són:
+
+Guineu (Vulpes vulpes) Tudó (Columba palumbus) Merla (Turdus merula) Griva (Turdus viscivorus) 2. Les espècies que es poden caçar amb les limitacions de captura i de transport per dia i per caçador són:
+
+Conill (Oryctolagus cuniculus) Llebre (Lepus europaeus) Perdiu grisa o xerra (Perdix perdix) Perdiu roja (Alectoris rufa) Faisà (Phasianus colchicus) Dos exemplars de conill o bé un exemplar de llebre.
+
+El total d'exemplars entre les espècies perdiu grisa, perdiu roja i faisà és de tres, amb un màxim de dos faisans.
+
+3. Les espècies que són caçables en les condicions que defineix aquest Reglament són:
+
+Porc senglar (Sus scrofa) Mufló (Ovis musimon) Cabirol (Capreolus capreolus) Talpa (Talpa europaea)
+
+##### Article 13
+
+Segons l'article 5 de la Llei de caça, del 13 d'abril del 2000, són espècies caçables regulables:
+
+Les que són perilloses per a la salut o per a la seguretat públiques.
+
+Aquestes espècies, o individus, poden ser definits com a espècies caçables regulables quan un agent de l'autoritat transmet els fets al Departament de Medi Ambient.
+
+Les que causen danys importants a les activitats agrícoles, forestals o a la fauna o la flora en general.
+
+##### Article 14
+
+La caça de les espècies sotmeses a un pla de caça es regula amb l'objectiu de gestionar les poblacions, tenint en compte la capacitat del territori i el manteniment d'una estructura equilibrada de la població.
+
+##### Article 15
+
+El Departament de Medi Ambient elabora els plans de gestió de les espècies que poden ser sotmeses a un pla de caça, en funció de la unitat de gestió de cada població.
+
+Els plans de gestió s'han de fonamentar en els principis següents:
+
+Anàlisi de les característiques geogràfiques, físiques, biològiques i humanes de la unitat de gestió Coneixement de les poblacions faunístiques existents Definició dels objectius de la gestió Mitjans necessaris per a la consecució dels objectius
+
+##### Article 16
+
+El Pla de gestió de cada espècie que pot ser sotmesa a un pla de caça ha de definir els paràmetres següents:
+
+Poblacions existents i la seva evolució Relació entre la capacitat del medi i l'abundància de l'espècie Piràmide poblacional, amb distribució per edats i sexes Definició del nombre de captures en funció dels paràmetres anteriors
+
+##### Article 17
+
+Les espècies caçables que poden ser sotmeses a un pla de caça són les següents:
+
+Mufló (Ovis musimon) Cabirol (Capreolus capreolus)
+
+### Capítol IV. Regulació de les espècies caçables regulables perilloses per a la
+
+salut o la seguretat públiques
+
+##### Article 18
+
+La regulació específica de les espècies caçables regulables perilloses per a la salut o per a la seguretat públiques es fa mitjançant l'actuació dels agents del Cos de Banders, amb autorització prèvia del Departament de Medi Ambient, en tot el territori i en qualsevol època de l'any.
+
+##### Article 19
+
+El control d'un o diversos exemplars de les espècies caçables regulables perilloses per a la salut o per a la seguretat públiques es fa mitjançant captura en viu. Quan els mètodes d'immobilització a distància o altres mètodes de captura en viu de l'animal no siguin viables, el Departament de Medi Ambient pot autoritzar l'ús del tret com a mètode de sacrifici.
+
+### Capítol V. Regulació de les espècies caçables regulables que causen danys
+
+importants a la fauna en general
+
+##### Article 20
+
+La regulació específica de les espècies caçables regulables que causen danys importants a la fauna en general es fa mitjançant l'actuació dels agents del Cos de Banders, amb autorització prèvia del Departament de Medi Ambient, en tot el territori nacional i en qualsevol època de l'any.
+
+##### Article 21
+
+El control d'un o diversos exemplars de les espècies caçables regulables que causen danys importants a la fauna en general es realitza mitjançant captura en viu. Quan els mètodes d'immobilització a distància o altres mètodes de captura en viu de l'animal no siguin viables, el Departament de Medi Ambient pot autoritzar l'ús del tret com a mètode de sacrifici.
+
+### Capítol VI. Regulació de les espècies caçables regulables que causen danys
+
+importants a les activitats agrícoles, forestals o a la flora en general
+
+##### Article 22
+
+Es consideren espècies regulables que poden causar danys a les activitats agrícoles, forestals o a la flora en general, les espècies següents:
+
+Porc fer (Sus scrofa) Talpa (Talpa europaea)
+
+##### Article 23
+
+La regulació de les poblacions de talpes que causin danys a les activitats agrícoles, mitjançant la seva captura amb una arma, en tot terreny de caça i durant tot l'any, pot fer-se amb autorització prèvia del Departament de Medi Ambient.
+
+##### Article 24
+
+Les sol·licituds per fer aquestes captures s'han de trametre al Departament de Medi Ambient, mitjançant el Servei de Tràmits de l'edifici administratiu del Govern, o als serveis de tràmits dels comuns. La sol·licitud ha d'incloure les dades següents:
+
+Nom de la persona sol·licitant Terreny on es faran les captures Període durant el qual es desitja fer les captures En cas que la sol·licitud sigui resolta favorablement, el Departament de Medi Ambient ha d'expedir una autorització nominal que inclogui les dades esmentades.
+
+##### Article 25
+
+La regulació de les poblacions de porcs senglars en terrenys d'aprofitament cinegètic comú i en els dies hàbils per a l'exercici de la caça es basa en el desenvolupament de la seva caça sense altres limitacions que les previstes en la Llei de caça, del 13 d'abril del 2000, en aquest Reglament i en les normes que el desenvolupen.
+
+##### Article 26
+
+En cas que la població de porcs senglars causi danys importants a les activitats agrícoles, forestals o a la flora en general en terrenys d'aprofitament cinegètic comú, el Departament de Medi Ambient, a demanda escrita del propietari o titular de l'explotació i prèvia verificació, pot autoritzar una operació puntual mitjançant la realització de tirs nocturns per part del Cos de Banders.
+
+Quan aquesta situació es planteja dins del període establert de caça, la regulació no es pot fer la nit anterior a un dia hàbil per a l'exercici de la caça.
+
+El propietari o titular de l'explotació pot participar en l'operació puntual.
+
+Les peces capturades queden en propietat del Departament de Medi Ambient.
+
+##### Article 27
+
+La regulació de la població de porcs senglars que causin danys importants a les activitats agrícoles, forestals o a la flora en general dins els vedats de caça es determina pel Reglament de funcionament i gestió dels vedats de caça.
+
+##### Article 28
+
+La regulació de la població de porcs senglars, en els vedats temporals de caça, es fa a dos nivells:
+
+Batudes organitzades Operacions puntuals
+
+##### Article 29
+
+Davant una denúncia de danys causats a activitats agrícoles, forestals o a la flora en general en els vedats temporals de caça, el Departament de Medi Ambient, a demanda escrita del propietari o titular de l'explotació, pot autoritzar, amb la verificació prèvia, la realització de batudes organitzades amb gossos.
+
+##### Article 30
+
+Les batudes organitzades en els vedats temporals de caça es realitzen amb la participació exclusiva de caçadors que figuren en el Cens de Residència de la parròquia on es desenvolupa la batuda. Els caçadors han de formar part d'una colla de caça del porc senglar degudament inscrita prop del Departament de Medi Ambient. Les peces capturades, segons el que hagi definit el pla de gestió, queden en propietat de la colla que ha realitzat la batuda.
+
+##### Article 31
+
+L'autorització per a la realització d'una batuda organitzada en un vedat temporal de caça ha de fixar com a mínim els preceptes següents:
+
+L'horari i la zona autoritzada per al desenvolupament de la batuda.
+
+Les normes de seguretat per al desenvolupament correcte de la batuda.
+
+El procediment de comunicació entre els caçadors i/o els agents del Cos de Banders.
+
+La quantitat de gossos autoritzats i el procediment de l'arruix.
+
+La quantitat d'exemplars autoritzats a capturar d'acord amb el pla de gestió.
+
+Un membre de la colla de caçadors actua com a cap de cacera i distribueix els llocs d'espera en funció de la zona.
+
+##### Article 32
+
+En cas que en una parròquia hi hagi més d'una colla inscrita de caçadors del porc senglar, d'acord amb l'article 30 les batudes organitzades es distribueixen segons un sorteig. El Departament de Medi Ambient fa el sorteig de caràcter públic.
+
+##### Article 33
+
+Les colles que han obtingut adjudicacions no poden participar en el sorteig de batudes organitzades mentre les colles legalment inscrites d'acord amb l'article 30 no hagin participat totes i cadascuna en una batuda organitzada.
+
+##### Article 34
+
+En condicions en què la població de porcs senglars necessita unes actuacions acurades per limitar-ne el creixement i els danys causats en propietats agrícoles i ramaderes, dins un vedat temporal de caça, el Departament de Medi Ambient, a demanda escrita del propietari o titular de l'explotació i prèvia verificació, pot autoritzar una operació puntual mitjançant la realització de tirs nocturns per part del Cos de Banders. El propietari o titular de l'explotació pot assistir en l'operació puntual. Les peces capturades queden en propietat del Departament de Medi Ambient.
+
+### Capítol VII. Aplicació dels plans de gestió mitjançant els plans de caça
+
+##### Article 35
+
+Si en una unitat de gestió el pla de gestió d'una espècie sotmesa a un pla de caça implica l'aplicació d'un pla de caça, es pot acordar la captura de determinades unitats.
+
+##### Article 36
+
+El Ministeri d'Agricultura i Medi Ambient, d'acord amb el pla de gestió d'una espècie, pot declarar el pla de caça d'una espècie, en una unitat de gestió, de compliment estricte.
+
+##### Article 37
+
+El sistema d'atorgament del dret de captura, i les limitacions i obligacions del mètode de captura, es defineixen en els articles següents.
+
+##### Article 38
+
+El pla de caça d'una espècie ha de definir el nombre i el tipus de peces a capturar. Aquestes peces poden ser de dos tipus:
+
+Captures selectives Trofeus Aquestes captures es fan mitjançant la caça acompanyada almenys d'un agent del Cos de Banders, el qual té la missió de vetllar sobre el terreny pel compliment estricte del que hagi definit el pla de caça, i les normes establertes per aquest Reglament.
+
+##### Article 39
+
+Les captures selectives són de caràcter qualitatiu. Els paràmetres que cal tenir en compte per determinar si un animal pot ser objecte d'un tir selectiu són:
+
+Estat sanitari insatisfactori Malformació Classe d'edat o sexe a limitar Els exemplars que poden puntuar com a trofeus no poden ser objecte de captura selectiva.
+
+Els exemplars identificats amb distintius o equipats d'emissors no poden ser objecte de captura selectiva.
+
+##### Article 40
+
+Els trofeus es defineixen segons la normativa internacional (Consell Internacional de la Caça). El trofeu pot ser de nivell bronze, argent o or. En el moment de l'atorgament, el nivell del trofeu no s'especifica.
+
+Els exemplars identificats amb distintius o equipats d'emissors no poden ser objecte de captura trofeu.
+
+##### Article 41
+
+Anualment el Ministeri d'Agricultura i Medi Ambient publica la llista de peces que s'autoritza a caçar en coherència amb el Pla de caça de l'espècie, i notifica, si escau, si es tracta d'un pla de caça de compliment estricte.
+
+També correspon al Ministeri d'Agricultura i Medi Ambient fixar el preu de les llicències especials de caça acompanyada d'una espècie sotmesa a un pla de caça, els períodes hàbils per tramitar les sol·licituds i per fer efectiu el pagament de l'import corresponent.
+
+##### Article 42
+
+Tots els caçadors inscrits al Cens parroquial de qualsevol parròquia poden sol·licitar una llicència especial de caça acompanyada d'una espècie sotmesa a un pla de caça. Cada caçador només es pot presentar anualment al sorteig d'una sola espècie per tot el territori. En el cas que, en una unitat de gestió, una espècie estigui sotmesa a un pla de caça de compliment estricte, el caçador pot sol·licitar la participació en el sorteig d'aquesta espècie i en el sorteig d'una de les espècies no sotmeses a un pla de caça de compliment estricte.
+
+##### Article 43
+
+L'adjudicació provisional de les llicències especials de caça acompanyada d'una espècie sotmesa a un pla de caça autoritzades pel Govern es fa mitjançant un sistema de sorteig públic per insaculació, davant notari.
+
+Simultàniament, se sorteja per a cada caçador la unitat de gestió, el tipus de captura i la data o les dates de captura.
+
+Finalitzat el sorteig, s'estén una acta notarial on han de constar els noms dels participants al sorteig i el resultat d'aquest.
+
+Cada caçador només pot ser anualment adjudicatari d'una captura en tot el territori, exceptuant les espècies sotmeses a un pla de caça de compliment estricte.
+
+##### Article 44
+
+En cas que la unitat de gestió d'una població sotmesa a un pla de caça englobi un o diversos vedats temporals de caça, com a mínim el 50% de les llicències especials de caça acompanyada de cada espècie sotmesa a un pla de caça es distribueix entre els caçadors que figuren en el Cens Parroquial de la(les) parròquia(es) on està ubicat el vedat temporal de caça. En cas que la unitat de gestió cobreixi més d'una parròquia, la quantitat de llicències per parròquia es distribueix en funció del terreny corresponent.
+
+##### Article 45
+
+El procediment del sorteig per a cada espècie s'estableix de la manera següent:
+
+1. S'estableix per sorteig, entre les unitats de gestió en què s'autoritzen peces a capturar d'aquesta espècie, l'ordre de les unitats de gestió amb què es procedeix a l'adjudicació provisional de les llicències especials de caça acompanyada.
+
+2. Acte seguit s'estableix per sorteig, entre les parròquies que en el seu territori tinguin un vedat temporal de caça inclòs en la unitat de gestió, l'ordre de les parròquies amb què es procedeix a l'adjudicació provisional de les llicències especials de caça acompanyada.
+
+3. A continuació s'adjudiquen, provisionalment per sorteig, les llicències especials de caça acompanyada que corresponen als caçadors que figuren en el Cens parroquial de la/les parròquia/es que en el seu territori tingui/n un vedat temporal de caça inclòs en la unitat de gestió segons l'article 44, respectant l'ordre establert als apartats primer i segon.
+
+4. Finalment es fa el sorteig de la resta de les peces a capturar d'aquesta espècie, independentment de la parròquia de residència dels sol·licitants, entre tots els caçadors que no hagin resultat adjudicataris.
+
+5. En el supòsit que, en una unitat de gestió, el pla de caça hagi estat declarat de compliment estricte, es fa el sorteig entre tots els caçadors que no han resultat adjudicataris d'un nombre de llicències especials de caça acompanyada de substitució equivalent al 30% del total de les captures autoritzades en la unitat de gestió. A cada caçador adjudicatari li correspon un número d'ordre de llicència especial de caça acompanyada de substitució.
+
+Els resultats del sorteig tenen caràcter definitiu quan el Ministeri d'Agricultura i Medi Ambient publica aquestes adjudicacions al Butlletí Oficial del Principat d'Andorra.
+
+##### Article 46
+
+Els caçadors que han resultat adjudicataris estan obligats a satisfer la quantitat corresponent al preu de la llicència especial de caça acompanyada de l'espècie sotmesa al pla de caça dins el termini establert pel Ministeri d'Agricultura i Medi Ambient. Si aquest import no es fa efectiu, el caçador perd el dret a la captura.
+
+Aquesta unitat no pot ser capturada i no pot ser acumulada a les previsions dels anys següents.
+
+##### Article 47
+
+Si el pla de caça ha estat declarat de compliment estricte, els caçadors que han resultat adjudicataris estan obligats a satisfer la quantitat corresponent al preu de la llicència especial de caça acompanyada de l'espècie sotmesa al pla de caça dins el termini establert pel Ministeri d'Agricultura i Medi Ambient.
+
+Si aquest import no es fa efectiu dins el termini establert, el caçador perd el dret a la captura. No obstant això, el caçador està obligat a fer efectiu l'import esmentat.
+
+Aquesta captura és atribuïda al caçador que ha resultat adjudicatari d'una llicència especial de caça acompanyada de substitució. L'atorgament de les captures ha de seguir estrictament el número d'ordre de la llicència especial de caça acompanyada de substitució i l'ordre de sorteig de la captura. En el termini de tres (3) dies hàbils després d'haver-ho comunicat al caçador adjudicatari, aquest està obligat a satisfer la quantitat corresponent al preu de la llicència. Si aquest import no es fa efectiu dins el termini establert, el sol·licitant perd el dret a la captura.
+
+Es procedeix a repetir el sistema fins a l'atorgament total de les llicències especials de caça acompanyada del pla de caça de compliment estricte.
+
+##### Article 48
+
+Les llicències especials de caça acompanyada són personals i intransferibles.
+
+##### Article 49
+
+1. Els caçadors que han resultat adjudicataris no poden sol·licitar la participació en els sorteigs de la mateixa espècie durant els tres anys següents, excepte si el nombre de sol·licituds no cobreix el nombre de captures autoritzades, o en el cas d'espècies sotmeses a plans de caça de compliment estricte.
+
+2. Els caçadors que han resultat adjudicataris d'una captura d'un pla de caça de compliment estricte, no poden sol·licitar l'obtenció d'una llicència de caça mentre no hagin satisfet la quantitat corresponent al preu de la llicència especial de caça acompanyada fixada.
+
+3. En general, el caçador que ha resultat adjudicatari ha de complir les indicacions que li faci l'agent del Cos de Banders en el transcurs de la partida de caça. En qualsevol cas el caçador és responsable de la peça abatuda.
+
+##### Article 50
+
+L'agent del Cos de Banders acompanyant, quan s'ha abatut una peça, en determina l'edat i el sexe en presència del caçador, i anota aquestes dades i les característiques de l'animal a les fitxes editades a aquest efecte, incloent-hi el dia, l'hora i el lloc de la captura, i també el nom i els cognoms del caçador que ha mort la peça. El caçador i l'agent del Cos de Banders han de signar la fitxa en prova de conformitat amb les dades que s'hi reflecteixen. El Departament de Medi Ambient pot prendre mostres orgàniques de les peces abatudes.
+
+La peça caçada queda en propietat del caçador, el qual s'ha de fer càrrec del transport i de la destinació final de la peça sencera.
+
+##### Article 51
+
+El titular d'una llicència especial de caça acompanyada selectiva té dret a una partida de caça (un dia).
+
+El titular d'una llicència especial de caça acompanyada de trofeu té dret a dues partides de caça (dos dies), que forçosament han de ser seguides, per realitzar la captura.
+
+##### Article 52
+
+1. En el desenvolupament de la partida de caça acompanyada selectiva, o les partides de caça acompanyada de trofeu, el caçador solament té dret a tres trets (3) en total.
+
+2. Quan el caçador ha efectuat un tret i la peça no ha estat abatuda, el caçador i l'agent del Cos de Banders han de verificar conjuntament si l'animal ha estat ferit.
+
+Si es tenen sospites suficients que l'animal ha estat ferit, o es presencia sang, el caçador no té dret a tirar a cap altre animal, i ha de buscar i abatre aquest exemplar ferit.
+
+##### Article 53
+
+Si el caçador ha esgotat els tres (3) trets autoritzats i ha ferit un animal, l'agent del Cos de Banders ha de prosseguir, amb la participació del caçador, a abatre l'animal ferit. La peça queda igualment en propietat del caçador.
+
+En el supòsit que l'animal hagi estat ferit i no es pugui localitzar, es dóna per acabada la partida de caça. En aquest cas, el caçador perd el dret que la llicència corresponent li atorgava, i no pot reclamar la quantitat desemborsada en concepte de la llicència especial de caça acompanyada, i s'apliquen igualment les disposicions de l'article 49, apartat primer.
+
+##### Article 54
+
+Si en el transcurs de la partida o les partides de caça acompanyada, el caçador no pot efectuar la captura autoritzada, perd el dret que la llicència corresponent li atorgava. En aquest cas no s'apliquen les disposicions de l'article 49, apartat primer.
+
+Si transcorregudes les partides de caça de què disposa el caçador per realitzar la captura, aquesta no ha estat efectiva, el caçador no pot reclamar la quantitat desemborsada en concepte de la llicència especial de caça acompanyada.
+
+##### Article 55
+
+En el supòsit de l'article 54, i si el pla de caça ha estat declarat de compliment estricte, la captura no realitzada s'atribueix al caçador que ha resultat adjudicatari d'una llicència especial de caça acompanyada de substitució.
+
+L'atorgament de les captures segueix estrictament el número d'ordre de la llicència especial de caça acompanyada de substitució.
+
+En el termini de tres (3) dies hàbils després d'haver-ho comunicat al caçador adjudicatari, aquest està obligat a satisfer la quantitat corresponent al preu de la llicència. Si aquest import no es fa efectiu dins el termini establert, el sol·licitant perd el dret a la captura. No obstant això, el sol·licitant està obligat a fer efectiu l'import esmentat.
+
+En un pla de caça de compliment estricte es procedeix a repetir el sistema fins a l'atorgament de totes les captures.
+
+##### Article 56
+
+En el supòsit que transcorregudes la/les partida/es de caça acompanyada, la peça autoritzada a capturar no s'ha pogut localitzar, el Departament de Medi Ambient ha de proposar una/es partida/es de caça alternativa/es.
+
+##### Article 57
+
+Dos caçadors que han estat adjudicataris d'un mateix tipus de captura, en la mateixa unitat de gestió, poden proposar al Departament de Medi Ambient un intercanvi de les dates de captura. El Departament de Medi Ambient ha d'aprovar aquestes modificacions.
+
+##### Article 58
+
+En cas de força major, el Ministeri d'Agricultura i Medi Ambient pot modificar les dates per realitzar les captures autoritzades o anul·lar-les. En cas d'anul·lació, es reemborsa la quantitat desemborsada pel caçador.
+
+##### Article 59
+
+Si les unitats susceptibles de ser capturades en les unitats de gestió al final del període hàbil per realitzar-les no han estat capturades en la seva totalitat, el nombre de peces no caçades no pot ser acumulat a les previsions dels anys següents.
+
+##### Article 60
+
+En funció del tipus de captura a realitzar, l'agent del Cos de Banders encarregat d'acompanyar el caçador defineix la zona on es desenvolupa la partida de caça i l'horari d'inici.
+
+En el moment que s'ha efectuat la captura, la partida de caça es dóna per acabada sense cap possibilitat de continuïtat.
+
+##### Article 61
+
+1. El Ministeri d'Agricultura i Medi Ambient publica anyalment els resultats corresponents a les captures realitzades, i marca la puntuació dels trofeus obtinguts i les seves característiques.
+
+2. El Departament de Medi Ambient emet un certificat nominal corresponent a la captura realitzada per cada caçador.
+
+#### Disposició derogatòria
+
+Queda derogat el Reglament d'aplicació de la Llei de caça, del 4 de setembre del 2002, i qualsevol disposició de rang igual o inferior que s'oposi a l'establert en aquest Reglament.
+
+Andorra la Vella, 23 de juliol del 2003 Marc Forné Molné Cap de Govern
+
