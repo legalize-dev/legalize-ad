@@ -1,0 +1,22 @@
+---
+title: "Edicte de 20-11-96 pel qual s'ordena la publicació del Reglament regulador de la composició de la Comissió Nacional de Formació Professional"
+identifier: "BOPA-D-1996-8FDA"
+country: "ad"
+rank: "reglament"
+publication_date: "1996-11-26"
+last_updated: "1996-11-26"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/008078/Pagines/8FDA.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "1996-11-19"
+bopa_issue: "BOPA 78/1996"
+bopa_document_id: "8FDA"
+---
+# Edicte de 20-11-96 pel qual s'ordena la publicació del Reglament regulador de la composició de la Comissió Nacional de Formació Professional
+
+Edicte Per tal de donar compliment a allò que disposa l'article vintè, apartat b), de la Llei d'organització de l'Administració general, s'ordena la publicació del Reglament regulador de la composició de la Comissió Nacional de Formació Professional, aprovat pel Govern en la sessió del dia 20 de novembre de 1996.
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 20 de novembre de 1996 Marc Forné Molné Cap de Govern
+
