@@ -1,0 +1,122 @@
+---
+title: "Reglament Fira Concurs de Bestiar 1999, de 7-9-99"
+identifier: "BOPA-D-1999-1A4FE"
+country: "ad"
+rank: "reglament"
+publication_date: "1999-09-14"
+last_updated: "1999-09-14"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/011052/Pagines/1A4FE.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "1999-09-06"
+bopa_issue: "BOPA 52/1999"
+bopa_document_id: "1A4FE"
+---
+# Reglament Fira Concurs de Bestiar 1999, de 7-9-99
+
+Reglament de fira concurs de bestiar 1999
+
+### Capítol 1. Data
+
+##### Article 1
+
+La Fira concurs de bestiar boví, equí i oví, organitzada pel Departament d'Agricultura, sota la presidència de la seva ministra, amb la collaboració de l'Associació de Pagesos i Ramaders, tindrà lloc el dimecres 27 d'octubre de 1999, a Andorra la Vella.
+
+### Capítol 2. Condicions de participaciód'exposició
+
+##### Article 2
+
+El concurs roman obert a tots els ramaders o grups de ramaders de les valls d'Andorra que presentin animals de les característiques següents:
+
+Espécie Bovina Raça suïssa:
+
+1a secció. Vedelles fins a 5 mesos amuntanyades 2a secció. Vedells fins a 5 mesos amuntanyats 3a secció. Vedelles de 6 a 12 mesos amuntanyades 4a secció. Vedells de 6 a 12 mesos amuntanyats 5a secció. Vedelles de 6 a 12 mesos estabulades 6a secció. Vedells de 6 a 12 mesos estabulats 7a secció. Anolles, de 13 a 24 mesos 8a secció. Anolls, de 13 a 24 mesos 9a secció. Jònegues, de 25 a 36 mesos 10a secció. Mascles de més de 24 mesos 11a secció. Femelles de més de 36 mesos Bestiar creuat de xerolès 12a secció. Vedelles de 6 a 12 mesos amuntanyades 13a secció. Vedells de 6 a 12 mesos amuntanyats 14a secció. Vedelles de 6 a 12 mesos estabulades 15a secció. Vedells de 6 a 12 mesos estabulats Bestiar creuat de llemosí 16a secció. Vedelles de 6 a 12 mesos amuntanyades 17a secció. Vedells de 6 a 12 mesos amuntanyats 18a secció. Vedelles de 6 a 12 mesos estabulades 19a secció. Vedells de 6 a 12 mesos estabulats Bestiar creuat de frisó 20a secció. Vedelles de 6 a 12 mesos amuntanyades 21a secció. Vedells de 6 a 12 mesos amuntanyats 22a secció. Vedelles de 6 a 12 mesos estabulades 23a secció. Vedells de 6 a 12 mesos estabulats Espècie equina 24a secció. Equins de muntar o de sella 25a secció. Ponis i doble-ponis 26a secció. Sementals equins 27a secció. Terçons, nascuts la primavera del 95 28a secció. Terçones, nascudes la primavera del 95 29a secció. Parelles, eugues amb cries Espècie Ovina 30a secció. Conjunt d'ovelles 31a secció. Parella o trio 32a secció. Marrans
+
+##### Article 3
+
+S'entén per un cap de bestiar participant un animal sol per a les seccions 1a a 28a i 32a, o una parella, un trio o un conjunt per a les altres.
+
+Per a una secció determinada, s'accepta la participació d'un màxim de 3 caps de bestiar d'una mateixa explotació.
+
+Una secció de bovins o equins que no tingui la participació d'un mínim de 3 caps de bestiar de 2 propietaris diferents, queda deserta.
+
+##### Article 4
+
+Els animals participants han d'haver nascut al Principat o ser al país, amb règim definitiu, des de quatre mesos abans de celebrar-se el concurs. El propietari concursant els ha de tenir d'alta com a mínim un mes abans de la celebració de la fira. Es realitzarà la comprovació dels orígens dels animals (mitjançant les fitxes individuals, en el cas de bovins i equins).
+
+Fora de la participació al concurs i només a títol d'exposició, es pot presentar tot tipus de bestiar, tant del país com forà (s'admeten, doncs, ramaders estrangers).
+
+##### Article 5
+
+Els caps de bestiar participants han de ser reconeguts i admesos per una comissió designada pel Comitè Organitzador.
+
+##### Article 6
+
+Els animals presents a la fira poden ser venuts al recinte de la mateixa fira, durant la tarda del mateix dia.
+
+Capitol 3. Premis
+
+##### Article 7
+
+Per a cada secció d'animals bovins i equins:
+
+1r premi			40.000 PTA 2n premi			20.000 PTA 3r premi			15.000 PTA Per als animals ovins:
+
+1r premi de la secció 30a	40.000 PTA 1r premi de la secció 31a	20.000 PTA 1r premi de la secció 32a	15.000 PTA Tots els participants reben un distintiu commemoratiu.
+
+##### Article 8
+
+Es prima la participació a la fira concurs de la manera següent:
+
+5.000 PTA per cap de bestiar equí o boví fins a la quantitat de quatre caps de bestiar (és a dir, 20.000 PTA al ramader que dugui més de tres caps de bestiar boví i equí), 5.000 PTA per cada ramat o conjunt d'ovelles, 2.500 PTA per cada parella o trio, 1.000 PTA per cada marrà.
+
+Capitol 4. Transport
+
+##### Article 9
+
+Les despeses de transport dels animals participants, de la cort o de l'explotació fins al lloc de la fira, van a càrrec del Departament d'Agricultura amb presentació prèvia de factura. L'import està basat en el PTC (pes total en càrrega), per un viatge, anada i tornada:
+
+PTC fins a 2.000 kg		5.000 PTA PTC entre 2.001 i 6.000 kg	10.000 PTA PTC entre 6.001 i 10.000 kg	15.000 PTA PTC entre 10.001 i 20.000 kg	20.000 PTA PTC superior a 20.000 kg	25.000 PTA A la factura, s'hauran de detallar els viatges amb el lloc de càrrega, la matrícula del vehicle i l'hora d'arribada a la fira.
+
+Capitol 5. Declaració
+
+##### Article 10
+
+Per participar i/o exposar en aquesta fira concurs, la persona interessada ha d'adreçar, abans del divendres 15 d'octubre, una sollicitud d'inscripció degudament signada, al Departament d'Agricultura. En el cas de bovins i equins, s'han d'adjuntar les fitxes individuals corresponents.
+
+Aquestes sollicituds poden retirar-se al despatx del Departament d'Agricultura, edifici administratiu del Govern, segona planta.
+
+##### Article 11
+
+Es considera nulla tota declaració tramesa després de la data fixada a l'article 10, així com tota declaració illegible o incompleta.
+
+##### Article 12
+
+Les persones concursants són responsables de les seves declaracions i en particular de la indicació de les seccions dins de les quals han de concórrer els seus animals.
+
+La comissió designada pel Comitè Organitzador exclou del concurs els animals per als quals aquesta indicació sigui voluntàriament errònia. A tal aquest efecte, es pot realitzar el control de l'edat dels animals mitjançant la inspecció de les dents.
+
+Capitol 6. Recepció dels animals
+
+##### Article 13
+
+Els animals (excepte els ovins) han d'anar proveïts de dues cordes fortes, llargues i en bon estat. Els braus de més de 18 mesos han de portar una anella nasal o un "narigon".
+
+L'arribada dels animals s'efectua entre les 6 i les 9 hores del matí. Els animals han d'estar collocats a les 10 hores.
+
+### Capítol 7. Jurat
+
+##### Article 14
+
+El Jurat està format pels membres següents:
+
+un representant de la Comissió Legislativa d'Agricultura un veterinari de l'Estat francès un veterinari de l'Estat espanyol un veterinari del Departament d'Agricultura i, per a les seccions d'equins 24a i 25a, un representant de la Federació Andorrana d'Hípica i, per a les altres seccions, un representant de l'Associació de Pagesos i Ramaders
+
+##### Article 15
+
+No pot formar part del Jurat:
+
+un concursant un soci d'un concursant un patró, ramader o masover d'un concursant Els membres del Jurat solament poden exposar animals.
+
+Andorra la Vella, 7 de setembre de 1999 Marc Forné Molné Cap de Govern
+
