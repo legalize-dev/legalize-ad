@@ -1,0 +1,425 @@
+---
+title: "Decret pel qual s'aprova el Reglament d'ajuts a l'estudi, del 4-6-2003"
+identifier: "BOPA-D-2003-2ECBA"
+country: "ad"
+rank: "reglament"
+publication_date: "2003-06-04"
+last_updated: "2003-06-04"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/015049/Pagines/2ECBA.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "2003-06-03"
+bopa_issue: "BOPA 49/2003"
+bopa_document_id: "2ECBA"
+bopa_extra: "true"
+---
+# Decret pel qual s'aprova el Reglament d'ajuts a l'estudi, del 4-6-2003
+
+Decret pel qual s'aprova el Reglament d'ajuts a l'estudi Exposició de motius Després de l'aplicació del Reglament d'ajuts a l'estudi publicat al Butlletí Oficial del Principat d'Andorra número 57 (any 14), del 26 de juliol del 2002, s'ha fet palesa la necessitat de millorar-ne el contingut.
+
+El Govern té la voluntat d'ajudar els joves del Principat d'Andorra a accedir als nivells més alts de formació possibles segons les capacitats de cadascú. Amb aquesta finalitat, el dia 28 de juny del 2002 el Consell General va aprovar la Llei d'ajuts a l'estudi. Amb aquest text es posa en funcionament un sistema eficaç i just que té com a objectiu primer oferir als joves amb menys recursos econòmics les mateixes possibilitats d'accés a l'educació.
+
+La situació descrita constata que el desenvolupament social i econòmic d'Andorra a l'inici d'aquest nou segle es fonamenta en una millor formació dels ciutadans.
+
+La disposició final primera de la Llei esmentada autoritza el Govern a desenvolupar-ne l'aplicació per via reglamentària.
+
+A més aquest Reglament desenvolupa altres articles de la Llei d'ajuts a l'estudi com ara els referents als mòduls d'aplicació del barem de cada criteri de valoració per tal de marcar els nivells de renda i de patrimoni necessaris per poder obtenir un ajut públic, ja sigui una beca, ja sigui un crèdit o un premi nacional, així com els criteris acadèmics necessaris.
+
+A proposta del ministre d'Educació, Joventut i Esports, el Govern, en la sessió del 4 de juny del 2003, Decreta
+
+##### Article únic
+
+S'aprova el Reglament d'ajuts a l'estudi, que entra en vigor l'endemà de ser publicat al Butlletí Oficial del Principat d'Andorra.
+
+Reglament d'ajuts a l'estudi
+
+### Capítol I. Disposicions comunes
+
+##### Article 1
+
+Objecte L'objecte d'aquest Reglament és fer el desplegament reglamentari de la Llei d'ajuts a l'estudi del 28 de juny de 2002, i, consegüentment, concretar els procediments i criteris específics que han de regir l'atorgament d'aquests ajuts.
+
+##### Article 2
+
+La residència a Andorra i la situació familiar del sol·licitant 1. Als efectes de la normativa reguladora del sistema d'ajuts a l'estudi, es considera que una persona estrangera està legalment establerta a Andorra quan ella o un dels seus pares o tutors o ambdós, si és menor d'edat, són titulars d'una autorització de residència i treball vigent.
+
+2. Als efectes d'aquest Reglament es considera que el sol·licitant d'un ajut a l'estudi no forma part de la unitat familiar dels seus pares o tutors quan és major d'edat i s'acredita fefaentment que resideix de forma habitual fora de la llar dels pares o tutors; inicialment aquesta circumstància la verifica d'ofici el ministeri competent en matèria educativa. Això no obstant, es pot instar el sol·licitant a aportar documentació complementària quan les dades obtingudes d'ofici no corroborin les manifestacions contingudes a la petició d'ajut; en aquest cas cal aportar certificat de convivència del Comú corresponent o, si el domicili dels pares o tutors i el de l'estudiant són en parròquies diferents, és necessària l'acreditació coincident d'ambdós comuns.
+
+##### Article 3
+
+Situació econòmica del sol·licitant Als efectes dels ajuts a l'estudi, regulats per la Llei del 28 de juny del 2002 i per aquest Reglament, es considera que la família d'un sol·licitant o aquest es troben en una situació socioeconòmica precària si el conjunt dels ingressos, calculats segons es disposa als articles següents, se situen per sota dels llindars que es determinin en cada convocatòria anual d'ajuts a l'estudi. També s'inclouen en aquest supòsit els sol·licitants la família dels quals tingui la consideració de família desestructurada, circumstància que s'aprecia mitjançant informe social raonat dels treballadors socials del ministeri competent en matèria de benestar social.
+
+##### Article 4
+
+Càlcul de les distàncies a efectes dels ajuts d'estudis Als efectes de determinar els imports econòmics dels ajuts a l'estudi que incorporin el concepte de desplaçament es tindrà en compte la distància existent entre Andorra la Vella i la població de l'estranger on s'ubiqui el centre docent de destinació.
+
+##### Article 5
+
+Supòsits d'abandonament d'estudis i de progressió insuficient 1. Als efectes del que preveu la normativa reguladora dels ajuts a l'estudi, es considera que un beneficiari ha abandonat els estudis que motivaren l'atorgament de l'ajut quan no es presenti a tots els exàmens del curs corresponent o no es matriculi per al curs següent.
+
+2. Als efectes del que preveu la normativa reguladora dels ajuts a l'estudi, es considera que un beneficiari d'un ajut a l'estudi progressa de forma insuficient quan:
+
+a) En ensenyaments no universitaris, l'alumne no obté les condicions acadèmiques mínimes per passar al curs següent.
+
+b) En ensenyaments universitaris i assimilats presencials:
+
+b.1) Per als plans estructurats en assignatures (plans no renovats) o unitats d'ensenyaments: l'alumne no es matricula a la totalitat de les assignatures del curs o, havent-ho fet, no les aprova.
+
+b.2) Per als plans renovats: l'alumne no es matricula a la totalitat dels crèdits que resultin de dividir el nombre total de crèdits de la carrera, llevat dels de lliure elecció i del projecte de fi de carrera si escau, pel nombre de cursos acadèmics o, havent-ho fet, no els aprova.
+
+c) En ensenyaments universitaris i assimilats no presencials, l'alumne no es matricula a un mínim de tres assignatures o a trenta-sis crèdits anyals o, havent-ho fet, no els aprova.
+
+No obstant els punts anteriors, a instància del beneficiari i als efectes del manteniment de l'ajut, el ministeri competent en matèria educativa pot considerar les circumstàncies específiques de l'historial acadèmic quan es tracti de primers cursos que tinguin la consideració de selectius.
+
+Als efectes de la normativa reguladora dels ajuts a l'estudi, el curs d'accés a la universitat es considera un sol curs acadèmic i té el tractament de primer curs del primer cicle universitari.
+
+d) El ministre competent en matèria d'ensenyament proposarà al Govern la modificació dels criteris establerts en aquests apartats a fi d'ajustar-los a l'evolució dels plans d'estudi acadèmics.
+
+3. Els alumnes beneficiaris d'una beca per a ensenyaments universitaris i assimilats només poden allargar la durada del seu ajut un any més respecte de la durada que per al primer cicle d'aquests estudis superiors estigui establerta oficialment o recomanada per la universitat o escola superior corresponent.
+
+4. Els supòsits d'incapacitat a què fa referència la normativa reguladora dels ajuts a l'estudi s'han d'acreditar mitjançant certificació mèdica emesa per un facultatiu autoritzat a exercir la professió mèdica a Andorra.
+
+5. No obstant els apartats anteriors, una persona beneficiària d'un ajut a l'estudi per a ensenyaments postobligatoris pot efectuar un canvi d'estudis, sense perdre l'ajut, sempre que aquest canvi s'efectuï immediatament després d'acabar el primer curs dels estudis precedents i quan la persona beneficiària reuneixi les condicions acadèmiques per considerar que ha progressat de forma suficient en aquest primer curs, sempre que no hagi incorregut en un dels supòsits establerts en l'article 5.2 d'aquest Reglament.
+
+##### Article 6
+
+Règim de disponibilitat dels imports econòmics dels ajuts a l'estudi 1. En ensenyaments no universitaris, llevat de la formació professional i el batxillerat, els pagaments s'han d'efectuar en un sol lliurament, a l'inici de curs acadèmic, durant el primer trimestre.
+
+2. En ensenyaments universitaris i assimilats, i en la formació professional i en el batxillerat cursats a l'estranger, els pagaments s'efectuen en tres lliuraments, un a l'inici del curs acadèmic, durant el primer trimestre, i els altres dos durant la resta del curs. Queden exceptuats d'aquesta regla els crèdits per al pagament de la matrícula, que es paguen en un sol lliurament durant els dos primers mesos del curs acadèmic.
+
+### Capítol II. De les beques
+
+##### Article 7
+
+Estudis pels quals es poden rebre beques Només pot justificar la sol·licitud d'atorgament d'una beca de les regulades als articles 11, 12, 13 i 14 de la Llei d'ajuts a l'estudi el fet de cursar estudis que es corresponguin amb un pla d'estudis o un currículum aprovat per l'autoritat competent en el país on es realitzen i al final dels quals s'obtingui un títol amb validesa acadèmica a Andorra.
+
+##### Article 8
+
+Especificitats d'altres estudis pels quals es poden rebre beques 1. Per als ensenyaments preuniversitaris realitzats a Andorra només poden sol·licitar beques els alumnes que cursin els estudis en centres públics.
+
+2. Les modalitats dels ensenyaments secundaris i de batxillerat dels sistemes educatius oficials que no s'imparteixin en centres públics d'Andorra s'assimilen, als efectes d'atorgament de beques, als ensenyaments de formació professional a l'estranger regulats per l'article 11 de la Llei d'ajuts a l'estudi.
+
+##### Article 9
+
+Criteris de compatibilitat de les beques atorgades per l'Administració andorrana En els ensenyaments on estigui previst el tipus denominat beca íntegra, no és possible l'obtenció de tot el conjunt de la resta de beques, ja que aquest conjunt configura precisament la beca íntegra.
+
+##### Article 10
+
+Alumnes amb necessitats educatives especials 1. El ministeri competent en matèria educativa pot indicar, mitjançant el dictamen oficial oportú de la Comissió Nacional de Valoració (CONAVA), que un alumne ha de ser escolaritzat en un tipus de centre especialitzat que no existeixi al Principat.
+
+2. L'escolarització a l'estranger d'alumnes amb necessitats educatives especials de nivells preobligatoris i obligatoris s'efectua necessàriament en centres docents d'Espanya o de França, d'acord amb les indicacions que s'estableixin al dictamen oficial de la Comissió Nacional de Valoració.
+
+##### Article 11
+
+Sistema d'acreditació de l'import del preu del servei de menjador escolar 1. El ministeri competent en matèria educativa comunica als centres docents respectius la relació dels alumnes que siguin beneficiaris d'una beca de menjador escolar, per tal que l'òrgan gestor del servei de cada centre docent acrediti, mitjançant certificació, l'import del preu d'aquest servei per a tot el curs escolar corresponent.
+
+El ministeri competent en matèria educativa transfereix directament a l'òrgan gestor del servei de cada centre docent els imports de les beques de menjador escolar dels alumnes beneficiaris que tingui escolaritzats.
+
+2. Els beneficiaris d'un ajut de menjador escolar que cursin formació professional en centres que no disposin de servei de menjador escolar perceben un import fix, que el Govern determina per a cada curs acadèmic.
+
+##### Article 12
+
+Condicions per a l'atorgament de les beques d'esquí Les beques d'esquí només s'atorguen als alumnes de nivells obligatoris que presentin una situació socioeconòmica especialment precària. Aquesta circumstància familiar és valorada pels treballadors socials del ministeri competent en matèria de benestar social, mitjançant l'expedició d'una valoració social que sol·licita el ministeri competent en matèria educativa en el decurs de la tramitació de les sol·licituds corresponents.
+
+La valoració social ha de ser emesa en el termini màxim de 15 dies hàbils des que sigui sol·licitada.
+
+##### Article 13
+
+Condicions per a l'atorgament de les beques íntegres Quan el sol·licitant pertanyi a una família que presenti una situació socioeconòmica especialment precària pot ser beneficiari d'una beca íntegra. El ministeri competent en matèria de benestar social, mitjançant un informe social, valora la situació socioeconòmica tenint en compte, entre d'altres, els antecedents en l'àmbit de l'assistència social, el nombre de membres que componen la unitat familiar, la situació laboral i qualsevol altre aspecte que sigui necessari per emetre l'informe.
+
+L'atorgament en anualitats successives de beques íntegres a un alumne o l'atorgament d'aquest tipus d'ajuts a germans de la mateixa família requereix l'avaluació anyal de les circumstàncies de l'entorn econòmic i familiar.
+
+##### Article 14
+
+Sistema d'acreditació de la matriculació en un centre docent, de la superació de les proves d'accés i dels imports de les matrícules dels centres docents 1. Per accedir a l'import d'un ajut d'estudi per a ensenyaments postobligatoris, el beneficiari ha d'acreditar que efectivament s'ha matriculat en el centre docent on ha de cursar els seus estudis; aquesta matriculació ha de ser per la totalitat d'assignatures, matèries o crèdits que componen el curs acadèmic, segons es detalla a l'apartat 2.b de l'article 5 d'aquest Decret; a aquest efecte ha d'aportar al ministeri competent en matèria educativa el document original d'aquesta matriculació i, quan sigui el cas, el certificat acadèmic que acrediti haver superat les proves d'accés corresponents. El ministeri competent en matèria educativa n'ha de guardar una còpia autenticada i retornar l'original a la persona interessada.
+
+2. Als efectes de la Llei d'ajuts a l'estudi, quan els alumnes hagin d'acreditar els imports de les matrícules dels centres docents, ho han de fer presentant al ministeri competent en matèria educativa el rebut original, expedit pel centre docent, on consti de forma expressa i detallada l'import i la data en què ha estat abonat.
+
+La percepció de la quantitat econòmica de les beques d'estudi que cobreixin la totalitat o part de l'import de la matrícula real de l'alumne beneficiari, queda supeditada a la justificació del pagament d'acord amb el que s'exposa al paràgraf anterior. El ministeri competent en matèria educativa n'ha de guardar una còpia autenticada i retornar l'original a la persona interessada.
+
+##### Article 15
+
+Sistema de justificació de la destinació de l'import de material escolar És requisit indispensable per poder percebre l'import de les beques de material escolar, la justificació prèvia i correcta de la destinació de l'import atorgat.
+
+Aquesta justificació s'efectua, davant del ministeri competent en matèria educativa, mitjançant l'aportació dels rebuts originals del material escolar adquirit aquell curs pel beneficiari. Aquest tràmit s'ha d'efectuar a l'inici del curs escolar, durant els dos primers mesos.
+
+##### Article 16
+
+Sistema de determinació de l'import de les beques d'estudis per a centres situats a l'estranger El Govern estableix anualment l'import màxim de les beques d'estudis per a ensenyaments impartits a l'estranger d'acord amb la proposta que li formula el ministeri competent en matèria educativa. Aquesta proposta s'efectua a partir dels imports reals de les matrícules dels centres docents de titularitat pública d'Espanya i de França. Els centres que s'hagin tingut en compte per a la determinació dels imports es relacionen en la convocatòria anual.
+
+A proposta del ministeri competent en matèria educativa, el Govern pot modificar els àmbits nacionals objecte de consideració, d'acord amb l'evolució futura de la destinació dels estudiants universitaris andorrans a l'estranger.
+
+##### Article 17
+
+Sistema de determinació de l'import de les beques de residència 1. El Govern estableix en la convocatòria anual l'import màxim de les beques de residència a l'estranger d'acord amb la proposta que li formula el ministeri competent en matèria educativa. Aquesta proposta s'efectua a partir dels imports reals de les residències d'estudiants més freqüentades pels joves andorrans a Espanya i a França.
+
+A proposta del ministeri competent en matèria educativa, el Govern pot modificar els àmbits territorials objecte de consideració, d'acord amb l'evolució futura de la destinació dels estudiants universitaris andorrans a l'estranger.
+
+2. Les beques de residència dels alumnes d'ensenyaments postobligatoris amb necessitats educatives especials derivades de deficiències psíquiques, físiques o sensorials escolaritzats a l'estranger, poden ser incrementades amb un import màxim, que fixa anualment el Govern, destinat a cobrir el cost del desplaçament habitual entre el domicili de residència i el centre docent. Aquest increment ha de ser proposat per un informe social raonat emès pels treballadors socials del ministeri competent en matèria de benestar social.
+
+3. En supòsits excepcionals, i tractant-se d'alumnes amb necessitats educatives especials derivades de deficiències psíquiques o sensorials, el concepte de residència pot ser substituït pel de pis compartit. En aquest cas, l'informe social raonat emès pels treballadors socials del ministeri competent en matèria de benestar social que recomani aquest canvi proposa l'import que hauria de substituir l'import ordinari de la beca; l'import definitiu de la beca es determina en la resolució que l'atorgui.
+
+##### Article 18
+
+Supòsits en què es pot atorgar una beca salari Les beques salari només s'atorguen en aquells supòsits en què l'informe social emès pels treballadors socials del ministeri competent en matèria de benestar social constati, de forma raonada, que aquest ingrés és ineludible per al sosteniment de la família de l'estudiant. L'informe avalua la situació econòmica i familiar, tenint en compte, entre altres, els seus antecedents en l'àmbit de l'assistència social, el nombre de membres que componen la unitat familiar, la seva situació laboral i clínica i el nivell acadèmic i professional dels seus membres, els ajuts econòmics de qualsevol ordre percebuts per la família i les possibilitats de millora de la situació laboral i econòmica dels seus membres. La proposta d'import serà resultat d'aquesta avaluació, que ha de ser inclosa a l'informe social.
+
+L'informe social esmentat al paràgraf anterior és sol·licitat pel ministeri competent en matèria educativa i li ha de ser lliurat en el termini màxim d'un mes.
+
+##### Article 19
+
+Criteris per a l'atribució total o parcial d'una beca Les beques per a ensenyaments postobligatoris poden ser atorgades de forma total o parcial, d'acord amb els percentatges que anualment fixi el Govern. Els criteris per a l'atorgament d'una beca en una o altra modalitat es concreten anualment en la convocatòria corresponent quan es prevegi l'atorgament de beques parcials.
+
+Per determinar si les sol·licituds pertanyen al grup de beques amb import total o al grup de beques amb imports parcials es poden establir nivells màxims de renda i de patrimoni per a cada grup, o bé nivells màxims de punts, obtinguts en aplicació del barem per a cada tipus de grup.
+
+Els barems d'atribució de punts per als criteris personals, familiars, d'expedient acadèmic i els corresponents als apartats a), b), c), d) i e) dels criteris econòmics, segons es detalla a l'annex I d'aquest Reglament, s'han de fixar només quan es prevegi l'atorgament parcial de beques. En aquestes convocatòries s'aplica el barem a totes les sol·licituds a fi d'ordenar-les en funció dels punts obtinguts.
+
+##### Article 20
+
+Sistema d'acreditació dels membres de la unitat familiar 1. Els components d'una unitat familiar s'estableixen segons la declaració jurada que efectua el sol·licitant, sens perjudici de les facultats de comprovació que corresponen al ministeri competent en matèria educativa. Això no obstant i dins del termini previst per a l'esmena de mancances de les sol·licituds, aquest ministeri pot demanar al sol·licitant l'aportació de documentació acreditativa del contingut de la seva declaració jurada.
+
+2. Si algun component de la unitat familiar té la condició d'estudiant l'ha d'acreditar el sol·licitant, mitjançant còpia autenticada dels fulls de matriculació corresponents, que ha d'adjuntar a la sol·licitud.
+
+3. Els membres de la unitat familiar discapacitats de segon i tercer grau, els inhabilitats per a l'activitat laboral i el cònjuge o la parella de fet o l'ascendent no jubilat que no tingui activitat laboral quan la família tingui tres o més fills menors d'edat a càrrec s'acrediten mitjançant certificació, segons correspongui, dels ministeris competents en matèria de benestar social o de salut, que ha d'aportar el sol·licitant en el moment de presentar la sol·licitud.
+
+##### Article 21
+
+Sistema d'acreditació de la responsabilitat de manteniment de tercers per part del sol·licitant d'un ajut a l'estudi La responsabilitat de manteniment de tercers per part d'un sol·licitant d'un ajut a l'estudi s'estableix segons la declaració jurada que efectua el mateix sol·licitant. El contingut d'aquesta declaració ha de ser corroborat per una valoració social efectuada pels treballadors socials del ministeri competent en matèria de benestar social, sens perjudici de les facultats de comprovació que corresponen al ministeri competent en matèria educativa. Això no obstant, i dins del termini previst per a l'esmena de mancances de les sol·licituds, el ministeri responsable de l'ensenyament pot demanar al sol·licitant l'aportació de documentació acreditativa del contingut de la seva declaració jurada.
+
+##### Article 22
+
+Supòsits d'inclusió del criteri de possessió de titulacions acadèmiques anteriors Si en una convocatòria d'ajuts a l'estudi per a nivells postobligatoris es preveu l'atorgament de beques amb imports parcials, es pot aplicar, d'acord amb l'article 19 anterior, el criteri de possessió d'una titulació acadèmica prèvia previst a l'article 17.4 de la Llei d'ajuts a l'estudi, de tal forma que els sol·licitants que no tinguin cap títol acadèmic de nivell postobligatori, amb les excepcions que preveu la mateixa Llei, tenen preferència sobre els que ja en tinguin.
+
+##### Article 23
+
+Mòduls d'aplicació del barem Els mòduls d'aplicació del barem de cada criteri de valoració són els que consten a l'annex I d'aquest Reglament.
+
+##### Article 24
+
+Fórmula per determinar els nivells màxims de renda i de patrimoni familiar 1. Nivells màxims de renda: a cada convocatòria anual es determina el percentatge sobre el salari mínim, amb valor anyal, i tenint en compte els membres de la unitat familiar, s'estableixen els llindars de renda per permetre l'accés a l'obtenció d'una beca.
+
+2. Nivells màxims de patrimoni: el valor de la suma de tots els punts obtinguts en aplicació del barem als apartats f), g) i h) dels criteris econòmics detallats a l'annex I, no pot ser inferior als llindars que es determinin en cada convocatòria anual.
+
+Es poden determinar nivells màxims específics per als diferents tipus d'ajut i per a cada nivell educatiu i país on es cursi.
+
+##### Article 25
+
+Fórmula de ponderació entre els criteris personals, familiars i econòmics i els acadèmics Quan per a l'establiment de l'ordre de prelació es tinguin en consideració criteris de tipus acadèmic, els valors obtinguts en aplicació dels criteris personals, familiars i econòmics, es ponderen de forma que signifiquin, en conjunt, el seixanta per cent del valor global atribuïble a la sol·licitud. El valor obtingut en aplicació dels criteris acadèmics es pondera de forma que signifiqui el quaranta per cent del valor global esmentat.
+
+A l'annex II d'aquest Reglament es detalla la fórmula de càlcul a emprar.
+
+### Capítol III. Dels crèdits
+
+##### Article 26
+
+Estudis pels quals es poden demanar crèdits d'estudis 1. Només pot justificar la sol·licitud d'atorgament d'un crèdit dels regulats als articles 21 i successius de la Llei d'ajuts a l'estudi el fet de cursar estudis universitaris i assimilats i de formació professional que es corresponguin amb un pla d'estudis o un currículum aprovat per l'autoritat competent en el país on es realitzen i al final dels quals s'obtingui un títol amb validesa acadèmica a Andorra.
+
+2. Els crèdits per als estudis de tercer cicle universitari s'atorguen per una durada màxima de quatre anys.
+
+3. Quan per accedir a un segon cicle universitari calgui superar prèviament i necessàriament un primer cicle determinat, als efectes dels crèdits d'estudi, es considera que formen un únic ensenyament. Per això, el beneficiari d'un crèdit en acabar el primer cicle, si reuneix els requisits acadèmics corresponents, pot sol·licitar al ministeri competent en matèria educativa el perllongament del crèdit atorgat a fi d'incloure-hi els cursos del segon cicle.
+
+##### Article 27
+
+Determinació de l'import del crèdit per al pagament de la matrícula 1. El Govern estableix anualment l'import del crèdit per al pagament de la matrícula d'acord amb la proposta que li formula el ministeri competent en matèria educativa. Aquesta proposta s'efectua a partir dels imports reals de les matrícules dels centres universitaris de titularitat pública d'Andorra, d'Espanya i de França. Aquest import queda supeditat a l'acreditació per part de l'estudiant de l'import real de la matrícula, que ha d'efectuar mitjançant la presentació d'una certificació del centre acadèmic al ministeri competent en matèria educativa.
+
+A proposta del ministeri competent en matèria educativa, el Govern pot modificar els àmbits nacionals objecte de consideració, d'acord amb l'evolució futura de la destinació dels estudiants universitaris andorrans a l'estranger.
+
+2. Malgrat el que estableix l'apartat anterior, es poden atorgar crèdits per al pagament de la matrícula d'imports superiors si el sol·licitant ho justifica convenientment i es correspon a un ensenyament que sigui d'interès per al sistema econòmic, social o cultural andorrà, o s'imparteix en un centre universitari d'unes característiques pròpies prou rellevants perquè justifiqui que un estudiant andorrà hi cursi els estudis. En aquests supòsits, la decisió que s'adopti serà motivada i raonada pel ministeri competent en matèria educativa que determina l'import d'aquests crèdits en la resolució d'atorgament.
+
+##### Article 28
+
+Determinació de l'import del crèdit d'estudis El Govern estableix anualment l'import del crèdit d'estudis d'acord amb la proposta que li formula el ministeri competent en matèria educativa. Aquesta proposta ha de cobrir els imports següents:
+
+1. Els imports reals de les matrícules dels centres universitaris o, si escau, de formació professional de titularitat pública d'Andorra, d'Espanya i de França.
+
+2. Els imports reals de les residències d'estudiants més sol·licitades pels joves andorrans a Espanya i a França 3. Un import fix per concepte de desplaçament, calculat segons el preu del transport públic entre Andorra la Vella i les ciutats de destí més habituals de les compreses dins dels territoris considerats per al càlcul dels imports de les matrícules.
+
+4. Un import fix pels conceptes de material acadèmic i de manutenció.
+
+El ministeri competent en matèria educativa pot modificar els àmbits territorials objecte de consideració, d'acord amb l'evolució futura de la destinació dels estudiants universitaris andorrans a l'estranger.
+
+##### Article 29
+
+Requisits per a la disposició dels imports dels crèdits d'estudis 1. Per accedir a la primera anualitat d'un crèdit d'estudis, el beneficiari ha d'acreditar que efectivament s'ha matriculat en el centre docent on hagi de cursar els estudis; a aquest efecte ha d'aportar al ministeri competent en matèria educativa el document original d'aquesta matriculació i, quan sigui el cas, el certificat acadèmic que acrediti haver superat les proves d'accés corresponents. El ministeri competent en matèria educativa en guarda una còpia autenticada i retorna l'original a la persona interessada.
+
+2. Per accedir a la segona i a les anualitats successives d'un crèdit d'estudis, el beneficiari ha d'acreditar que progressa de forma suficient en els seus estudis, per la qual cosa ha d'haver-se matriculat en el nombre mínim d'assignatures o de crèdits que estableix l'apartat 2 de l'article 5 anterior i n'ha de superar, com a mínim, el vuitanta per cent. Aquesta acreditació s'efectua davant el ministeri competent en matèria educativa a l'inici de cada nou curs acadèmic, mitjançant l'aportació d'un certificat acadèmic expedit pel centre universitari on estigui matriculat l'estudiant.
+
+##### Article 30
+
+Perllongament del període de cobertura dels crèdits d'estudis Si el contracte del crèdit d'estudis ho preveu, el beneficiari d'un crèdit d'estudis pot sol·licitar de forma raonada al ministeri competent en matèria educativa que li perllongui el període de cobertura. Aquest perllongament només es concedeix en els supòsits excepcionals que no s'hagin finalitzat els estudis que s'estiguin cursant i que de l'anàlisi de l'expedient acadèmic de l'alumne se'n pugui deduir que amb el perllongament sol·licitat li serà possible finalitzar-los completament.
+
+##### Article 31
+
+Període de devolució dels crèdits d'estudis 1. Els contractes dels crèdits concreten les dates i els imports de la devolució del crèdit atorgat, que es regeix per les pràctiques usuals d'aquest tipus de productes financers. El Govern ha d'aprovar els models de contracte dels crèdits d'estudis i n'ha de ratificar la vigència, o actualitzar-los, en ocasió de l'aprovació anual dels imports dels diferents ajuts a l'estudi.
+
+2. En el supòsit d'incapacitat transitòria greu, acreditada mitjançant certificació mèdica emesa per un facultatiu acreditat per a l'exercici de la professió mèdica a Andorra, el Govern, a proposta del ministeri competent en matèria educativa, pot aprovar un perllongament del període ordinari de devolució del crèdit.
+
+Aquest perllongament s'ha d'ajustar a les previsions que estableixi el contracte de crèdit i no pot suposar cap recàrrec financer per al beneficiari, més enllà de l'aplicació dels interessos corresponents. El perllongament del període de devolució dels crèdits d'estudis no pot sobrepassar en cap cas 24 mesos sobre el període ordinari.
+
+##### Article 32
+
+Abandonament dels estudis Ultra el que preveu l'article 5 d'aquest Reglament, quan un estudiant beneficiari d'un crèdit d'estudis els abandoni de forma definitiva per causa d'una incapacitat permanent sobrevinguda amb posterioritat a la data d'inici dels estudis, el Govern, a proposta del ministeri competent en matèria educativa, pot condonar, a petició expressa del sol·licitant, la devolució del crèdit. Per a aquesta decisió es té en compte la situació econòmica i familiar de l'estudiant, i a aquests efectes se li pot sol·licitar la documentació que s'estimi pertinent, d'acord amb els criteris que es recullen a la normativa reguladora dels ajuts a l'estudi per a l'atorgament de les beques.
+
+##### Article 33
+
+Interessos dels crèdits d'estudi Conjuntament amb la determinació anual dels imports dels ajuts a l'estudi, el Govern fixa el tipus d'interès que s'aplica als crèdits que es concedeixin aquell any, d'acord amb l'article 25 de la Llei d'ajuts a l'estudi.
+
+##### Article 34
+
+Aplicació dels criteris de selecció dels beneficiaris de les beques als crèdits d'estudis Si una convocatòria per a l'atorgament de crèdits d'estudis es fa amb càrrec al pressupost de l'Estat o en d'altres supòsits de disponibilitat limitada de recursos econòmics per a aquests ajuts, el ministeri competent en matèria educativa, en el moment d'obrir la convocatòria, estableix la necessitat d'aportar la mateixa documentació que s'exigeix per a les beques.
+
+Els criteris de selecció són, en els supòsits del paràgraf anterior, els establerts per a les beques.
+
+##### Article 35
+
+Criteris per a l'accés als crèdits preferents d'estudis 1. En ocasió de l'aprovació anual dels imports dels diferents tipus d'ajuts a l'estudi, el Govern estableix el nombre de crèdits preferents d'estudi per a aquella convocatòria i el percentatge que se subvenciona dels interessos d'aquests crèdits.
+
+2. Poden accedir a aquest tipus de crèdits els estudiants procedents del batxillerat o de la formació professional de grau superior o estudis equivalents del sistema educatiu francès que presentin un expedient acadèmic que acrediti, com a mínim, haver obtingut en els nivells preuniversitaris dels sistemes andorrà o espanyol una nota mitjana ponderada igual o superior a 7 o, pel que fa al sistema educatiu francès, una nota mitjana igual o superior a 14. Si el nombre de sol·licituds és superior al nombre de crèdits a atorgar, es prioritzen les sol·licituds amb més mèrits acadèmics en ordre decreixent.
+
+3. Aquests estudiants poden mantenir aquest tipus de finançament durant tots els seus estudis, inclosos els de tercer grau o assimilats, mentre aprovin totes les matèries o crèdits en les convocatòries o processos d'avaluació corresponents. Aquestes circumstàncies s'acrediten davant el ministeri competent en matèria educativa a l'inici de cada nou curs acadèmic, mitjançant l'aportació d'un certificat acadèmic expedit pel centre universitari on estigui matriculat l'estudiant.
+
+4. Si un beneficiari d'aquests crèdits no obté els resultats mínims exigits per al seu manteniment, pot continuar la resta dels estudis que estigui cursant emparat per un crèdit d'estudis ordinari i, a partir d'aquesta transformació del tipus de crèdit, els interessos que se li aplicaran seran els que li corresponguin d'acord amb el nou tipus d'ajut a l'estudi.
+
+### Capítol IV. Dels premis nacionals a l'estudi i dels altres ajuts
+
+##### Article 36
+
+Procediment d'atorgament dels premis nacionals a l'estudi 1. Abans d'acabar el període lectiu de cada curs escolar, el ministre competent en matèria d'ensenyament s'adreça als organismes tutelars dels tres sistemes educatius oficials a Andorra i els sol·licita que li proposin el nom de l'alumne de batxillerat del sistema respectiu que, pels seus mèrits acadèmics, considerin que és mereixedor de rebre el premi nacional a l'estudi de la seva promoció.
+
+Aquesta sol·licitud ha de ser resposta abans no transcorrin quinze dies des de l'acabament del període lectiu esmentat. Les propostes han d'anar acompanyades de la relació íntegra dels alumnes que aquell curs finalitzen els estudis de batxillerat i d'un informe justificatiu dels mèrits que concorrin en el candidat.
+
+Els estudiants proposats han d'haver obtingut, de mitjana ponderada en tot el batxillerat, una nota igual o superior a 9 quan provinguin del sistema educatiu andorrà o del sistema educatiu espanyol i "mention très bien" quan provinguin del sistema educatiu francès.
+
+2. Rebudes les propostes, el ministeri les analitza i avalua i, per conèixer millor les propostes rebudes, pot sol·licitar que se li ampliï la informació lliurada. Els responsables acadèmics ho han de fer en un termini no superior a 10 dies hàbils des que rebin la sol·licitud.
+
+3. Si un organisme tutelar formula una proposta que comprengui més d'un alumne ateses les similituds de mèrits acadèmics, el ministeri articula una prova específica de selecció entre aquests candidats. Aquesta prova ha de ser objectiva i referida exclusivament a continguts curriculars del programa oficial del sistema educatiu corresponent.
+
+4. El ministre competent en matèria d'ensenyament resol sobre l'atorgament dels premis nacionals a l'estudi, mitjançant resolució que es publica al Butlletí Oficial del Principat d'Andorra, i els lliura als guardonats abans que no finalitzi el mes d'agost de l'any corresponent.
+
+##### Article 37
+
+Programa d'ajuts extraordinaris Si, un cop resoltes les sol·licituds d'ajuts a l'estudi per a un curs iniciat, el ministeri competent en matèria de benestar social esdevé coneixedor que la correcta escolarització d'algun alumne de nivells educatius obligatoris o preobligatoris pot quedar compromesa per causes atribuïbles a la situació socioeconòmica de la seva família, sempre que aquesta situació s'hagi produït amb posterioritat al tancament del període de sol·licituds d'ajuts a l'estudi, pot proposar, mitjançant informe social raonat, l'atorgament d'un ajut extraordinari que ha de ser de característiques idèntiques a les establertes per a les beques previstes per als nivells educatius esmentats en la Llei d'ajuts a l'estudi i en aquest Reglament.
+
+La proposta d'atorgament ha d'identificar el tipus de beca assimilable i el període del curs escolar que cobreix l'ajut proposat. L'atorgament, si correspon, es fa identificant el tipus d'ajut que s'atorga i detallant-ne l'import, que es correspon amb el període de curs escolar que s'hagi justificat a la proposta d'atorgament.
+
+##### Article 38
+
+Atorgament de beques en situacions de caràcter excepcional Sense que pugui anar en detriment dels drets a l'obtenció d'un ajut a l'estudi que tinguin els alumnes compresos en l'àmbit d'aplicació de la Llei d'ajuts a l'estudi, el ministeri competent en matèria de benestar social pot proposar que s'admetin a tràmit, tant en el període de sol·licitud ordinària com en els supòsits previstos a l'article anterior, peticions d'ajuts a l'estudi adreçades a alumnes que visquin al territori andorrà, encara que no compleixin els requisits dels apartats a i b de l'article 3.1 de la Llei d'ajuts a l'estudi. Aquests alumnes o, quan sigui el cas, les seves famílies, han de complir la resta de requisits exigits per ser mereixedors de les beques corresponents.
+
+L'informe social ha de ser raonat i ha de basar-se en motius d'interès social clars molt justificats.
+
+##### Article 39
+
+Criteris de compatibilitat dels ajuts a l'estudi atorgats per l'Administració andorrana amb la concessió d'ajuts per terceres entitats 1. Amb caràcter general, les beques atorgades per l'Administració andorrana són incompatibles amb la concessió d'altres ajuts, de característiques similars, per part de terceres entitats.
+
+Quan a un alumne li hagi estat atorgada una beca per una institució diferent de l'Administració andorrana, ho ha de fer constar en la seva sol·licitud de beca.
+
+Quan aquest atorgament es produeixi amb posterioritat a la presentació de la seva sol·licitud, ho ha de posar en coneixement del ministeri competent en matèria educativa, abans que no transcorri un mes des de la data de l'atorgament.
+
+L'incompliment d'aquestes obligacions comporta la pèrdua de l'ajut atorgat per l'Administració andorrana i l'obligació de retornar els imports percebuts.
+
+2. Si l'ajut concedit per la institució tercera és d'import inferior al de la beca sol·licitada al ministeri competent en matèria educativa o atorgada per aquest, s'admet la compatibilitat dels dos ajuts i la beca oficial andorrana és d'un import igual a la diferència entre el que li hagués correspost en una situació ordinària i el de l'ajut atorgat per tercers.
+
+En els altres supòsits l'atorgament d'un ajut per part d'una institució tercera fa impossible l'atorgament d'una beca per part de l'Administració andorrana.
+
+3. Els crèdits d'estudi s'exceptuen del règim d'incompatibilitats, llevat del supòsit que s'atorguin amb càrrec al pressupost de l'Estat; en aquest cas els seran aplicables les regles dels apartats anteriors.
+
+### Capítol V. De la verificació de les dades de les sol·licituds
+
+##### Article 40
+
+Procés de verificació de les dades durant la tramitació de les sol·licituds El ministeri competent en matèria educativa tramita i valora les sol·licituds d'ajuts a l'estudi d'acord amb el que consti a les declaracions jurades dels sol·licitants i a les certificacions i altres documents expedits per entitats privades o pels centres docents que acompanyin la sol·licitud, als informes de les altres administracions públiques andorranes i els documents que s'incorporin a l'expedient i a les informacions que constin prèviament a la mateixa Administració educativa d'acord amb la Llei d'ajuts a l'estudi i amb aquest Reglament.
+
+##### Article 41
+
+Procés de verificació de les dades després de la resolució de les convocatòries Una vegada resolta la convocatòria, quan el ministeri competent en matèria educativa faci la revisió de les dades, si s'observen possibles errors, ocultació o falsejament de dades, s'ha de procedir a la instrucció de l'expedient corresponent, en què s'ha de donar audiència a la persona interessada. Si de la instrucció se'n conclou que les dades eren correctes o que, en cas de constatar-se algun error, s'ha corregit i que aquesta correcció no altera el dret a l'obtenció de l'ajut a l'estudi, es procedeix a arxivar les actuacions. Per contra, si de la instrucció de l'expedient se'n deriva un possible falsejament o ocultació de dades, s'ha de resoldre l'expedient amb la remissió de les actuacions a l'autoritat judicial, per tal que substanciï el procediment oportú.
+
+#### Disposició addicional
+
+Els beneficis de la Llei d'ajuts a l'estudi i d'aquest Reglament s'apliquen als estudiants de nacionalitat estrangera no inclosos a l'article 3.1 de la Llei, d'acord amb els tractats internacionals subscrits pel Principat d'Andorra o en funció del principi de reciprocitat.
+
+#### Disposició transitòria
+
+Els crèdits d'estudis atorgats d'acord amb la normativa anterior a la Llei d'ajuts a l'estudi segueixen regint-se per la normativa que els era aplicable en el moment del seu atorgament.
+
+#### Disposició derogatòria
+
+Queda derogat el Reglament d'ajuts a l'estudi publicat al Butlletí Oficial del Principat d'Andorra número 57 (any 14), del 26 de juliol del 2002.
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 4 de juny del 2003 Marc Forné Molné Cap de Govern
+
+#### Annex I
+
+Mòduls d'aplicació del barem Conceptes a valorar (els criteris 1, 2 i 4 i els apartats a), b), c), d) i e) del criteri 3 només s'apliquen en els supòsits d'atorgament de beques parcials) 1. Criteris personals a) Haver estat becari el curs anterior b) Ser orfe de pare i mare c) Ser discapacitat 2) Criteris familiars a) Nombre de membres de la unitat familiar:
+
+a.1) progenitors o tutors:
+
+a.1.1) pare i mare, o pare o mare i la seva parella de fet, o tutor i el seu cònjuge o parella de fet a.1.2) pare o mare o tutor solters, separats, divorciats o vidus i sense parella de fet o nou cònjuge (família monoparental) a.2) el sol·licitant a.3) germans menors de 25 anys no assalariats:
+
+a.3.1) 1 germà a.3.2) 2 germans a.3.3) 3 germans o més a.4) parents majors d'edat discapacitats:
+
+a.4.1) 1 parent a.4.2) 2 parents o més a.5) ascendents dels pares que convisquin amb la família:
+
+a.5.1) 1 ascendent a.5.2) 2 ascendents o més a.6) cònjuge del sol·licitant a.7) fills del sol·licitant:
+
+a.7.1) 1 fill a.7.2) 2 fills a.7.3) 3 fills o més b) El sol·licitant té responsabilitats de manteniment de terceres persones:
+
+b.1) cònjuge en atur b.2) ascendents sense recursos:
+
+b.2.1) 1 ascendent b.2.2) 2 ascendents o més b.3) fills menors d'edat:
+
+b.3.1) 1 fill b.3.2) 2 fills b.3.3) 3 fills o més b.4) altres persones de l'entorn familiar:
+
+b.4.1) 1 persona b.4.2) 2 persones o més 3. Criteris econòmics a) Nombre de membres de la unitat familiar en edat laboral, llevat dels fills estudiants, dels membres discapacitats de segon i tercer grau i de persones inhabilitades per a l'activitat laboral:
+
+a.1) 1 membre a.2) 2 membres a.3) 3 membres a.4) 4 membres o més Nota: els quatre subapartats d'aquest apartat no tenen barem i són tan sols uns coeficients que serveixen per ponderar el barem de la resta dels apartats dels criteris econòmics, tret del criteri h) "Tinença de vehicles no computats a les activitats econòmiques", que ja incorpora el concepte "membres de la unitat familiar".
+
+b) Rendes del treball de la unitat familiar:
+
+b.1) fins al salari mínim mensual x 12 b.2) fins al salari mínim mensual x 12 x 1,5 b.3) fins al salari mínim mensual x 12 x 2 b.4) fins al salari mínim mensual x 12 x 2,5 b.5) fins al salari mínim mensual x 12 x 3 b.6) fins al salari mínim mensual x 12 x 3,5 b.7) més del salari mínim mensual x 12 x 3,5 c) Rendes de les activitats econòmiques de la unitat familiar:
+
+Valors parcials: (serveixen per obtenir el valor total d'aquest criteri) c.1) Nombre de persones assalariades:
+
+c.1.1) fins a 3 persones c.1.2) de 4 a 6 persones c.1.3) de 7 a 10 persones c.1.4) més de 10 persones c.2) Nombre de persones no assalariades:
+
+c.2.1) fins a 2 persones c.2.2) de 3 a 5 persones c.2.3) més de 5 persones c.3) Superfície i ubicació dels locals i finques utilitzats per a l'activitat:
+
+c.3.1) finques rústiques de menys de 5 ha c.3.2) finques rústiques de 5 a 10 ha c.3.3) finques rústiques més grans de 10 ha c.3.4) solars ubicats als carrers principals d'Andorra la Vella, Escaldes o el Pas de la Casa c.3.5) solars ubicats als carrers principals de la resta de poblacions c.3.6) solars ubicats a la resta de carrers c.3.7) locals de 100 m2 o menys ubicats als carrers principals d'Andorra la Vella, Escaldes o el Pas de la Casa c.3.8) locals de més de 100 m2 ubicats als carrers principals d'Andorra la Vella, Escaldes o el Pas de la Casa c.3.9) locals de 100 m2 o menys ubicats als carrers principals de la resta de poblacions c.3.10) locals de més de 100 m2 ubicats als carrers principals de la resta de poblacions c.3.11) locals de 100 m2 o menys ubicats a la resta de carrers c.3.12) locals de més de 100 m2 ubicats a la resta de carrers c.4) Nombre i tipus de vehicles lligats a l'activitat econòmica:
+
+c.4.1) 1 vehicle agrari c.4.2) 2 o més vehicles agraris c.4.3) 1 vehicle de transport de mercaderies o de passatgers c.4.4) de 2 a 5 vehicles de transport de mercaderies c.4.5) més de 5 vehicles de transport de mercaderies c.4.6) de 2 a 5 vehicles de transport de passatgers c.4.7) més de 5 vehicles de transport de passatgers c.4.8) 1 vehicle especial c.4.9) 2 o més vehicles especials c.4.10) sense vehicles Valor total del criteri "Rendes de les activitats econòmiques de la unitat familiar": resultant de l'aplicació del coeficient que li correspongui de l'apartat a) "Nombre de membres de la unitat familiar en edat laboral" a la suma de tots els valors parcials d'aquest apartat.
+
+d) Rendes dels actius financers:
+
+d.1) sense rendes per actius financers o similars d.2) rendes inferiors o iguals a 3.000 euros anyals d.3) rendes superiors a 3.000 i inferiors o iguals a 18.000 euros anyals d.4) rendes superiors a 18.000 euros anyals e) Rendes d'assegurances de vida, d'invalidesa i similars. Pensions d'aliments:
+
+e.1) sense rendes d'assegurances de vida, d'invalidesa i similars, ni pensions d'aliments e.2) rendes inferiors o iguals a 3.000 euros anyals e.3) rendes superiors a 3.000 i inferiors o iguals a 15.000 euros anyals e.4) rendes superiors a 15.000 euros anyals f) Propietats i rendes dels béns immobles no computades a les activitats econòmiques:
+
+f.1) Finques rústiques:
+
+f.1.1) no té terrenys en zona rústica f.1.2) terrenys en zona rústica, en conjunt, de menys de 5 ha f.1.3) terrenys en zona rústica, en conjunt, de 5 a 10 ha f.1.4) terrenys en zona rústica, en conjunt, més grans de 10 ha f.2) Solars:
+
+f.2.1) no té solars f.2.2) tinença d'un únic solar f.2.3) tinença de dos o més solars f.3) Locals i habitatges no habituals:
+
+f.3.1) no té cap local ni habitatge no habitual f.3.2) tinença d'un únic local o habitatge no habitual f.3.3) tinença de dos o més locals o habitatges no habituals f.4) No té ni terrenys en zona rústica, ni solars, ni locals o habitatges no habituals f.5) Habitatge habitual del sol·licitant:
+
+f.5.1) habitatge unifamiliar agrícola, de propietat i sense càrregues hipotecàries f.5.2) habitatge unifamiliar agrícola, de propietat amb càrregues hipotecàries f.5.3) habitatge unifamiliar agrícola, de lloguer f.5.4) habitatge unifamiliar, no adossat, no agrícola, de propietat i sense càrregues hipotecàries f.5.5) habitatge unifamiliar, no adossat, no agrícola, de propietat i amb càrregues hipotecàries f.5.6) habitatge unifamiliar, no adossat, no agrícola, de lloguer f.5.7) habitatge unifamiliar adossat, de propietat i sense càrregues hipotecàries f.5.8) habitatge unifamiliar adossat, de propietat i amb càrregues hipotecàries f.5.9) habitatge unifamiliar adossat, de lloguer f.5.10) habitatge en edifici de propietat horitzontal de superfície igual o inferior a 80 m2, de propietat i sense càrregues hipotecàries f.5.11) habitatge en edifici de propietat horitzontal de superfície igual o inferior a 80 m2, de propietat i amb càrregues hipotecàries f.5.12) habitatge en edifici de propietat horitzontal de superfície igual o inferior a 80 m2, de lloguer f.5.13) habitatge en edifici de propietat horitzontal de superfície superior a 80 m2, de propietat i sense càrregues hipotecàries f.5.14) habitatge en edifici de propietat horitzontal de superfície superior a 80 m2, de propietat i amb càrregues hipotecàries f.5.15) habitatge en edifici de propietat horitzontal de superfície superior a 80 m2, de lloguer g) Tinença d'accions o participacions en societats mercantils:
+
+g.1) no té accions o participacions en cap societat g.2) accions o participacions de valor inferior a 9.000 euros g.3) accions o participacions de valor superior a 9.000 euros i inferior a 60.000 g.4) accions o participacions de valor superior o igual a 60.000 euros h) Tinença de vehicles no computats a les activitats econòmiques:
+
+h.1) la família no té cap vehicle h.2) unitat familiar d'un sol membre major d'edat amb un únic automòbil de turisme de 1.500 cc o menys i sense motocicletes de més de 125 cc h.3) unitat familiar de 2 o més membres majors d'edat amb un o dos automòbils de turisme de 1.500 cc o menys i sense motocicletes de més de 125 cc h.4) unitat familiar amb més vehicles terrestres, marítims o aeris dels ressenyats als apartats anteriors 4. Criteris acadèmics a) Expedient acadèmic de la persona sol·licitant:
+
+a.1) Ensenyaments de batxillerat o de formació professional:
+
+a.1.1) nota mitjana de 5 o 6 en els sistemes andorrà i espanyol, i de 10 a 12, ambdós inclosos, en el sistema francès a.1.2) nota mitjana de més de 6 i menys de 9 en els sistemes educatius andorrà i espanyol, i de 12 a 16 en el sistema educatiu francès a.1.3) nota mitjana de 9 a 10, en els sistemes andorrà i espanyol, i de 16 a 20 en el sistema francès a.1.4) nota mitjana "d'excel·lent", en el sistema andorrà; "sobresaliente", en el sistema espanyol, i "mention très bien", en el sistema francès a.2) Ensenyaments universitaris i assimilats:
+
+Es valoraran els mèrits acadèmics en funció dels estudis i del sistema educatiu en què es cursin.
+
+#### Annex II
+
+Fórmula de càlcul de la ponderació dels criteris personals, familiars i econòmics i dels acadèmics:
+
+((60 / (VMcp + VMcf + VMce)) x (VScp + VScf + VSce)) + ((40 / VMca) x VSca) = VG essent:
+
+VM: el valor màxim obtenible en cada grup de criteris VS: el valor obtingut per una sol·licitud en cada grup de criteris VG: el valor global de la sol·licitud cp: el grup de criteris personals cf: el grup de criteris familiars ce: el grup de criteris econòmics ca: el grup de criteris acadèmics
+
