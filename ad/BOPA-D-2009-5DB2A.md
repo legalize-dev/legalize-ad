@@ -1,0 +1,214 @@
+---
+title: "Decret del 5-8-2009 d’aprovació del Reglament de gestió i caça de l’isard"
+identifier: "BOPA-D-2009-5DB2A"
+country: "ad"
+rank: "reglament"
+publication_date: "2009-08-11"
+last_updated: "2009-08-11"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/021059/Pagines/5DB2A.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "2009-08-04"
+bopa_issue: "BOPA 59/2009"
+bopa_document_id: "5DB2A"
+---
+# Decret del 5-8-2009 d’aprovació del Reglament de gestió i caça de l’isard
+
+Decret Exposició de motius Vista la Llei del Govern, del 15 de desembre del 2000;
+
+Vista la Llei de caça, aprovada pel Consell General el 13 d’abril del 2000, i en concret l’article 35;
+
+Vista la Llei dels vedats de caça, del 13 d’abril del 2000;
+
+Vist el Decret d’aprovació del Reglament de gestió i caça de l’isard, del 11 de juny del 2008;
+
+Atenent l’exposició de motius de la Llei de caça, del 13 d’abril del 2000, segons la qual la riquesa faunística “requereix una atenció prioritària i constant de l’Estat a fi de preservar-la i conservar-la com a patrimoni natural irrenunciable”;
+
+Atès que per poder agilitzar els procediments administratius resulta escaient que el ministeri responsable de la caça pugui fixar els paràmetres relatius als diferents períodes de sol·licituds i de lliuraments de llicències especial i al nombre de captures atorgades;
+
+Aquest Reglament deroga el Reglament de gestió i caça de l’isard, i s’aprova íntegrament per motius de seguretat jurídica.
+
+##### Article únic
+
+S’aprova el Reglament de gestió i caça de l’isard, que entrarà en vigor l’endemà de ser publicat al Butlletí Oficial del Principat d’Andorra.
+
+#### Disposició derogatòria
+
+Queda derogat el Reglament de la caça de l’isard (publicat al Butlletí Oficial del Principat d’Andorra núm. 49, any 20, el 18 de juny de 2008), i qualsevol disposició de rang igual o inferior que s’oposi al que estableix aquest Reglament.
+
+Reglament de la caça de l’isard
+
+### Capítol primer. Pla de gestió i plans de caça
+
+##### Article 1
+
+El Pla de gestió de l’isard del Principat d’Andorra marca els objectius i les actuacions que s’han de dur a terme per desenvolupar i mantenir la població d’isards. Aquest Pla de gestió es complementa amb els plans de gestió dels vedats de caça.
+
+##### Article 2
+
+1. El Pla de gestió de l’isard del Principat d’Andorra inclou un pla anual de caça de l’isard, amb un índex de captura màxim del vint per cent dels isards recomptats anualment en terreny cinegètic comú i en els vedats de caça de Xixerella, de Sorteny i de la vall de Ransol.
+
+2. El ministeri responsable de la caça fixa, d’acord amb el Pla de gestió de l’isard, l’índex de captura anyal que ha de preveure el Pla de caça de l’isard.
+
+##### Article 3
+
+El recompte anual d’isards en terreny cinegètic comú es realitza entre la segona quinzena del mes de juliol i la primera quinzena del mes d’agost.
+
+##### Article 4
+
+El ministeri responsable de la caça fixa el nombre de caçadors necessaris per obtenir una captura. El nombre de caçadors per obtenir una captura es basa en el recompte d’isards, en l’índex de captura establert a l’article 2 i en el nombre de caçadors sol·licitants de la llicència especial de caça de l’isard.
+
+##### Article 5
+
+S’entén per colla un grup de màxim 30 caçadors que cacen l’isard de manera conjunta.
+
+##### Article 6
+
+El ministeri responsable de la caça fixa el període de caça de l’isard.
+
+### Capítol segon. Sol·licitud i lliurament de les llicències especials de caça de l’isard i distribució de les anelles de captura
+
+##### Article 7
+
+Les sol·licituds i l’expedició de les llicències especials de caça de l’isard i el lliurament de les anelles de captura corresponents es fa en tres períodes, fixats pel ministeri responsable de la caça, que són:
+
+1. Període hàbil per sol·licitar les llicències especials de caça de l’isard.
+
+2. Període hàbil per sol·licitar la formació de la/es colla/es, recollir les llicències especials de caça de l’isard i les anelles de captura.
+
+3. Període hàbil per recollir la documentació del resultat del sorteig de les captures restants, per part dels adjudicataris.
+
+##### Article 8
+
+Les llicències especials de caça de l’isard se sol·liciten, dins els períodes hàbils establerts, al Servei de Tràmits de l’edifici administratiu del Govern o als serveis de tràmits dels comuns que en disposen, durant els dies laborables i els horaris oficials d’atenció al públic.
+
+La formació de les colles, la recollida de les llicències especials de caça de l’isard i de les anelles corresponents s’efectuen, dins els períodes hàbils establerts, al Departament d’Agricultura i Patrimoni Natural de l’edifici administratiu del Govern durant els dies laborables i els horaris oficials d’atenció al públic.
+
+##### Article 9
+
+A més d’omplir correctament la sol·licitud de llicències especials de caça de l’isard, s’ha d’adjuntar la documentació següent:
+
+a) Certificació d’una companyia d’assegurances, autoritzada per actuar dins del territori nacional, segons la qual el caçador té subscrita i en vigor una pòlissa d’assegurances que cobreix la seva responsabilitat civil per una suma mínima de 240.000 euros. En cas que la companyia asseguradora no faciliti la llista o el certificat, s’ha d’adjuntar el certificat individual d’assegurança.
+
+b) Còpia del permís d’arma vigent, si és necessari.
+
+c) Còpia del passaport o del document d’identitat en cas que el caçador no consti inscrit en un cens parroquial.
+
+d) Una fotografia actual de 3,5 x 4,5 cm per a l’obtenció de la primera llicència.
+
+##### Article 10
+
+Són condicions indispensables per validar les sol·licituds, expedir posteriorment les llicències especials de caça de l’isard i lliurar les anelles de captura omplir correctament les sol·licituds i presentar l’acreditació documental dels requisits necessaris.
+
+##### Article 11
+
+No es validen les sol·licituds en cas que:
+
+a) No s’hagin omplert correctament.
+
+b) No es presenti algun dels documents requerits a l’article 9.
+
+c) Es presenti una sol·licitud de formació de colla omplerta amb un nombre de sol·licitants superior al nombre de caçadors establerts a l’article 4.
+
+d) Hi hagi un mateix nom o noms en diverses sol·licituds d’establiment de colles. En aquest supòsit, queden invalidades totes les sol·licituds en què apareix el nom o els noms repetits.
+
+##### Article 12
+
+La invalidació d’una sol·licitud comporta la denegació per als sol·licitants del dret a la llicència especial de caça de l’isard per a la temporada en curs.
+
+##### Article 13
+
+La validació de les sol·licituds de les llicències especials de caça de l’isard comporta el pagament previ de l’import de les llicències especials de caça de l’isard fixat pel ministeri responsable de la caça. Els documents es recullen al Servei de Tràmits de l’edifici administratiu del Govern o als serveis de tràmits dels comuns durant els dies laborables i els horaris oficials d’atenció al públic.
+
+##### Article 14
+
+La llicència especial de caça de l’isard per a andorrans i residents que siguin més grans de seixanta anys és gratuïta.
+
+##### Article 15
+
+En les sol·licituds de formació de la colla, els sol·licitants han de designar un cap de colla. Quan no se’n pugui identificar el membre infractor el cap de colla serà el responsable solidari de les irregularitats que es puguin constatar en el retorn de les anelles.
+
+##### Article 16
+
+El ministeri responsable de la caça expedeix, per a cada component de la colla, una anella personal i només transferible dins la colla.
+
+##### Article 17
+
+Tot caçador que estigui en acció de caça ha de dur una anella, no utilitzada, corresponent a la seva colla.
+
+Les anelles són intransferibles entre colles.
+
+##### Article 18
+
+La xifra d’adjudicació de captures de cada colla és el resultat de la divisió entre el nombre de membres de la colla i el nombre de caçadors necessaris per obtenir una captura, segons les disposicions de l’article 4.
+
+Les captures que s’atorguen directament a cada colla corresponen a la part entera de la xifra d’adjudicació.
+
+Un cop efectuades totes les adjudicacions directes i en cas de que restin captures per atorgar, s’adjudicaran les captures restants mitjançant un sistema de sorteig públic per insaculació, davant notari.
+
+En el sorteig participen, de forma automàtica, individualment tots els caçadors que formen part d’una colla que ha obtingut com a mínim una captura directa.
+
+El caçador que obté una captura, mitjançant sorteig, no pot participar en el sorteig durant 5 anys. Aquesta captura passa a pertànyer a la colla, la qual el caçador n’és membre.
+
+En el moment de la recollida de les anelles, el cap de colla ha de signar un document de recepció en què ha de constar la relació de caçadors amb l’anella corresponent i el nombre de captures atorgades.
+
+### Capítol tercer. Utilització de les anelles de captura
+
+##### Article 19
+
+Quan un caçador fa una captura d’isard, al lloc on ha caigut abatuda la peça ha de tancar de manera permanent una anella de captura entre el tendó i l’os d’una de les dues potes posteriors de l’animal.
+
+##### Article 20
+
+Un cop s’ha fet la/les captura/es atorgada/es, els caçadors i la seva colla han de donar per acabada la jornada de caça. També es donen per finalitzats els dies hàbils de caça, encara que el període de caça no hagi acabat. Els caçadors i les colles que ja han fet la/les captura/es atorgada/es no poden estar en acció de caça, vist que no hi ha més captures per fer.
+
+##### Article 21
+
+Queden totalment prohibits la tinença i el transport d’un isard mort sense l’anella de captura. En aquest cas, l’isard mort es considera una unitat no fixada reglamentàriament pel Govern.
+
+##### Article 22
+
+Exceptuant les carreteres generals i secundàries, només es pot desplaçar i transportar la peça capturada sencera amb pell i sense trossejar, amb vísceres o sense, de manera que la peça formi una sola unitat anellada.
+
+##### Article 23
+
+Qualsevol peça transportada trossejada i/o amb pell o sense i/o amb cap o sense, encara que una part porti l’anella reglamentària, es considera una unitat no fixada reglamentàriament pel Govern.
+
+##### Article 24
+
+La pèrdua d’una anella de captura implica l’anul·lació del dret de captura de la peça per a tota la colla. Els caçadors que figuren en la sol·licitud de les llicències especials de caça de l’isard i formació de la colla que han perdut l’anella no poden reclamar la quantitat desemborsada en concepte de les llicències especials de caça de l’isard.
+
+##### Article 25
+
+La manipulació i el deteriorament d’una anella de captura que permetin obrir-la un cop tancada o que no facin visibles les dades que hi han de figurar, comporten la pèrdua del dret de captura per a tota la colla corresponent de l’anella.
+
+##### Article 26
+
+És prohibit el transport d’isards amb aeronaus, excepte si es fa avisant telefònicament el Cos de Banders amb una antelació mínima de quatre hores.
+
+##### Article 27
+
+És prohibida la captura d’exemplars d’isard equipats amb collars distintius o collars emissors.
+
+##### Article 28
+
+Finalitzat el període per a la caça de l’isard, cada colla de caçadors està obligada, en el termini de 15 dies naturals, a lliurar totes i cadascuna de les anelles de captura. Igualment, en cas que s’hagi utilitzat una anella, aquesta anella s’ha de retornar amb les altres anelles obertes de la colla al Departament d’Agricultura i Patrimoni Natural.
+
+##### Article 29
+
+Del conjunt d’anelles d’una colla establerta només es poden retornar tancades tantes anelles com captures atorgades tingui la colla, i totes les altres han d’estar obertes. Un cop retornada/es la/les anella/es tancada/es corresponent/s a la/les captura/es atorgada/es a la colla, qualsevol anella de la colla, retornada tancada o indegudament manipulada o deteriorada, es considera la captura d’una unitat no fixada reglamentàriament pel Govern.
+
+En cas que es perdi o no es retorni una o diverses anelles, es redueix la possibilitat de retornar les anelles tancades segons el mateix nombre d’anelles perdudes.
+
+##### Article 30
+
+Un cop finalitzat el període de caça autoritzat, si un caçador i/o una colla no han fet efectiva la/les captura/es que tenien atorgada/es, no es pot reclamar la quantitat desemborsada en concepte de la llicència especial de caça de l’isard.
+
+##### Article 31
+
+Els incompliments de les disposicions d’aquest Reglament se sancionaran d’acord amb el que estableix el títol IX de la Llei de caça de 13 d’abril del 2000.
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 5 d’agost de 2009 Jaume Bartumeu Cassany Cap de Govern
+
