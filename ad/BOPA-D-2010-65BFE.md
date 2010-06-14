@@ -1,0 +1,610 @@
+---
+title: "Decret del 9-06-2010 pel qual s’aprova la modificació del Reglament d’ajuts a l’habitatge de lloguer"
+identifier: "BOPA-D-2010-65BFE"
+country: "ad"
+rank: "reglament"
+publication_date: "2010-06-15"
+last_updated: "2010-06-15"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/022033/Pagines/65BFE.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "2010-06-08"
+bopa_issue: "BOPA 33/2010"
+bopa_document_id: "65BFE"
+---
+# Decret del 9-06-2010 pel qual s’aprova la modificació del Reglament d’ajuts a l’habitatge de lloguer
+
+Decret pel qual s’aprova la modificació del Reglament d’ajuts a l’habitatge de lloguer Exposició de motius El 30 de març del 2005 es va aprovar el primer Reglament d’ajuts a l’habitatge de lloguer que posa en funcionament, per primera vegada, dos tipus d’ajuts destinats a millorar les condicions d’accés i manteniment dels habitatges de lloguer a les llars amb situacions econòmiques més vulnerables: les subvencions periòdiques a l’habitatge de lloguer i els crèdits a l’emancipació, aquests últims destinats exclusivament als joves. En la convocatòria del 2009 es van crear els crèdits per accedir a un habitatge de lloguer que han permès respondre a la necessitat de famílies que tenen dificultats econòmiques per signar un nou contracte de lloguer.
+
+Any rere any, l’experiència i la informació en la gestió de les convocatòries han permès millorar els requisits d’accés, el procediment d’atorgament i la gestió interna d’aquests ajuts. Amb la voluntat de continuar amb aquest esperit de millora s’aporten noves modificacions al Reglament per a la convocatòria del 2010.
+
+Una de les millores aportades és la definició dels ingressos de la llar. En concret s’estableix que en situacions de separació, les pensions de manutenció es computen com un ingrés per a les llars que les reben i es descompten dels ingressos que presentin les llars que les paguen. Es modifica el contingut del règim de compatibilitats per fer-lo més entenedor quant a la compatibilitat respecte al programa de la borsa d’habitatge i programes similars que altres organismes públics puguin iniciar. També se simplifica la presentació de les declaracions jurades que han de permetre acreditar diverses situacions i que s’incorporen als formularis de sol·licitud. Una altra modificació que s’aplica als tres ajuts regulats pel Reglament es troba als articles 18 i 19 referents als deures i les obligacions dels sol·licitants i a la comprovació de les dades per part de l’Administració. En aquests dos articles s’incorpora la possibilitat de l’Administració de verificar, amb el consentiment dels sol·licitants d’acord amb la Llei 15/2003, del 18 de desembre, qualificada de protecció de dades personals, prop dels registres de la propietat o els equivalents d’altres països, que ni el titular de l’ajut ni qualsevol membre de la llar disposa d’un habitatge de propietat a l’estranger.
+
+Pel que fa als crèdits a l’emancipació, i amb l’objectiu de desincentivar l’increment d’impagaments i la morositat, es clarifica el contingut de l’article 11 sobre els recàrrecs per incompliment de les condicions de retorn. En concret es diferencien tres motius d’incompliment que comporten el càlcul d’un recàrrec: la no signatura del contracte de lloguer, la rescissió del contracte de lloguer que comporti l’incompliment de l’objecte pel qual s’atorga l’ajut, i l’impagament de les quotes pactades. En els dos primers casos, el recàrrec, que es genera a comptar dels 15 dies hàbils de la situació que comporta el retorn íntegre del préstec, segueix establert en el 10% anual de l’import total que quedi per retornar i per al retorn de quotes es calcularà un recàrrec de l’1,5% mensual per cada quota impagada. Amb aquesta modificació també es facilita l’aplicació i la gestió dels recàrrecs actuals.
+
+S’introdueix com a nou requisit per obtenir un ajut a l’habitatge de lloguer ja sigui en la modalitat de crèdit o de subvenció, el lloguer màxim. Cal recordar que aquests ajuts, i en especial les subvencions, estan destinats a les llars que tenen més dificultats econòmiques. Aquest ajut els ha de permetre mantenir l’habitatge habitual i permanent que ha de respondre a les necessitats de cada llar. Per aquesta raó es creu necessari establir un límit al preu de lloguer que se subvenciona en funció del nombre de persones que hi viuen i eliminar, en el cas de les subvencions, l’import màxim de l’ajut que limita l’import de la subvenció. Amb aquesta modificació es persegueix un objectiu doble: eliminar possibles distorsions a l’alça per l’efecte d’obtenir un ajut i alhora crear un efecte de contenció dels preus de lloguer en el mercat.
+
+D’altra banda, l’experiència de les diverses convocatòries fa palesa la necessitat de tenir en compte, a banda dels ingressos, altres possibles recursos econòmics, com ara els estalvis. No obstant això, la impossibilitat de disposar de dades suficients per xifrar quin seria el nivell d’estalvis acceptable per poder respondre a les diferents dificultats puntuals que puguin sorgir i, tot i això, obtenir l’ajut, obliga a ser prudents.
+
+Finalment, i amb l’esperit de millorar l’equitat en l’atorgament dels ajuts, s’introdueix el concepte d’ajut parcial, que consisteix a limitar l’import de l’ajut atorgat, de manera que la suma d’ingressos de la llar i de l’ajut que s’ha d’atorgar no superi el barem d’ingressos màxim. Quan se supera aquest barem, l’import de l’ajut es redueix fins a assolir l’import d’ingressos màxims establert. Gràcies a la introducció dels ajuts parcials, es preveu que hi hagi més llars que es puguin beneficiar de les subvencions.
+
+Per raons de seguretat jurídica, es publica íntegrament el Reglament amb la inclusió de totes les modificacions i es deroga el Reglament vigent.
+
+A proposta del ministre d’Economia i Finances, el Govern, en la sessió del 9 de juny del 2010, aprova la modificació del Reglament d’ajuts a l’habitatge de lloguer.
+
+##### Article únic
+
+S’aprova la modificació del Reglament d’ajuts a l’habitatge de lloguer, que entrarà en vigor el mateix dia de ser publicat al Butlletí Oficial del Principat d’Andorra.
+
+Reglament d’ajuts a l’habitatge de lloguer
+
+### Capítol primer. Generalitats
+
+##### Article 1
+
+Objecte i àmbit d’aplicació 1. L’objecte d’aquest Reglament és establir els requisits per accedir als ajuts a l’habitatge, el procediment de tramitació i el procediment d’atorgament d’ajuts a l’habitatge de tipus econòmic en forma de crèdits i en forma de subvencions.
+
+2. Els ajuts es destinen a persones o famílies que visquin o optin per viure en un habitatge de lloguer que sigui el domicili permanent i habitual, ubicat al Principat d’Andorra, i que compleixin els requisits establerts per accedir-hi i segueixin el procediment de tramitació.
+
+3. Queden exclosos d’aquests ajuts els habitatges destinats a allotjament turístic.
+
+##### Article 2
+
+Definicions En virtut d’aquest Reglament, els conceptes que s’indiquen a continuació tenen el significat següent:
+
+a) Titular de l’ajut: la persona física que representa la llar en el procediment de sol·licitud i que disposa d’un contracte de lloguer de l’habitatge per al qual ha demanat l’ajut.
+
+En els casos d’emancipació i de crèdits per accedir a un habitatge de lloguer, s’entén per titular de l’ajut la persona física que sol·licita un ajut per a l’habitatge que pretén llogar.
+
+b) Domicili permanent i habitual: l’habitatge que es destina a residència principal i que no està desocupat més de tres mesos per any.
+
+c) Ingressos de la llar: tots els ingressos percebuts per tots els membres que conviuen a la llar, a excepció dels fills a càrrec, i inclouen els ingressos salarials, els resultants d’activitats econòmiques i empresarials, els provinents del patrimoni (rendiments d’estalvis, accions,…), les pensions, les subvencions i les prestacions socials en general. En situacions de separació, les pensions de manutenció es consideren un ingrés per a les llars que les reben i es descompten a les llars que les paguen.
+
+d) Llar: el conjunt de persones que conviuen o cohabiten en un mateix domicili independentment de si entre elles hi ha una relació de parentiu o no.
+
+En els casos d’emancipació i de crèdits per accedir a un habitatge de lloguer, s’entén que es fa referència al conjunt de membres de la nova llar que es pretén crear.
+
+e) Import mensual del lloguer: la despesa neta del lloguer de l’habitatge sense incloure les despeses complementàries als serveis derivats de l’habitatge com, per exemple, la calefacció, l’aigua, l’aparcament, etc. En el supòsit que l’import del lloguer inclogui altres serveis annexos sense detallar-ne els imports, s’ha de descomptar de l’import del lloguer els preus fets establerts a l’annex 1 pels conceptes de calefacció, d’aigua i d’aparcament.
+
+f) Sustentador: un dels membres de la llar que proporcionalment aporta una part important dels ingressos de la llar.
+
+g) Baixa de llarga durada: la baixa laboral superior a 24 setmanes.
+
+h) Persona jove: tota persona de 18 a 30 anys.
+
+i) Persona gran: tota persona a partir de 65 anys, i també les persones a partir de 60 anys titulars d’una pensió d’invalidesa passada a vellesa atorgada per la Caixa Andorrana de Seguretat Social.
+
+j) Família monoparental: la família formada per una persona adulta sola (pare, mare o tutor) amb fills a càrrec i que no conviu amb cap altra parella, nou cònjuge o persona adulta.
+
+k) Família nombrosa: la família formada per tres o més fills a càrrec.
+
+l) Persona discapacitada: la persona que presenta un grau de menyscabament igual o superior al 33% segons la Llei de garantia dels drets de les persones amb discapacitat i les normes de desplegament.
+
+m) Fill a càrrec: els menors de 18 anys i fins als 25 anys sempre que estiguin estudiant. Els fills amb discapacitat es consideren a càrrec independentment de la seva edat sempre que convisquin a la mateixa llar.
+
+##### Article 3
+
+Tipus d’ajuts 1. Programa d’ajuts a l’eliminació d’obstacles a l’emancipació i per poder accedir a un habitatge de lloguer:
+
+a) Els joves que decideixin emancipar-se mitjançant un habitatge de lloguer i compleixin els requisits establerts en cada cas es poden beneficiar de dos tipus d’ajuts: els crèdits a l’emancipació i les subvencions periòdiques a l’habitatge de lloguer.
+
+b) Les llars que necessiten cobrir les despeses inicials per accedir a un habitatge de lloguer i compleixin els requisits establerts en cada cas es poden beneficiar d’un crèdit per accedir a un habitatge de lloguer i de les subvencions periòdiques a l’habitatge de lloguer.
+
+2. Programa d’ajuts a l’arrendament:
+
+Les llars que visquin en un habitatge de lloguer i compleixin els requisits establerts es poden beneficiar d’una subvenció periòdica a l’habitatge de lloguer.
+
+##### Article 4
+
+Règim de compatibilitats 1. L’obtenció dels ajuts establerts en aquest Reglament és incompatible amb l’obtenció d’altres ajuts atorgats amb la mateixa finalitat per organismes públics o privats nacionals o estrangers, excepte en els supòsits de compatibilitat expressament reconeguts.
+
+2. Aquests ajuts són compatibles amb el programa de la borsa d’habitatge i amb programes similars que els organismes públics puguin establir.
+
+3. Els crèdits a l’emancipació i els crèdits per accedir a un habitatge de lloguer són compatibles amb els ajuts de tipus subvenció atorgats, si escau, pels comuns.
+
+4. Les subvencions periòdiques a l’habitatge de lloguer atorgades pel Govern són compatibles i acumulables amb els ajuts de tipus subvenció atorgats, si escau, pels comuns, sempre que la suma dels ajuts no superi el 35% de l’import mensual del lloguer. Quan la suma dels ajuts supera aquest percentatge, l’ajut atorgat pel Govern en benefici d’una llar actua com a subsidiari dels que atorga el Comú. Així, en cas que el beneficiari d’una subvenció periòdica a l’habitatge de lloguer sigui beneficiari d’algun ajut atorgat per les corporacions locals, ha de declarar-ho en la sol·licitud o comunicar-ho al Departament d’Habitatge en el moment que esdevingui beneficiari del nou ajut. En aquest cas, el Govern ha de descomptar del seu ajut l’import que el titular rebi de les corporacions locals.
+
+5. Així mateix, els ajuts que s’estableixen en aquest Reglament són compatibles amb els ajuts a l’estudi atorgats pel ministeri competent en matèria d’educació, els atorgats pel ministeri competent en matèria d’ensenyament superior i amb les prestacions d’assistència social atorgades pel ministeri competent en matèria d’atenció social.
+
+### Capítol segon. Crèdit a l’emancipació i crèdit per accedir a un habitatge de lloguer
+
+##### Article 5
+
+Descripció del crèdit a l’emancipació a) El crèdit a l’emancipació consisteix en un préstec personal que no genera interessos, i que és destinat exclusivament al finançament de les despeses que genera l’acció d’emancipar-se.
+
+b) Poden beneficiar-se d’aquest ajut els joves que s’emancipin en règim de lloguer a partir de la data d’obertura de la convocatòria de l’ajut i que compleixin els requisits establerts.
+
+c) L’import del préstec és d’un màxim de 4.000 euros per persona, en cas d’emancipar-se sola, i d’un màxim de 2.800 euros per persona que compleixi els requisits, en cas de fer-ho amb altres persones.
+
+d) L’import del préstec s’ha de retornar en el termini màxim de trenta mesos i es pot optar per establir un període de carència per a l’inici del retorn de fins a dotze mesos, d’acord amb la forma de retorn que s’estableixi en el contracte de préstec.
+
+e) Només s’atorga un crèdit a l’emancipació per persona.
+
+f) En el cas de préstecs atorgats a persones estrangeres titulars d’una autorització de residència i treball expedida pel Servei d’Immigració amb una caducitat inferior a trenta mesos, el termini de retorn del préstec s’estableix per una durada com a màxim igual als mesos de vigència restants de l’autorització de residència i treball.
+
+##### Article 6
+
+Requisits per obtenir un crèdit a l’emancipació A més de les disposicions mencionades anteriorment, per tenir dret a l’obtenció d’un crèdit a l’emancipació, el titular de l’ajut ha d’acreditar el compliment dels requisits següents en el moment de presentar la sol·licitud:
+
+1. Ser jove.
+
+2. Tenir la nacionalitat andorrana amb residència efectiva al Principat d’Andorra.
+
+3. Ser estranger i tenir una autorització de residència i treball principal, permanent i continuada al Principat d’Andorra durant els darrers cinc anys.
+
+4. No disposar de cap habitatge de propietat en ple domini, ni dret real d’ús, ni a Andorra ni a l’estranger.
+
+5. No disposar de cap contracte d’arrendament d’habitatge en curs.
+
+6. La persona sol·licitant ha de justificar una font d’ingressos regular i derivada d’un salari o d’un treball per compte propi o d’una pensió.
+
+7. Acreditar uns ingressos iguals o inferiors d’acord amb el barem econòmic d’ingressos màxims establert a l’annex 2.
+
+8. Acreditar una puntuació igual o superior a 150 punts en el barem de béns patrimonials, d’acord amb l’annex 5 d’aquest Reglament.
+
+9. La suma de les posicions bancàries globals dels membres de la llar no pot superar els 30.000 euros.
+
+10. No tenir deutes impagats amb l’Administració general.
+
+11. En cas de treballar per compte propi, no tenir més d’un assalariat de mitjana durant els darrers dotze mesos.
+
+12. El preu mensual de lloguer de l’habitatge per al qual se sol·licita l’ajut no pot superar l’import màxim establert a l’annex 6 d’aquest Reglament.
+
+13. Destinar l’habitatge per al qual se sol·licita l’ajut a domicili habitual i permanent del beneficiari.
+
+14. No tenir relació de parentiu amb el propietari de l’habitatge que es pretén llogar, fins al tercer grau de consanguinitat o afinitat inclòs. En cas que el propietari sigui una persona jurídica, es verificarà que no existeixi la relació de parentiu de manera individual amb cadascun dels socis.
+
+15. No gaudir de l’habitatge per raó del càrrec o de les funcions professionals que es presten.
+
+16. L’habitatge per al qual se sol·licita l’ajut ha de disposar del certificat o la cèdula d’habitabilitat en vigor.
+
+17. Presentar la sol·licitud en el format oficial corresponent, degudament omplerta i acompanyada de la documentació acreditativa pertinent.
+
+##### Article 7
+
+Documentació que s’ha de presentar amb la sol·licitud del crèdit a l’emancipació 1. Aquests tipus d’ajuts se sol·liciten en el model oficial i cal adjuntar-hi la documentació següent:
+
+a) Les persones estrangeres han de presentar la fotocòpia del passaport o del document nacional d’identitat del sol·licitant de l’ajut.
+
+b) Certificat de convivència expedit pel Comú que acrediti la composició de la llar actual.
+
+c) Nota de l’arrendador que indiqui la intenció de llogar l’habitatge, el preu del lloguer i el dels serveis inclosos, si n’hi ha.
+
+d) Sol·licitud d’informació bancària de tots els bancs d’Andorra que acrediti si el titular i tots els membres de la llar hi tenen un compte obert i, en cas afirmatiu, s’ha d’adjuntar una posició global de tots els comptes.
+
+e) Comprovants dels ingressos declarats altres que els percebuts per la CASS.
+
+f) En cas de treballar per compte propi, ser titular d’un negoci o bé soci en societats mercantils, cal adjuntar un extracte dels comptes bancaris dels darrers dotze mesos.
+
+2. A partir de la data de comunicació de l’atorgament del crèdit el titular disposa de set dies hàbils per formalitzar el contracte de préstec; en el termini de quinze dies hàbils a comptar d’aquesta data ha de formalitzar el contracte d’arrendament i presentar al Departament d’Habitatge:
+
+a) Original del contracte de lloguer de l’habitatge a nom del titular de l’ajut.
+
+b) Fotocòpia de la cèdula o el certificat d’habitabilitat vigent.
+
+c) Original del contracte de subministrament elèctric a nom del titular del contracte de lloguer.
+
+d) Certificat de convivència expedit pel Comú.
+
+e) Fotocòpia del rebut de la pòlissa d’assegurança de responsabilitat civil de l’habitatge en vigor.
+
+##### Article 8
+
+Descripció del crèdit per accedir a un habitatge de lloguer a) El crèdit per accedir a un habitatge de lloguer consisteix en un préstec personal que no genera interessos, destinat exclusivament al finançament de les despeses que genera l’acció d’accedir a un habitatge de lloguer.
+
+b) Poden beneficiar-se d’aquest ajut les persones que volen accedir a un habitatge de lloguer a partir de la data d’obertura de la convocatòria de l’ajut i que compleixin els requisits establerts.
+
+c) L’import del préstec és d’un màxim de 2.800 euros.
+
+d) L’import del préstec s’ha de retornar en el termini màxim de dotze mesos, d’acord amb la forma de retorn que s’estableixi en el contracte de préstec.
+
+e) Només s’atorga un crèdit per llar.
+
+f) El contracte de préstec es fa de manera solidària entre els titulars del contracte d’arrendament.
+
+g) En el cas de préstecs atorgats a persones estrangeres titulars d’una autorització de residència i treball expedida pel Servei d’Immigració amb una caducitat inferior a dotze mesos, el termini de retorn del préstec s’estableix per una durada com a màxim igual als mesos de vigència restants de l’autorització de residència i treball.
+
+##### Article 9
+
+Requisits per obtenir un crèdit per accedir a un habitatge de lloguer A més de les disposicions mencionades anteriorment, per tenir dret a l’obtenció d’un crèdit per accedir a un habitatge de lloguer, el titular de l’ajut ha d’acreditar el compliment dels requisits següents en el moment de la presentació de la sol·licitud:
+
+1. Tenir la nacionalitat andorrana amb residència efectiva al Principat d’Andorra.
+
+2. Ser estranger i tenir una autorització de residència i treball principal, permanent i continuada al Principat d’Andorra durant els darrers cinc anys.
+
+3. No disposar de cap habitatge de propietat en ple domini, ni dret real d’ús, ni a Andorra ni a l’estranger.
+
+4. La persona sol·licitant ha de justificar una font d’ingressos regular i derivada d’un salari o d’un treball per compte propi o d’una pensió.
+
+5. Acreditar uns ingressos iguals o inferiors als especificats al barem econòmic d’ingressos segons el nombre de membres que compondran la llar, d’acord amb l’annex 3.1.
+
+6. Acreditar uns ingressos iguals o superiors als especificats al barem econòmic d’ingressos segons el nombre de membres que compondran la llar, d’acord amb l’annex 3.2.
+
+7. Acreditar una puntuació igual o superior a 150 punts en el barem de béns patrimonials, d’acord amb l’annex 5 d’aquest Reglament.
+
+8. La suma de les posicions bancàries globals dels membres de la llar no pot superar els 30.000 euros.
+
+9. Cap membre de la llar no ha de tenir deutes impagats amb l’Administració general.
+
+10. La persona sol·licitant no ha d’haver estat beneficiària d’un crèdit per accedir a l’habitatge de lloguer durant els darrers cinc anys.
+
+11. No ser part demandada en cap procediment civil obert d’acord amb la disposició addicional segona de la Llei d’arrendaments de finques urbanes, llevat que el procediment esmentat hagi estat resolt mitjançant sentència ferma.
+
+12. En cas de treballar per compte propi, no tenir més d’un assalariat de mitjana durant els darrers dotze mesos.
+
+13. El preu mensual de lloguer de l’habitatge per al qual se sol·licita l’ajut no pot superar l’import màxim establert a l’annex 6 d’aquest Reglament.
+
+14. Destinar l’habitatge per al qual se sol·licita l’ajut a domicili habitual i permanent del beneficiari i dels components de la llar sense transmissió o cessió de l’ús temporal o permanent, total o parcial.
+
+15. No tenir relació de parentiu amb el propietari de l’habitatge que es pretén llogar fins al tercer grau de consanguinitat o afinitat inclòs. En cas que el propietari sigui una persona jurídica, s’ha de verificar que no existeixi relació de parentiu de manera individual amb cap dels socis.
+
+16. No gaudir de l’habitatge per raó del càrrec o de les funcions professionals que es presten.
+
+17. L’habitatge per al qual se sol·licita l’ajut ha de disposar del certificat o la cèdula d’habitabilitat en vigor.
+
+18. Presentar la sol·licitud en el format oficial corresponent, degudament omplerta i acompanyada de la documentació acreditativa pertinent dins el termini d’acceptació de les sol·licituds.
+
+##### Article 10
+
+Documentació que s’ha de presentar amb la sol·licitud de crèdit per accedir a un habitatge de lloguer 1. Aquests tipus d’ajuts se sol·liciten en el model oficial i cal adjuntar-hi la documentació següent:
+
+a) Les persones estrangeres han de presentar la fotocòpia del passaport o del document nacional d’identitat del sol·licitant de l’ajut.
+
+b) Nota de l’arrendador que indiqui la intenció de llogar l’habitatge, el preu del lloguer i el dels serveis inclosos, si n’hi ha.
+
+c) Sol·licitud d’informació bancària de tots els bancs d’Andorra que acrediti si el titular i tots els membres de la llar hi tenen un compte obert i, en cas afirmatiu, s’ha d’adjuntar una posició global de tots els comptes.
+
+d) En casos de separacions de parella amb fills en comú: cal presentar el document acreditatiu de la separació i el comprovant de la pensió de manutenció. En cas d’impagament de la pensió, també cal el document acreditatiu de la denúncia del dit impagament o bé un extracte dels comptes bancaris dels darrers dotze mesos.
+
+e) Comprovants dels ingressos declarats altres que els percebuts per la CASS.
+
+f) En cas que algun membre de la llar treballi per compte propi, sigui titular d’un negoci o soci en societats mercantils, cal adjuntar un extracte dels comptes bancaris dels darrers dotze mesos.
+
+2. A partir de la data de comunicació de l’atorgament del crèdit, el titular disposa de set dies hàbils per formalitzar el contracte de préstec; en el termini de quinze dies hàbils a comptar d’aquesta data el titular ha de formalitzar el contracte d’arrendament i presentar al Departament d’Habitatge:
+
+a) Original del contracte de lloguer de l’habitatge a nom del/s titular/s de l’ajut.
+
+b) Fotocòpia de la cèdula o del certificat d’habitabilitat vigent.
+
+c) Original del contracte de subministrament elèctric a nom del titular del contracte de lloguer.
+
+d) Certificat de convivència expedit pel Comú.
+
+e) Fotocòpia del rebut de la pòlissa d’assegurança de responsabilitat civil de l’habitatge en vigor.
+
+##### Article 11
+
+Devolució dels crèdits 1. Els imports atorgats en concepte de crèdits tenen el caràcter de retornables. A aquest efecte, el beneficiari signa un contracte de préstec amb les condicions i les modalitats de retorn.
+
+2. En qualsevol cas, el contracte ha d’indicar l’import atorgat, l’objecte i la destinació de l’import, l’obligació de retornar l’import per mensualitats vençudes en el termini màxim establert a comptar de la data de la signatura del contracte de préstec. El tipus d’interès aplicat és del 0%.
+
+3. En cas que el beneficiari de l’ajut no signi el contracte d’arrendament, l’import de l’ajut s’ha de retornar íntegrament en el termini de quinze dies hàbils a comptar de la data de signatura del contracte de préstec amb l’Administració. Passat aquest termini es genera un recàrrec del 10% anual sobre l’import total que quedi per retornar a comptar de la data de percepció de l’ajut.
+
+4. En cas que el beneficiari de l’ajut rescindeixi el contracte d’arrendament i que aquest fet comporti l’incompliment de l’objecte pel qual s’atorga l’ajut, ha de retornar el capital pendent d’amortitzar en el termini de quinze dies hàbils a comptar de la data del canvi de domicili. Passat aquest termini es genera un recàrrec del 10% anual sobre l’import total degut a comptar de la data de l’incompliment.
+
+5. En el cas d’incompliment de les condicions de retorn pactades es genera un recàrrec de l’1,5% mensual sobre l’import de cada quota que resta impagada.
+
+6. En qualsevol cas d’incompliment de les condicions de retorn es procedeix a la reclamació dels pagaments per via judicial.
+
+7. No obstant això, en cas que el beneficiari del crèdit informi l’Administració de dificultats econòmiques puntuals que impedeixin el compliment del retorn, el Govern pot acordar excepcionalment la renegociació de les condicions de retorn, ja sigui per allargar el termini de retorn, ja sigui per atorgar una carència i repartir l’import pendent de retorn en les mensualitats restants. Aquesta situació és valorada mitjançant valoració social per part dels treballadors socials d’atenció primària del ministeri competent en matèria d’atenció social.
+
+### Capítol tercer. Ajuts a l’arrendament
+
+##### Article 12
+
+Subvenció periòdica a l’habitatge de lloguer: descripció de l’ajut a) La subvenció periòdica a l’habitatge de lloguer consisteix en un ajut econòmic destinat a col·laborar en el pagament de l’import mensual del lloguer de les llars que compleixen els requisits establerts.
+
+b) L’import de l’ajut correspon a una quantitat econòmica mensual fixa, d’acord amb el percentatge de col·laboració en l’import mensual del lloguer de l’habitatge que el Govern estableixi per a cada tipus de situació dels sol·licitants, segons l’annex 7.
+
+c) En cas que la suma dels ingressos de la llar i de l’ajut que s’ha d’atorgar superi el barem d’ingressos establert a l’annex 4, l’ajut es redueix fins a assolir l’import màxim establert en aquest annex.
+
+d) Els ajuts atorgats en cada convocatòria s’abonen periòdicament i tenen una durada màxima de dotze mesos. Aquest termini es pot perllongar per acord del Govern per períodes trimestrals.
+
+e) Els ajuts no són renovables tàcitament, caduquen quan finalitzen i s’han de sol·licitar novament en cada convocatòria.
+
+##### Article 13
+
+Requisits per obtenir una subvenció periòdica a l’habitatge de lloguer A més de les disposicions mencionades anteriorment, per tenir dret a l’obtenció d’una subvenció periòdica a l’habitatge de lloguer, el titular de l’ajut ha d’acreditar el compliment dels requisits següents a la data de tancament de la convocatòria, a excepció del requisit establert al punt 9, que s’ha d’acreditar a la data indicada en l’edicte d’obertura de la convocatòria:
+
+1. Tenir 18 anys o més.
+
+2. Tenir la nacionalitat andorrana amb residència efectiva al Principat d’Andorra.
+
+3. Ser estranger i tenir una autorització de residència i treball principal, permanent i continuada al Principat d’Andorra durant els darrers cinc anys.
+
+4. Els estrangers pensionats majors de 59 anys han d’acreditar un període mínim de cinc anys de residència i treball al Principat d’Andorra abans de complir els 60 anys, o han d’acreditar un període mínim de cinc anys consecutius de cotització a la Caixa Andorrana de Seguretat Social a partir d’aquest període.
+
+5. Cap membre de la llar no ha de disposar de cap habitatge de propietat en ple domini, ni dret real d’ús, ni a Andorra ni a l’estranger.
+
+6. La persona sol·licitant ha de justificar una font d’ingressos derivada d’un salari, un treball per compte propi o una pensió.
+
+7. Acreditar uns ingressos a la llar iguals o inferiors d’acord amb el barem econòmic d’ingressos màxims segons el que estableix l’annex 4 d’aquest Reglament.
+
+8. Acreditar una puntuació igual o superior a 150 punts en el barem de béns patrimonials, d’acord amb l’annex 5 d’aquest Reglament.
+
+9. La suma de les posicions bancàries globals dels membres de la llar no pot superar els 30.000 euros.
+
+10. Cap membre de la llar no ha de tenir deutes impagats amb l’Administració general.
+
+11. En cas de treballar per compte propi, no tenir més d’un assalariat de mitjana durant els darrers dotze mesos.
+
+12. El preu mensual de lloguer de l’habitatge per al qual se sol·licita l’ajut no pot superar l’import màxim establert a l’annex 6 d’aquest Reglament.
+
+13. Destinar l’habitatge per al qual se sol·licita l’ajut a domicili habitual i permanent del beneficiari i dels components de la llar sense transmissió o cessió de l’ús temporal o permanent, total o parcial.
+
+14. No tenir relació de parentiu amb el propietari de l’habitatge fins al tercer grau de consanguinitat o afinitat inclòs. En cas que el propietari sigui una persona jurídica, s’ha de verificar que no hi hagi relació de parentiu de manera individual amb cap dels socis.
+
+15. No gaudir de l’habitatge per raó del càrrec o de les funcions professionals que es presten.
+
+16. L’habitatge per al qual se sol·licita l’ajut ha de disposar del certificat o la cèdula d’habitabilitat en vigor.
+
+17. L’habitatge per al qual se sol·licita l’ajut ha de disposar de l’assegurança de responsabilitat civil de l’habitatge en vigor.
+
+18. Presentar la sol·licitud en el format oficial corresponent, degudament omplerta i acompanyada de la documentació acreditativa pertinent dins el termini d’acceptació de les sol·licituds.
+
+##### Article 14
+
+Documentació que s’ha de presentar amb la sol·licitud de subvenció periòdica a l’habitatge de lloguer Aquests ajuts se sol·liciten en el model oficial i cal adjuntar-hi la documentació següent:
+
+1. Les persones estrangeres han de presentar la fotocòpia del passaport o del document nacional d’identitat del sol·licitant de l’ajut.
+
+2. Fotocòpia del contracte de lloguer de l’habitatge de conformitat amb la legislació vigent i a nom del sol·licitant o d’un membre de la llar que tingui una relació de parentiu fins al primer grau de consanguinitat o afinitat amb el sol·licitant. Si no hi ha un contracte escrit, els rebuts de pagament del lloguer dels darrers quatre mesos.
+
+3. Fotocòpia de la cèdula d’habitabilitat o del certificat d’habitabilitat en vigor. En cas de no haver aconseguit aquest document, s’ha de presentar una declaració jurada que certifiqui que s’ha demanat al propietari el document.
+
+4. Fotocòpia de l’últim rebut del lloguer de l’habitatge.
+
+5. En el supòsit que l’import del lloguer inclogui serveis annexos o acomptes per a aquests serveis cal justificar-ho documentalment.
+
+6. Fotocòpia del contracte de subministrament elèctric a nom de l’arrendatari o, quan no se’n tingui, fotocòpia de l’últim rebut.
+
+7. Fotocòpia del rebut de la pòlissa d’assegurança de responsabilitat civil de l’habitatge en vigor.
+
+8. Sol·licitud d’informació bancària de tots els bancs d’Andorra que acrediti si el titular i tots els membres de la llar hi té un compte obert i, en cas afirmatiu, s’ha d’adjuntar una posició global de tots els comptes.
+
+9. Comprovants dels ingressos declarats altres que els percebuts per la CASS.
+
+10. En casos de separacions de parella amb fills en comú: cal presentar el document acreditatiu de la separació i el comprovant de la pensió de manutenció. En cas d’impagament de la pensió, també cal presentar el document acreditatiu de la denúncia del dit impagament o bé un extracte dels comptes bancaris dels darrers dotze mesos.
+
+11. En cas que algun membre de la llar treballi per compte propi, sigui titular d’un negoci o soci en societats mercantils, ha d’adjuntar un extracte dels comptes bancaris dels darrers dotze mesos.
+
+12. Per a les persones amb discapacitat, certificació que acrediti un grau de menyscabament igual o superior al 33% expedit pel ministeri competent, segons la Llei de garantia dels drets de les persones amb discapacitat.
+
+##### Article 15
+
+Sol·licituds fora de termini 1. Es poden presentar sol·licituds d’ajuts de subvenció periòdica a l’habitatge de lloguer quan a partir del tancament del període de convocatòria sobrevingui un canvi en la situació familiar que provoqui la variació negativa de la situació socioeconòmica d’una llar derivada per la defunció, l’empresonament o la baixa de llarga durada d’un dels sustentadors de la llar, o per la separació urgent en casos de violència de gènere en el si de la parella.
+
+2. S’ha d’adjuntar la documentació acreditativa de la situació que provoca la presentació de la sol·licitud fora de termini. Les sol·licituds per casos de separació per violència de gènere han de ser avalades pels treballadors socials de l’equip d’atenció integral a la dona víctima de violència de gènere del ministeri competent.
+
+3. En aquests casos l’ajut s’atorga per una durada igual als mesos restants fins a l’acabament de la convocatòria en curs.
+
+4. Els ajuts s’atorguen a les sol·licituds que compleixin els requisits establerts, segons l’ordre d’entrada i fins a esgotar l’import disponible.
+
+5. En els casos de baixa de llarga durada d’un dels sustentadors de la llar, s’han de tenir en compte, únicament per a aquest membre, els ingressos mensuals corresponents a la situació que presenti en el moment de formular la sol·licitud i s’apliquen a tot l’any en curs.
+
+##### Article 16
+
+Reserva pressupostària Per poder garantir i donar resposta als casos determinats a l’article 15, es fa una reserva pressupostària corresponent a l’1,5% del pressupost inicial destinat als ajuts de subvenció periòdica a l’habitatge de lloguer.
+
+### Capítol quart. Disposicions aplicables als ajuts
+
+##### Article 17
+
+Drets dels sol·licitants Els sol·licitants tenen els drets següents:
+
+a) A rebre informació sobre els ajuts sol·licitats.
+
+b) A la intimitat i a la confidencialitat de les dades i de la informació que consti en els seus expedients, protegides legalment.
+
+c) A l’atorgament de l’ajut d’acord amb el que preveu aquest Reglament.
+
+d) A renunciar per escrit a l’ajut.
+
+##### Article 18
+
+Deures i obligacions dels sol·licitants Els sol·licitants tenen els deures i les obligacions següents:
+
+a) Autoritzar l’Administració a verificar les dades consignades en les sol·licituds presentades així com en la documentació que s’hi incorpori, i a sol·licitar la informació rellevant tant dels registres de la mateixa Administració com la dels registres de les administracions comunals i del notariat, les companyies d’assegurances i la Caixa Andorrana de Seguretat Social, i dels registres de la propietat o equivalents d’altres països per verificar qualsevol concepte que es prengui en consideració per adjudicar l’ajut, sense perjudici del que estableix la Llei de protecció de dades personals.
+
+b) Facilitar les dades personals, familiars i socioeconòmiques, i també qualsevol altra documentació necessària per al tractament de la seva sol·licitud que se’ls reclami, incloent-hi, si no hi ha cap altra forma d’acreditació, una declaració jurada sobre les dades esmentades, ja sigui de la persona interessada, ja sigui dels membres de la llar.
+
+c) La presentació de la sol·licitud implica l’autorització de tots els membres de la llar al ministeri al qual està adscrit el Departament d’Habitatge, per obtenir les dades necessàries per comprovar la composició de la llar, els deutes, la renda i el patrimoni del conjunt de persones que integren aquesta llar declarades a l’efecte de l’ajut.
+
+d) Comunicar per escrit al Departament d’Habitatge dins el termini de trenta dies naturals qualsevol modificació de la seva situació respecte a la declarada a la sol·licitud.
+
+e) Destinar els recursos econòmics que ha rebut a la finalitat per a la qual han estat atorgats.
+
+f) Destinar l’habitatge per al qual se sol·licita l’ajut a domicili habitual i permanent del titular i dels membres de la llar sense transmissió o cessió de l’ús temporal o permanent, total o parcial.
+
+g) Col·laborar amb els professionals que intervenen en el procés de valoració de la sol·licitud i facilitar-los les tasques.
+
+##### Article 19
+
+Comprovació de les dades 1. L’Administració, amb el dret atorgat pel sol·licitant, pot comprovar la veracitat de les dades consignades a les sol·licituds presentades així com en la documentació que s’hi incorpori, i sol·licitar la informació rellevant tant dels registres de la mateixa Administració com la dels registres de les administracions comunals i del notariat, les companyies d’assegurances i la Caixa Andorrana de Seguretat Social, i dels registres de la propietat o equivalents d’altres països per verificar qualsevol concepte que es prengui en consideració per adjudicar un ajut a l’habitatge, sense perjudici del que estableix la Llei de protecció de dades personals.
+
+2. L’Administració pot sol·licitar altres documents complementaris que consideri necessaris per a la decisió d’atorgament de l’ajut.
+
+3. Per a les sol·licituds en les quals la declaració d’ingressos no estigui en relació amb les despeses de lloguer i amb els membres de la llar, així com en els casos en què la declaració d’ingressos no es correspongui amb els béns patrimonials del titular i dels membres de la llar, el Departament d’Habitatge pot sol·licitar al treballador social d’atenció primària del ministeri competent en matèria d’atenció social una valoració socioeconòmica per completar la informació presentada en la sol·licitud.
+
+### Capítol cinquè. Procediment
+
+##### Article 20
+
+Obertura de la convocatòria 1. El Govern publica al Butlletí Oficial del Principat d’Andorra la convocatòria anual per a l’atorgament d’ajuts a l’habitatge de lloguer.
+
+2. En la convocatòria s’estableix l’import pressupostari destinat a cada tipus d’ajut.
+
+3. La convocatòria ha de fer referència als requisits establerts en aquest Reglament, així com als ingressos màxims i mínims i al termini de presentació de sol·licituds de les subvencions periòdiques a l’habitatge de lloguer.
+
+4. En cas de no esgotar l’import disponible per als ajuts de tipus subvenció periòdica a l’habitatge de lloguer, el Govern pot fer altres convocatòries. En aquestes convocatòries, el període subvencionat ha de ser el mateix que el de la primera convocatòria.
+
+##### Article 21
+
+Presentació de les sol·licituds 1. Les sol·licituds de crèdits a l’emancipació i les de crèdits per accedir a un habitatge de lloguer s’han de presentar dins el període establert per a cada convocatòria o fins que s’exhaureixi la disponibilitat econòmica, situació que dóna lloc a la finalització del període de demanda i que es publica al Butlletí Oficial del Principat d’Andorra, d’acord amb els models oficials, i s’hi ha d’adjuntar la documentació que es defineix als article 7 i 10 respectivament.
+
+2. Les sol·licituds de subvenció periòdica a l’habitatge de lloguer s’han de presentar dins el període establert per a cada convocatòria, d’acord amb els models oficials, i s’hi ha d’adjuntar la documentació detallada a l’article 14.
+
+##### Article 22
+
+Procediment de tramitació El procediment de tramitació de les sol·licituds s’ha d’ajustar al que estableix la normativa general en matèria d’instrucció d’expedients administratius, amb les especificacions que es regulen en els apartats següents:
+
+a) El procediment s’inicia amb la presentació al Servei de Tràmits del Govern o dels comuns d’una sol·licitud, formalitzada en el model oficial, signada per la persona que sol·licita i per tots els membres de la llar majors d’edat. En el cas de les persones amb discapacitat ha de signar, si escau, el representant legal degudament acreditat.
+
+A la sol·licitud s’hi ha d’ajuntar els documents preceptius detallats als articles 7, 10 i 14 segons el tipus d’ajut sol·licitat.
+
+b) El Servei de Tràmits dóna entrada a la sol·licitud i la tramet amb la documentació annexa al Departament d’Habitatge. Si el Departament d’Habitatge observa que hi manca informació, dades o documents s’ha d’adreçar per escrit a la persona signatària de la sol·licitud perquè esmeni la deficiència o aporti els documents que manquen, tot advertint-la que si no ho fa en el termini de deu dies hàbils a partir de l’endemà la data de la notificació, la seva petició es considerarà desistida, es produirà la caducitat de l’expedient i s’arxivarà. Davant la impossibilitat de notificar a la persona interessada la manca d’informació, de dades o documents es publicarà aquesta situació al Butlletí Oficial del Principat d’Andorra tot advertint-la que si no esmena les deficiències o aporta els documents que manquen en el termini de deu dies hàbils a partir de l’endemà de la publicació, la seva petició es considerarà desistida, es produirà la caducitat de l’expedient i s’arxivarà.
+
+c) La sol·licitud l’ha de resoldre el titular del ministeri al qual està adscrit el Departament d’Habitatge dins el termini màxim de dos mesos, comptats a partir de la data de tancament del període establert per a la demanda, o a partir de la data d’esmena dels defectes o de l’aportació dels documents requerits per completar la sol·licitud.
+
+No obstant això, en el cas de les sol·licituds de crèdit a l’emancipació i de crèdits per accedir a un habitatge de lloguer, el termini màxim de dos mesos es redueix a un mes, comptat a partir de la data d’entrada de la sol·licitud al Servei de Tràmits o, si escau, a partir de la data d’esmena dels defectes o de l’aportació dels documents requerits per completar la sol·licitud.
+
+d) La resolució de la sol·licitud de subvenció periòdica a l’habitatge de lloguer, si és favorable, té efecte durant els mesos subvencionats que s’indiquen en el decret d’obertura de la convocatòria.
+
+La resolució de la sol·licitud de crèdit a l’emancipació i de crèdits per accedir a un habitatge de lloguer, si és favorable, té efecte a partir de la data de la signatura del contracte de préstec.
+
+e) La resolució denegatòria s’ha de notificar a la persona sol·licitant.
+
+##### Article 23
+
+Procediment d’atorgament L’atorgament d’un ajut es regeix per la valoració dels requisits establerts i, en especial, pel compliment dels barems econòmics d’ingressos i béns patrimonials de la llar, i de la seva composició.
+
+##### Article 24
+
+Selecció de sol·licituds 1. En el cas dels crèdits a l’emancipació i dels crèdits per accedir a un habitatge de lloguer, els ajuts s’atorguen segons l’ordre d’entrada de les sol·licituds estimades positivament fins a esgotar la totalitat de l’import disponible. No obstant això, si en el moment d’esgotar-se l’import disponible hi ha diverses sol·licituds estimades positivament, s’ha d’aplicar el criteri de selecció establert al punt següent.
+
+2. En cas que la disponibilitat econòmica destinada a la subvenció periòdica a l’habitatge de lloguer d’un mateix programa d’ajuts no permeti fer front a totes les sol·licituds estimades positivament en una mateixa convocatòria, els ajuts s’atorgaran seguint la relació de sol·licituds ordenades de menor a major segons la ràtio següent:
+
+##### Article 25
+
+Publicació de les resolucions La llista de les persones a qui s’ha atorgat un ajut, amb indicació del tipus d’ajut i el seu import, així com la llista de persones a qui s’ha denegat es publiquen al Butlletí Oficial del Principat d’Andorra.
+
+##### Article 26
+
+Posada a disposició dels ajuts 1. Crèdit a l’emancipació i crèdit per accedir a un habitatge de lloguer:
+
+a) En el cas d’atorgament d’un crèdit, l’Administració lliura una resolució en la qual certifica l’atorgament del préstec.
+
+b) La totalitat de l’import es fa disponible en un únic pagament en el termini de set dies hàbils a comptar de la data de la resolució. Abans de disposar de l’import, el titular de l’ajut ha de signar un contracte de préstec amb l’Administració.
+
+c) El beneficiari disposa de quinze dies hàbils després de la signatura del contracte de préstec per formalitzar el contracte d’arrendament i lliurar a l’Administració la documentació establerta a l’article 7.2 o a l’article 10.2, segons l’ajut sol·licitat.
+
+2. Subvenció periòdica a l’habitatge de lloguer:
+
+a) L’import es fa disponible en pagaments trimestrals, llevat dels casos en què el ministeri competent en matèria d’atenció social informi de la necessitat de fer pagaments mensuals.
+
+b) Els pagaments es fan durant el mes següent a la presentació dels rebuts de lloguer corresponents als mesos que cal subvencionar.
+
+c) La documentació s’ha de presentar el darrer mes del trimestre que cal subvencionar al Departament d’Habitatge del Govern, llevat dels casos de pagament mensual, en què la presentació ha de ser mensual.
+
+##### Article 27
+
+Seguiment i verificació de les dades després de la resolució 1. Una vegada resolta la sol·licitud, el ministeri al qual està adscrit el Departament d’Habitatge pot revisar l’atorgament d’ajuts a l’habitatge.
+
+2. Si en aquesta revisió s’observen possibles errors o omissions als deures i a les obligacions establerts en aquest Reglament, s’ha de procedir a la instrucció de l’expedient corresponent, en el qual s’ha de donar audiència a la persona interessada.
+
+3. Si de la instrucció se’n conclou que les dades eren correctes o que, en el cas de constatar-se algun error o omissió de comunicació, s’ha corregit i que aquesta correcció no altera el dret a l’obtenció de l’ajut, s’arxiven les actuacions.
+
+4. Per contra, si de la instrucció de l’expedient se’n deriva un possible falsejament o ocultació de dades o de documents, s’ha de resoldre l’expedient amb la revocació de l’ajut atorgat i la possible remissió de les actuacions a l’autoritat judicial, per tal que substanciï el procediment oportú.
+
+5. La revocació d’un ajut a l’habitatge segons el que estableix el punt anterior comporta la impossibilitat d’obtenir cap ajut a l’habitatge en el termini de 5 anys.
+
+6. El falsejament o l’ocultació d’informació o de les dades que integren o han d’integrar la sol·licitud d’ajut a l’habitatge comporta la resolució de revocació de l’ajut atorgat i la devolució total dels imports rebuts indegudament.
+
+7. En els casos de modificació de la situació socioeconòmica dels beneficiaris d’un ajut, l’Administració es reserva el dret de revisar l’atorgament de l’ajut o, si escau, l’import de l’ajut.
+
+##### Article 28
+
+Extinció de l’ajut 1. Els ajuts a l’habitatge s’extingeixen en els supòsits següents:
+
+a) Finalització del termini establert.
+
+b) Quan es deixen de reunir les condicions que van motivar l’atorgament.
+
+c) Quan es comprova que s’han falsejat les dades o els documents que van originar-ne la concessió, sense perjudici d’altres responsabilitats que se’n puguin derivar.
+
+d) Per renúncia escrita del titular de l’ajut.
+
+e) Per omissió de comunicació o d’alguna de les obligacions establertes en aquest Reglament.
+
+2. Les resolucions provisionals de suspensió o anul·lació s’han de comunicar als beneficiaris o als representants legals, els quals disposen del tràmit d’al·legacions durant deu dies hàbils des de la notificació. Transcorregut aquest termini sense haver formulat al·legacions, l’ajut queda extingit definitivament.
+
+3. L’aportació de dades incorrectes o falses per part del sol·licitant que hagin donat dret a l’ajut sense reunir els requisits establerts suposa, a més del que estableix l’article anterior, l’anul·lació de la prestació i el rescabalament per part de l’Administració de l’import íntegre més els interessos legals.
+
+#### Disposició addicional primera
+
+Després de la valoració social dels treballadors socials d’atenció primària del ministeri competent en la matèria, es poden tenir en compte les sol·licituds a favor de persones amb discapacitat que no compleixin l’obligació que el contracte d’arrendament de l’habitatge estigui a nom del titular de l’ajut o d’un membre de la llar que tingui una relació de parentiu fins al primer grau de consanguinitat o afinitat amb el sol·licitant.
+
+#### Disposició addicional segona
+
+Quan l’Administració té coneixement d’infants en situació de perill es tenen en compte les sol·licituds presentades per la família encara que no reuneixin els requisits dels articles 13.3 i 13.4 d’aquest Reglament, i sempre que visquin en territori andorrà i compleixin la resta de requisits. També es valoraran segons aquest criteri les sol·licituds presentades fora de termini, d’acord amb el que estableix l’article 15.
+
+Aquestes situacions s’han d’avalar mitjançant una valoració social per part dels treballadors socials d’atenció primària del ministeri competent en matèria d’atenció social.
+
+#### Disposició derogatòria
+
+Es deroga el Reglament d’ajuts a l’habitatge de lloguer, aprovat per decret l’11 de març del 2009 i modificat per decret del 5 de maig del 2010.
+
+#### Disposició final
+
+El Govern actualitza anyalment els imports que vol atorgar en concepte de crèdits establerts als articles 5 i 8, els barems econòmics d’ingressos màxims i mínims establerts als annexos 2, 3 i 4, l’import d’estalvis màxims establert als articles 6.9, 9.8 i 13.9, l’import màxim de lloguer de l’annex 6, el percentatge de col·laboració en el preu del lloguer de l’habitatge indicat a l’annex 7, els preus fets que s’han de descomptar pels serveis inclosos als rebuts d’arrendament indicats a l’annex 1 i el percentatge sobre el pressupost inicial destinat a constituir la reserva pressupostària establerta a l’article 16 per donar resposta a les sol·licituds que es presentin fora de termini.
+
+Cosa que es fa pública per a coneixement general Andorra la Vella, 9 de juny del 2010 Jaume Bartumeu Cassany Cap de Govern
+
+#### Annex 1
+
+Preu fet dels serveis annexos que s’han de descomptar de l’import de lloguer En cas que l’import del lloguer inclogui altres serveis annexos sense detallar-ne els imports, s’ha de descomptar un preu fet equivalent a 63,85 euros mensuals per habitatge en concepte de calefacció, 10,95 euros mensuals per habitatge en concepte d’aigua i 55,07 euros mensuals en concepte d’aparcament.
+
+#### Annex 2
+
+Barem econòmic d’ingressos màxims per aplicar a les sol·licituds de crèdits a l’emancipació Per complir els requisits econòmics, el conjunt d’ingressos econòmics del sol·licitant corresponent als dotze mesos anteriors a la data de presentació de la sol·licitud no pot superar el llindar fixat en 15.662,70 euros.
+
+#### Annex 3
+
+Barem econòmic d’ingressos per aplicar a les sol·licituds de crèdits per accedir a un habitatge de lloguer 1. Per complir els requisits econòmics, el conjunt d’ingressos econòmics de la llar corresponent als dotze mesos anteriors a la data de presentació de la sol·licitud no pot superar el llindar fixat en:
+
+Ingrés per membre equivalent: 13.740,74 euros 2. Per complir els requisits econòmics, el conjunt d’ingressos econòmics de la llar corresponent als dotze mesos anteriors a la data de la sol·licitud ha de superar el llindar fixat en:
+
+Ingrés per membre equivalent: 6.000 euros 3. Escala d’equivalència Fórmula per calcular l’ingrés per membre equivalent d’una llar Ingrés anyal/nombre de membres equivalents Càlcul del nombre de membres equivalents d’una llar El nombre de membres equivalents correspon a la suma dels coeficients d’equivalència següents:
+
+El primer adult de la composició familiar suma 1.
+
+La resta de membres (majors de 14 anys) de la composició familiar suma 0,7 cadascun.
+
+Els infants (de 14 anys o menors de 14 anys) sumen 0,5 cadascun.
+
+#### Annex 4
+
+Barem econòmic d’ingressos màxims per aplicar a les sol·licituds d’ajuts de subvenció periòdica a l’habitatge de lloguer Per complir els requisits econòmics, el conjunt d’ingressos econòmics de la llar corresponent als dotze mesos anteriors a la data de tancament de la convocatòria no pot superar el llindar fixat en:
+
+Ingrés per membre equivalent: 13.740,74 euros Fórmula per calcular l’ingrés per membre equivalent d’una llar Ingrés anyal/nombre de membres equivalents Càlcul del nombre de membres equivalents d’una llar El nombre de membres equivalents correspon a la suma dels coeficients d’equivalència següents:
+
+El primer adult de la composició familiar suma 1.
+
+La resta de membres (majors de 14 anys) de la composició familiar suma 0,7 cadascun.
+
+Els infants (de 14 anys o menors de 14 anys) sumen 0,5 cadascun.
+
+#### Annex 5
+
+Barem de puntuació per a la valoració dels béns patrimonials Per complir els requisits patrimonials de la llar, el còmput dels béns patrimonials dels membres de la llar en el moment de la sol·licitud ha de ser igual o superior a 150 punts:
+
+Punts assignats Punts obtinguts 1. Propietat de béns immobles de la llar no computats a les activitats econòmiques:
+
+1.1 No disposa de cap terreny ni local50 1.2 Disposa d’un terreny o local15 1.3 Disposa de dos o més terrenys o locals0 2. Accions o participacions en societats mercantils:
+
+2.1 No en disposa20 2.2 En disposa per un valor inferior o igual a 6.000 €10 2.3 En disposa per un valor superior a 6.000 €0 3. Comerços:
+
+3.1 No en disposa100 3.2 Disposa d’un únic comerç75 3.3 Disposa de dos o més comerços0 4. Vehicles no computats a les activitats econòmiques:
+
+4.1 No en disposa25 4.2 Disposa d’un únic automòbil de tipus turisme20 4.3 Disposa de dos o més automòbils de tipus turisme0 Total
+
+#### Annex 6
+
+Import màxim del lloguer mensual Per complir el requisit d’import màxim del lloguer mensual, l’import mensual del lloguer sense incloure altres despeses complementàries no pot superar l’import fixat en funció del nombre de membres que viuen en l’habitatge:
+
+Nombre de membres Import màxim del lloguer mensual 1 600 € 2 630 € 3 660 € 4 700 € 5 730 € 6 760 € 7 800 € 8 830 € 9 860 € 10 900 €
+
+#### Annex 7
+
+Taula dels percentatges de col·laboració dels ajuts de tipus subvenció periòdica a l’habitatge de lloguer segons la situació de la llar en relació amb el titular de la sol·licitud Situació del sol·licitant Percentatge de col·laboració en l’import mensual del lloguer Jove35% Persona gran35% Família monoparental35% Família nombrosa35% Persona amb discapacitat en la composició de la llar35% Altres situacions30%
+
