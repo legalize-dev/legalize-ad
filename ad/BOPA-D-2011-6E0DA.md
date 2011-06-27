@@ -1,0 +1,120 @@
+---
+title: "Decret de l’01-06-2011 d’aprovació de la modificació del Reglament de desenvolupament de la Llei 3/2009 d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia"
+identifier: "BOPA-D-2011-6E0DA"
+country: "ad"
+rank: "reglament"
+publication_date: "2011-06-28"
+last_updated: "2011-06-28"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/023042/Pagines/6E0DA.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "2011-05-31"
+bopa_issue: "BOPA 42/2011"
+bopa_document_id: "6E0DA"
+---
+# Decret de l’01-06-2011 d’aprovació de la modificació del Reglament de desenvolupament de la Llei 3/2009 d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia
+
+Decret d’aprovació de la modificació del Reglament de desenvolupament de la Llei 3/2009 d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia Exposició de motius El Govern, en la sessió del 23 de febrer del 2011, va aprovar el Reglament de desenvolupament de la Llei 3/2009 d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia, amb la finalitat de determinar i precisar els requisits que han de complir tant les autoritats estrangeres com les autoritats públiques andorranes en el marc d’una petició d’informació.
+
+El marc jurídic i normatiu que van aprovant els diversos països en aquest àmbit està sotmès a processos de valoració i millora permanentment. En aquest sentit, l’Organització de Cooperació i de Desenvolupament Econòmic, mitjançant el Global Forum, vetlla per la interpretació correcta i l’aplicació de la normativa.
+
+Així doncs, estem immersos en un procés evolutiu que requereix anar adequant el nostre marc normatiu a les evolucions que va patint la norma internacional, i a les recomanacions i interpretacions que en fan els organismes de control i seguiment.
+
+En aquest sentit, és necessari adaptar la redacció del Reglament de desenvolupament de la Llei 3/2009 d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia, per tal de facilitar-ne l’aplicació.
+
+La modificació permet clarificar la identificació de les persones subjectes a una demanda d’intercanvi d’informació i preservar el precepte de l’OCDE de prohibir el fishing expedition.
+
+A proposta del ministre encarregat de les finances, el Govern, en la sessió de l’1 de juny del 2011, Decreta
+
+##### Article únic
+
+S’aprova la nova redacció del Reglament de desenvolupament de la Llei 3/2009 d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia, que entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+
+Reglament de desenvolupament de la Llei 3/2009 d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia
+
+##### Article 1
+
+Àmbit d’aplicació El present reglament estableix els criteris per a la tramitació de les sol·licituds d’intercanvi d’informació formulades d’acord amb la Llei 3/2009 del 7 de setembre, d’intercanvi d’informació en matèria fiscal amb sol·licitud prèvia, i els respectius acords d’intercanvi d’informació o conveni de doble imposició amb clàusules d’intercanvi d’informació.
+
+Les disposicions contingudes en aquest Reglament són d’aplicació, sense perjudici de les disposicions específiques de l’Acord o Conveni aplicable.
+
+##### Article 2
+
+Autoritat competent El Ministeri encarregat de les finances és l’única autoritat competent per executar l’assistència administrativa en el marc de les sol·licituds formulades per Estats estrangers, així com per formular peticions d’intercanvi d’informació fiscal dirigides a Estats estrangers.
+
+##### Article 3
+
+Definicions Als efectes del present Reglament:
+
+a) La persona concernida és la persona sobre la qual se sol·licita informació objecte de la sol·licitud d’assistència administrativa.
+
+b) El posseïdor de la informació és la persona que posseeix la informació sol·licitada a Andorra.
+
+##### Article 4
+
+Contingut de les sol·licituds prèvies d’intercanvi d’informació Les sol·licituds prèvies d’intercanvi d’informació s’han de formular per escrit amb l’indicació del seu objecte, quedant benentès que les sol·licituds genèriques d’informació no podran ser ateses. A aquest efecte, les esmentades sol·licituds dirigides al Ministeri encarregat de finances, de conformitat amb l’article 4 de la Llei 3/2009, han de comportar les mencions següents:
+
+a) Identitat de la persona concernida.
+
+Les dades relatives a la identitat de la persona concernida inclouen els noms i cognoms o raó social, l’adreça o domicili, o bé tot altre tipus d’informació que sigui necessària per determinar la identitat de la persona concernida de tal forma que no pugui existir cap confusió.
+
+b) Període objecte de la petició.
+
+La petició d’informació fa referència als períodes tributaris objecte de comprovació així com als períodes tributaris respecte dels quals se sol·licita informació en el cas que difereixin dels períodes objecte de comprovació.
+
+Les dates aportades amb la sol·licitud hauran de permetre al Ministeri encarregat de les finances, verificar l’adequació de la petició a la Disposició Final Segona de la Llei 3/2009.
+
+c) La naturalesa de la informació sol·licitada.
+
+La petició d’informació precisa la naturalesa de les rendes i les operacions que generen les obligacions tributàries, el correcte compliment de les quals és objecte de la investigació que motiva la sol·licitud d’informació.
+
+d) La finalitat per la qual, en aplicació de la normativa fiscal de la part requeridora, es demanen les informacions.
+
+En la sol·licitud d’intercanvi d’informació, s’ha d’indicar la finalitat perseguida per la part requeridora i precisar si aquesta finalitat és únicament administrativa o si pot comportar una responsabilitat penal.
+
+e) Motius i elements que permetin pensar que la informació sol·licitada pugui previsiblement resultar d’interès per a l’Administració requeridora.
+
+La sol·licitud ha de precisar el motiu pel qual la informació sol·licitada resulta d’interès per a l’Administració de l’Estat requeridor, en relació a la persona concernida.
+
+f) La sol·licitud prèvia inclou els motius i els elements suficients que permetin creure que la informació sol·licitada està a l’abast de l’autoritat competent andorrana o en la seva possessió o bé que pugui ser obtinguda per una persona que es troba sota la seva jurisdicció i, en la mesura que sigui conegut, el nom i direcció de la persona de la qual es pot pensar que tindria en la seva possessió o al seu abast la informació sol·licitada.
+
+A aquest efecte constituiran elements suficients qualsevol document o element que estableixi i determini la relació entre la persona concernida i el posseïdor de la informació.
+
+Els documents i elements de referència han d’haver estat obtinguts, d’acord amb la legislació aplicable a aquest efecte.
+
+g) La petició d’informació inclou una declaració als efectes de l’article 4 apartat h) de la Llei 3/2009 i precisa el fonament jurídic sobre el que es basa la petició, així com la certificació que l’Administració de l’Estat requeridor podria obtenir la informació si aquesta es trobés en el seu país.
+
+h) S’acompanya a la petició una certificació estesa per l’autoritat competent de l’Estat requeridor atestant que aquesta és conforme amb l’instrument legal en què es fonamenta.
+
+i) La petició d’informació comporta una certificació que acredita que l’Estat requeridor ha utilitzat, per obtenir la informació sol·licitada, tots els mitjans disponibles en el seu propi territori, llevat que li puguin comportar dificultats desproporcionades.
+
+##### Article 5
+
+Tramitació de les sol·licituds El Ministeri encarregat de les finances analitzarà la petició d’informació amb sol·licitud prèvia, a fi de verificar que s’ha donat compliment als requisits contemplats en la Llei 3/2009. En particular, examinarà si els requisits fixats a l’article 5 de la dita Llei són respectats per la petició d’informació en matèria fiscal i, en la negativa, retornarà la petició a l’Estat requeridor, a fi que la pugui complementar o modificar.
+
+El Ministeri encarregat de les finances no estarà obligat a obtenir i proporcionar informació que pogués desvetllar comunicacions confidencials entre un client i un advocat o altre representant legal reconegut, quan aquestes comunicacions:
+
+a) es produeixin amb la finalitat d’obtenir o prestar assessorament jurídic; o b) es produeixin a l’efecte de la seva utilització en un procés judicial en curs o previst.
+
+##### Article 6
+
+Notificació Efectuat aquest examen preliminar, el Ministeri encarregat de les finances notifica a la persona concernida, així com al posseïdor de la informació, la sol·licitud d’informació fiscal, encetant-se així el procediment administratiu. A partir d’aquest moment, existeix la possibilitat de consultar l’expedient tramitat per l’Autoritat competent.
+
+##### Article 7
+
+Designació S’informarà la persona concernida que pot designar en territori andorrà una persona degudament habilitada a rebre les notificacions relatives a la petició d’informació fiscal. La persona concernida disposa d’un termini no superior a tretze dies hàbils per a efectuar aquesta designació. En el cas que la persona concernida no designi cap persona habilitada a Andorra, se li notifica personalment les diligències de l’expedient administratiu, a tots els efectes en dret escaients.
+
+##### Article 8
+
+Procediment d’oposició En el cas que la persona concernida o la posseïdora de la informació faci ús del dret a oposició, previst en la Llei 3/2009, la informació sol·licitada serà tramesa a l’autoritat administrativa requeridora, una vegada esgotades les vies de recurs, sempre i quan l’autoritat judicial desestimi l’oposició formulada.
+
+En tot moment, la persona concernida i la posseïdora de la informació poden notificar al Ministeri encarregat de les finances, per escrit, el seu consentiment perquè la informació sol·licitada sigui entregada a l’autoritat administrativa requeridora.
+
+##### Article 9
+
+Característica de la informació a lliurar Les persones posseïdores de la informació tenen l’obligació de lliurar al Ministeri encarregat de les finances les informacions que són al seu abast, sense perjudici del dret de recurs que els assisteixi, en aplicació de la Llei 3/2009.En el cas de comptes bancaris indivisos, la informació es referirà a la persona concernida, per la part que deté en el dit compte bancari, que correspondrà a parts iguals als titulars, tret de constància en sentit contrari.
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 1 de juny del 2011 Antoni Martí Petit Cap de Govern
+
