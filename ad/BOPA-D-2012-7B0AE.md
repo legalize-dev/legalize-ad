@@ -1,0 +1,641 @@
+---
+title: "Decret del 24-10-2012 pel qual s’aprova el Reglament de l’impost general indirecte"
+identifier: "BOPA-D-2012-7B0AE"
+country: "ad"
+rank: "reglament"
+publication_date: "2012-11-04"
+last_updated: "2012-11-04"
+status: "in_force"
+source: "https://www.bopa.ad/bopa/024054/Pagines/7B0AE.aspx"
+department: "Govern del Principat d'Andorra"
+signature_date: "2012-10-23"
+bopa_issue: "BOPA 54/2012"
+bopa_document_id: "7B0AE"
+bopa_extra: "true"
+---
+# Decret del 24-10-2012 pel qual s’aprova el Reglament de l’impost general indirecte
+
+Decret pel qual s’aprova el Reglament de l’impost general indirecte Exposició de motius La Llei 11/2012, del 21 de juny del 2012, incorpora al nostre ordenament tributari el règim jurídic de l’impost general indirecte. Aquesta Llei respon a una fita fonamental en el procés de perfeccionament i reforma de la imposició indirecta andorrana.
+
+L’amplitud de l’àmbit d’aplicació de l’impost, que s’estén a la generalitat de les activitats empresarials o professionals; la mateixa naturalesa del text legal; així com determinades precisions reglamentàries establertes a la Llei per desenvolupar certs procediments, regular les obligacions formals i establir els criteris que facilitin la interpretació de les normes legals, han fet procedent que determinats aspectes es desenvolupin per la via reglamentària.
+
+El Reglament consta de 33 articles, en els quals s’atén a les remissions establertes a la Llei, mitjançant l’ordre que s’hi estableix: naturalesa i àmbit de l’aplicació de l’impost, exempcions, lloc de realització del fet generador, base imposable, devolucions, règims especials, obligacions formals dels obligats tributaris i gestió de l’impost.
+
+Amb relació a la naturalesa i l’àmbit d’aplicació de l’impost, es delimita el còmput dels llindars per ser considerats empresaris o professionals i es regula l’opció voluntària de ser considerat com a empresari o professional tot i no complir els requisits quantitatius establerts en l’article 5 de la Llei.
+
+Pel que fa a les exempcions, es delimiten alguns requisits per aplicar-ne en relació amb les exportacions, les zones franques i els dipòsits temporals, entre d’altres.
+
+Amb relació al lloc de realització del fet generador, s’ha desenvolupat reglamentàriament l’exercici de l’opció de tributació com a obligats tributaris establerts al territori andorrà per part d’empresaris no establerts en aquest territori.
+
+Pel que fa referència a la base de tributació, es regula la forma en què s’han d’instrumentar les modificacions de la base de tributació i el seu impacte en la quota traslladada.
+
+Amb relació al tipus de gravamen, es determina l’organisme responsable del reconeixement del caràcter cultural o social, així com de determinar les entitats autoritzades en matèria d’educació i ensenyament superior.
+
+Amb referència a les devolucions, s’estableix els terminis, els efectes, així com la forma d’aplicació que els obligats tributaris han d’acomplir en relació amb aquestes qüestions.
+
+També s’introdueixen preceptes reglamentaris en relació amb el règim especial simplificat.
+
+Es delimiten, a continuació, les obligacions formals dels obligats tributaris en relació amb els diversos llibres-registre.
+
+S’aborden els preceptes relatius a la gestió de l’impost, en relació amb la liquidació i recaptació, i a les obligacions que han de complir els obligats tributaris no establerts.
+
+Finalment, s’estableixen els requisits de les factures o els documents substitutius, i se n’estableixen tres modalitats.
+
+S’estableixen igualment quatre disposicions transitòries que regulen aspectes de determinats règims especials.
+
+A més a més, el Reglament conté una disposició final que n’estableix l’entrada en vigor.
+
+A proposta del ministre de Finances, el Govern, en la sessió del 24 d’octubre del 2012, aprova aquest Reglament d’aplicació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte.
+
+##### Article únic
+
+S’aprova el Reglament d’aplicació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte, que entrarà en vigor l’endemà de ser publicat al Butlletí Oficial del Principat d’Andorra.
+
+Reglament d’aplicació de la Llei 11/2012, del 21 de juny, de l’impost general indirecte
+
+##### Article 1. Llindar d’operacions per ser considerat empresari o professional
+
+##### Article 2. Opció voluntària de ser considerat empresari o professional
+
+##### Article 3. Exempcions relatives a les exportacions
+
+##### Article 4. Exempcions relatives a les zones franques i els dipòsits temporals
+
+##### Article 5. Exempcions relatives als règims duaners i fiscals
+
+##### Article 6. Importacions de béns personals
+
+##### Article 7. Importacions de béns en ocasió de l’adquisició de la totalitat o part del patrimoni empresarial o professional
+
+##### Article 8. Exempcions condicionades a una autorització administrativa
+
+##### Article 9. Reimportacions de béns exempts de l’impost
+
+##### Article 10. Prestacions de serveis relacionats amb les importacions
+
+##### Article 11. Exempcions en les importacions de béns per evitar la doble imposició
+
+##### Article 12. Consideració d’establerts a l’efecte de la Llei de l’impost general indirecte
+
+##### Article 13. Modificació de la base de tributació
+
+##### Article 14. Tipus de gravamen reduït
+
+##### Article 15. Reconeixement de caràcter cultural o social
+
+##### Article 16. Autoritzacions en matèria d’educació i ensenyament superior
+
+##### Article 17. Devolucions a exportadors en règim comercial
+
+##### Article 18. Devolucions a determinats empresaris o professionals no establerts en el territori d’aplicació de l’impost
+
+##### Article 19. Contingut del règim simplificat
+
+##### Article 20. Exclusió del règim simplificat
+
+##### Article 21. Declaracions-liquidacions
+
+##### Article 22. Llibres registre de l’impost general indirecte
+
+##### Article 23. Llibre registre de factures emeses
+
+##### Article 24. Llibre registre de factures rebudes
+
+##### Article 25. Terminis per a les anotacions registrals
+
+##### Article 26. Rectificació de les anotacions comptables
+
+##### Article 27. Liquidació de l’impost. Normes generals
+
+##### Article 28. Obligacions dels fedataris públics
+
+##### Article 29. Meritació de l’impost en les importacions
+
+##### Article 30. Recaptació de l’impost. Normes generals
+
+##### Article 31. Liquidació de l’impost en les importacions
+
+##### Article 32. Obligacions dels obligats tributaris no establerts
+
+##### Article 33. Requisits de les factures
+
+#### Disposicions transitòries
+
+#### Disposició final
+
+#### Annex
+
+##### Article 1
+
+Llindar d’operacions per ser considerat empresari o professional 1. D’acord amb l’establert en l’article 5.4 de la Llei, els empresaris o professionals no tenen aquesta consideració als efectes de l’Impost quan l’import dels lliuraments de béns o prestacions de serveis realitzats no supera la xifra anual de 40.000 euros.
+
+2. En el cas d’activitats agrícoles i ramaderes el llindar es xifra en 150.000 euros.
+
+3. Aquests llindars són aplicables de forma conjunta per al global de les activitats realitzades pels empresaris o professionals. Així, si el conjunt de les activitats, excloses les agrícoles i ramaderes, supera el llindar de 40.000 euros, s’és empresari o professional per totes les activitats realitzades. Tanmateix, si els empresaris o professionals no superen el llindar anterior però superen la xifra de 150.000 euros un cop incloses les activitats agrícoles i ramaderes, també tenen la consideració d’empresaris o professionals per totes les activitats realitzades.
+
+4. En el període de declaració de liquidació en què es depassi el llindar referit en els apartats anteriors, l’obligat tributari ha de regularitzar el tractament tributari de les operacions efectuades durant tot l’any natural.
+
+##### Article 2
+
+Opció voluntària de ser considerat empresari o professional 1. Els empresaris o professionals que no superin els llindars establerts en l’article 5 de la Llei i regulats en l’article precedent d’aquest Reglament poden optar per ser considerats com a tals a l’efecte de l’impost general indirecte.
+
+2. L’opció s’ha de comunicar al ministeri encarregat de les finances mitjançant l’emplenament de la corresponent declaració censal.
+
+3. L’opció produeix efectes l’any natural següent a la sol·licitud i és aplicable a totes les activitats realitzades de caràcter empresarial o professional.
+
+4. L’opció tindrà un període mínim de vigència d’un any.
+
+5. Per sol·licitar la baixa cal renunciar a la consideració d’empresari o professional comunicant-ho al ministeri encarregat de les finances abans de la finalització de l’any anterior a l’any en què hagi de tenir efecte.
+
+##### Article 3
+
+Exempcions relatives a les exportacions Primer. Les exempcions relatives a les exportacions fora del territori andorrà estan condicionades al compliment dels requisits que s’estableixen a continuació:
+
+1. Lliuraments de béns exportats o enviats pel transmitent o per una tercera persona que actuï en nom i per compte seu.
+
+En aquest casos l’exempció està condicionada a la sortida efectiva dels béns del territori andorrà, que s’entén que s’ha produït quan així ho estableixi la legislació duanera.
+
+A l’efecte de justificar l’exempció, el transmitent ha de mantenir dins del termini de prescripció les còpies de les factures, els documents de transport i els documents duaners acreditatius de la sortida dels béns.
+
+2. Lliuraments de béns exportats per l’adquirent no establert al territori d’aplicació de l’impost o per una tercera persona que actuï en nom i per compte seu en els casos següents:
+
+A ) Lliuraments en règim comercial.
+
+Quan els béns objecte dels lliuraments constitueixin una expedició comercial, l’exempció queda condicionada al compliment dels requisits següents:
+
+I. Els establerts en el número anterior.
+
+II. L’exportació s’ha de materialitzar o produir en el termini de tres mesos següents a la seva posada a disposició, en què l’adquirent ha de presentar el corresponent document duaner d’exportació. Excepcionalment, per als treballs realitzats sobre béns mobles que són exportats, el termini es pot prorrogar sis mesos segons el que disposa el punt IV del paràgraf tercer del número 3 següent.
+
+En el document duaner també hi ha de constar el nom del proveïdor establert a Andorra a qui correspon la condició d’exportador, amb el seu número d’identificació fiscal i la referència a la factura emesa. L’adquirent ha de remetre al proveïdor una còpia del document mencionat diligenciada per la Duana de sortida.
+
+B) Lliuraments en règim de viatgers.
+
+El compliment dels requisits establerts per la Llei de l’impost, per a l’exempció dels lliuraments mencionats s’ha d’ajustar a les normes següents:
+
+I. L’exempció només s’aplica als béns que tinguin un valor unitari superior a 900 euros, impostos inclosos, i que estiguin documentats en la factura corresponent.
+
+II. La residència habitual dels viatgers s’ha d’acreditar mitjançant el passaport, el document d’identitat o qualsevol altre mitjà de prova admès en dret.
+
+III. El venedor ha d’expedir la factura corresponent, en la qual s’ha de consignar els béns adquirits i, separadament, l’impost que correspongui.
+
+IV. Els béns han de sortir del territori andorrà en el termini de tres mesos des de la data en què s’hagi efectuat el lliurament.
+
+A aquest efecte, el viatger ha de presentar els béns a la Duana d’exportació, acompanyats de la sol·licitud de reemborsament per exportació que determini el ministeri encarregat de les finances. La Duana d’exportació acredita la sortida mitjançant la diligència corresponent en la factura, i emet l’avís de recepció de la sol·licitud de reemborsament.
+
+V. Complementàriament, el viatger ha d’acreditar l’efectiva presentació dels béns a les autoritats duaneres de l’estat d’entrada dels béns, mitjançant l’aposició d’un segell d’aquestes autoritats a la factura. El viatger ha de fer arribar la factura diligenciada per les autoritats duaneres de l’estat d’entrada al ministeri encarregat de les finances, en el termini màxim de 30 dies naturals a comptar de la sortida dels béns del territori andorrà.
+
+Un cop complerts els requisits establerts en els punts anteriors, el ministeri encarregat de les finances ha de retornar l’impost meritat, d’acord amb el que estableixen els articles 14 i 72 de la Llei, mitjançant un xec o una transferència al viatger o al seu representant prèviament designat en la sol·licitud de reemborsament.
+
+3. Treballs realitzats sobre béns mobles que són exportats.
+
+Estan exempts els treballs realitzats sobre béns mobles adquirits o importats amb aquest objectiu i exportats fora del territori andorrà per la persona que ha fet el treball o pel destinatari no establert en el territori d’aplicació de l’impost, o bé per una altra persona que actuï en nom i per compte de qualsevol d’aquests.
+
+Entre d’altres, s’entenen per “treballs realitzats sobre béns mobles” els de perfeccionament, transformació, manteniment o reparació dels béns, fins i tot mitjançant la incorporació d’altres béns de qualsevol origen i sense la necessitat que els béns es vinculin als règims duaners compresos en l’article 17 de la Llei de l’impost.
+
+L’exempció no s’estén als treballs de reparació o manteniment de mitjans de transport d’ús privat introduïts en el règim de trànsit o d’importació temporal.
+
+L’exempció dels treballs queda condicionada al compliment dels requisits següents:
+
+I. Els establerts en l’apartat número 2, complerts pel destinatari dels treballs no establert en el territori d’aplicació de l’impost o pel prestador, segons escaigui.
+
+II. Els béns han de ser adquirits o importats per persones no establertes al territori d’aplicació de l’impost o per qui actuï en nom i per compte de les persones referides, amb l’objectiu d’incorporar-hi determinats treballs.
+
+III. Els treballs s’han de prestar per compte dels adquirents o importadors no establerts, a l’efecte de l’impost general indirecte, al territori d’aplicació de l’impost.
+
+IV. El prestador ha d’efectuar els treballs en el termini dels sis mesos següents a la recepció dels béns, i ha de remetre un acusament de recepció a l’adquirent dels béns no establert al territori d’aplicació de l’impost o, si escau, del proveïdor.
+
+El termini establert en el paràgraf anterior es pot prorrogar a sol·licitud de l’interessat pel temps necessari per efectuar els treballs. La sol·licitud es presenta en el Departament de Duanes, que ho autoritza quan es justifiqui per la naturalesa dels treballs, i s’entén concedida la pròrroga quan l’Administració no contesti en el termini d’un mes a comptar de la presentació de la sol·licitud.
+
+V. Un cop finalitzats els treballs, els béns s’han d’exportar en el termini d’un mes.
+
+L’exportació l’ha d’efectuar el destinatari dels treballs o el prestador, que ha de fer constar en el document d’exportació la identificació del proveïdor establert a Andorra i la referència a la factura emesa pel mateix proveïdor.
+
+També la pot efectuar una tercera persona en nom i per compte del prestador o del destinatari dels treballs.
+
+VI. El destinatari no establert o, en el seu cas, el prestador dels treballs han de remetre al proveïdor dels béns una còpia del document d’exportació diligenciada per la Duana de sortida en el període de quinze dies.
+
+4. Lliurament de béns a organismes reconeguts per exportar-los posteriorment.
+
+Per aplicar aquesta exempció, correspon al ministeri encarregat de les finances el reconeixement oficial dels organismes que exerceixin les activitats humanitàries, caritatives o educatives, a sol·licitud dels mateixos organismes i amb l’informe previ del departament ministerial corresponent en el qual s’acrediti que els organismes mencionats actuen sense ànim de lucre.
+
+En relació amb aquests lliuraments, també és aplicable el que disposa el número 1 d’aquest apartat.
+
+L’exportació dels béns fora d’Andorra s’ha d’efectuar en el termini dels tres mesos següents a la data de l’adquisició, i l’organisme autoritzat queda obligat a remetre al proveïdor una còpia dels documents de sortida en el termini de quinze dies a comptar de la data de l’exportació.
+
+5. Serveis relacionats directament amb les exportacions.
+
+A ) S’entenen directament relacionats amb les exportacions els serveis en els quals concorrin els requisits següents:
+
+I. Que es prestin a qui faci les exportacions o els enviaments dels béns, als adquirents, als intermediaris que actuïn en nom i per compte dels primers o dels segons i als transitaris, consignataris o agents de duanes que actuïn per compte d’aquells.
+
+II. Que es duguin a terme en relació amb les exportacions mencionades.
+
+III. Que es facin a partir del moment en què els béns s’expedeixen directament amb destí a un punt situat fora d’Andorra o bé a un punt situat en una zona fronterera en què s’efectuïn les operacions d’agregació o consolidació de les càrregues per enviar-les immediatament fora d’Andorra, encara que es facin escales intermèdies en altres llocs.
+
+La condició a què es refereix aquesta lletra no s’exigeix en relació amb els serveis d’arrendament dels mitjans de transport, embalatge i condicionament de la càrrega, reconeixement de les mercaderies per compte dels adquirents i d’altres anàlogues en què la realització prèvia sigui imprescindible per dur a terme l’enviament.
+
+B) Les exempcions compreses en aquest número queden condicionades a la concurrència dels requisits que es mencionen a continuació:
+
+I. La sortida dels béns fora d’Andorra s’ha d’esdevenir en el termini de tres mesos a comptar de la data de la prestació del servei.
+
+II. La sortida dels béns es justifica amb la còpia del document duaner de sortida.
+
+III. Els documents que justifiquen la sortida dels béns han de ser remesos, si escau, al prestador dels serveis dins dels quinze dies següents a la data de la sortida dels béns.
+
+C) Entre els serveis compresos en aquest número s’inclouen els següents: transport de béns; càrrega, descàrrega i conservació; custòdia, emmagatzemament i embalatge; lloguer dels mitjans de transport, els contenidors i els materials de protecció de les mercaderies, i d’altres anàlegs.
+
+Segon. L’incompliment dels requisits establerts en l’apartat primer determina l’obligació per a l’obligat tributari de liquidar i traslladar l’impost al destinatari de les operacions efectuades.
+
+##### Article 4
+
+Exempcions relatives a les zones franques i els dipòsits temporals 1. L’exempció dels lliuraments de béns destinats a les zones franques o a ser col·locats en situació de dipòsit temporal està condicionada al fet que els béns s’introdueixin o es col·loquin en les àrees o situacions indicades, cosa que s’acredita en la forma com es determini per la legislació duanera.
+
+El transport dels béns als llocs esmentats l’ha de fer el proveïdor, l’adquirent o algú altre per compte de qualsevol d’ells.
+
+2. Els lliuraments dels béns que es trobin en les àrees o situacions indicades en l’apartat 1, així com les prestacions de serveis relatives als mencionats béns, només estan exempts si els béns, de conformitat amb la legislació duanera, romanen en aquestes zones o en aquests dipòsits francs o en situació de dipòsit temporal.
+
+Es considera complert aquest requisit quan els béns surten dels llocs indicats per introduir-se en d’altres de la mateixa naturalesa.
+
+3. Els obligats tributaris només poden aplicar les exempcions de les operacions relacionades amb les zones franques i els dipòsits temporals si l’adquirent dels béns o el destinatari dels serveis els entreguen una declaració subscrita per ells, i validada per les autoritats duaneres, en què quedi justificada la recepció dels béns i es posi de manifest el destí o la situació dels mateixos béns que justifiqui l’exempció corresponent.
+
+##### Article 5
+
+Exempcions relatives als règims duaners i fiscals Primer. Per aplicar l’article 17 de la Llei de l’impost i amb la reserva de les disposicions aplicables que segueixen, els procediments establerts per a la posada dels béns sota qualsevol dels règims duaners següents s’apliquen mutatis mutandi en relació amb les exempcions de l’impost general indirecte. Sense perjudici de les modalitats específiques previstes en aquest apartat, les condicions d’atorgament, de garantia, de posada, de sojorn i de tancament dels béns en un dels mencionats règims especials són idèntiques, mutatis mutandi, a les desenvolupades en els reglaments aplicables relatius als règims duaners corresponents.
+
+Segon. Les exempcions en els lliuraments de béns i les prestacions de serveis relacionats amb els règims compresos a l’article 17 de la Llei de l’impost queden condicionades al compliment dels requisits següents:
+
+1. Que les operacions es refereixin als béns que es destinen a ser utilitzats en els processos efectuats a l’empara dels règims esmentats, d’acord amb el que disposa la legislació duanera.
+
+2. Que l’adquirent dels béns o el destinatari dels serveis hagi comunicat al Departament de Duanes les operacions exemptes de les quals sigui destinatari, en un document normalitzat aprovat per aquest mateix Departament.
+
+##### Article 6
+
+Importacions de béns personals En relació amb les exempcions relatives a les importacions de béns personals, són aplicables les regles següents:
+
+1. Els terminis mínims de residència habitual continuada fora del país no es consideren interromputs si es produeix una absència com a màxim de quaranta-cinc dies per motiu de vacances, turisme, negocis o malaltia.
+
+L’assistència a una universitat o escola al territori d’aplicació de l’impost, per estudis, no determina el trasllat de la residència habitual.
+
+2. Els interessats han de presentar en el moment de la importació una relació detallada dels béns per importar, el document acreditatiu de la baixa de la seva residència habitual fora d’Andorra i, si escau, una certificació del període de permanència a la residència anterior.
+
+Si l’interessat és de nacionalitat estrangera també ha de presentar la targeta de residència al territori andorrà o el justificant de la seva sol·licitud. En aquest últim cas, se li concedeix, amb prestació prèvia de garanties, el termini d’un any per aconseguir la residència.
+
+3. La importació dels béns es pot efectuar en una o en diverses vegades i per un o diversos despatxos duaners.
+
+4. En la importació de béns per causa d’herència:
+
+a. L’exempció només s’aplica respecte dels béns importats en el termini de dos anys a partir del moment en què l’interessat hagi pres possessió dels béns adquirits, excepte causes excepcionals apreciades pel ministeri encarregat de les finances.
+
+b. L’importador ha d’acreditar la seva adquisició mitjançant la corresponent escriptura pública, atorgada davant d’un notari, o per qualsevol altre mitjà de prova admès en dret.
+
+##### Article 7
+
+Importacions de béns en ocasió de l’adquisició de la totalitat o part del patrimoni empresarial o professional El caràcter empresarial de l’activitat desenvolupada en origen, el període d’utilització dels béns i la data d’adquisició s’han d’acreditar per qualsevol mitjà de prova admès en dret. En particular es considera vàlida la certificació emesa per l’administració del país corresponent.
+
+##### Article 8
+
+Exempcions condicionades a una autorització administrativa Les autoritzacions administratives que condicionen les exempcions de les importacions de béns se sol·liciten davant del ministeri encarregat de les finances i tenen efecte respecte de les importacions la meritació de les quals es produeixi a partir de la data de l’acord corresponent o, si escau, de la data que s’hi indiqui.
+
+L’autorització s’entén revocada en el moment en què es modifiquin les circumstàncies que en van motivar la concessió o quan es produeixi un canvi en la normativa que variï les condicions que en van motivar l’atorgament.
+
+##### Article 9
+
+Reimportacions de béns exempts de l’impost L’exempció de les reimportacions de béns està condicionada al compliment dels requisits següents:
+
+1. Que l’exportació no hagi estat conseqüència d’un lliurament en el territori d’aplicació de l’impost.
+
+S’entén complert aquest requisit quan els béns, tot i haver estat objecte d’un lliurament a l’interior del país, retornin per qualsevol de les causes següents:
+
+a. Haver estat rebutjats pel destinatari, per ser defectuosos o no ajustar-se a les condicions de l’encàrrec.
+
+b. Haver estat recuperats per l’exportador, per falta de pagament o incompliment de les condicions del contracte per part del destinatari o adquirent dels béns.
+
+2. Que els béns s’hagin exportat prèviament amb caràcter temporal.
+
+3. Que la reimportació dels béns l’efectuï la mateixa persona a qui l’Administració en va autoritzar la sortida.
+
+4. Que els béns es reimportin en el mateix estat en què van sortir sense sofrir cap altre demèrit que el produït per l’ús autoritzat per l’Administració.
+
+S’entén complert aquest requisit quan els béns exportats siguin objecte de treballs o reparacions realitzats fora del país a títol gratuït, en virtut d’una obligació contractual o legal de garantia o com a conseqüència d’un vici de fabricació.
+
+5. Que la reimportació es beneficiï, també, de l’exempció dels drets a la importació o no hi estigui subjecta.
+
+##### Article 10
+
+Prestacions de serveis relacionats amb les importacions L’exempció dels serveis relacionats amb les importacions a què es refereix l’article 39 de la Llei de l’impost s’ha de justificar amb la còpia del document duaner corresponent, diligenciada per la Duana.
+
+Els documents a què es refereix aquest article han de ser remesos, quan sigui procedent, al prestador del servei, dintre del mes següent a la prestació. Si no és el cas, el prestador del servei ha de liquidar i traslladar l’impost que correspongui.
+
+##### Article 11
+
+Exempcions en les importacions de béns per evitar la doble imposició L’aplicació de les exempcions compreses en l’article 40 de la Llei de l’impost està condicionada al fet que l’importador acrediti davant la Duana la concurrència dels requisits legals establerts per qualsevol mitjà de prova admès en dret i, en particular, mitjançant el contracte relatiu a les operacions previstes en el precepte legal esmentat.
+
+La Duana pot exigir una garantia suficient fins que s’acrediti el pagament de l’impost corresponent als lliuraments de béns o les prestacions de serveis o la reexportació dels béns compresos, respectivament, en els números 1 i 2 de l’article 40 de la Llei de l’impost.
+
+##### Article 12
+
+Consideració d’establerts a l’efecte de la Llei de l’impost general indirecte L’exercici voluntari de l’opció de tributació com un obligat tributari establert al territori d’aplicació de l’impost per part d’empresaris o professionals no establerts, regulada a l’apartat 4 de l’article 43 de la Llei de l’impost general indirecte, s’ha de materialitzar mitjançant la presentació d’una sol·licitud al ministeri encarregat de les finances.
+
+##### Article 13
+
+Modificació de la base de tributació En els casos a què es refereixen els articles 49 i 56 de la Llei de l’impost, l’obligat tributari està obligat a emetre una nova factura o un document substitutiu en què es rectifiqui o, si escau, s’anul·li la quota traslladada. Aquest document ha de ser remès al destinatari de les operacions.
+
+L’augment o la disminució de les quotes que s’ha de deduir el destinatari de l’operació estan condicionats a l’expedició i la remissió del document que rectifiqui l’expedit anteriorment.
+
+##### Article 14
+
+Tipus de gravamen reduït L’annex 1 detalla els productes als quals és aplicable el tipus de gravamen reduït d’acord amb el que estableix l’article 58, apartats 2, 3 i 4 de la Llei.
+
+##### Article 15
+
+Reconeixement del caràcter cultural o social A l’efecte del que estableix l’article 59, apartat 6, de la Llei, les entitats o els establiments privats de caràcter cultural o social han de sol·licitar el reconeixement d’aquesta condició davant del ministeri encarregat d’afers culturals i socials.
+
+El reconeixement del caràcter cultural o social tindrà efectes respecte de les operacions la meritació de les quals es produeixi a partir de la data de sol·licitud. La sol·licitud s’entén resolta favorablement si el ministeri encarregat d’afers culturals i socials no la contesta en el termini d’un mes.
+
+L’eficàcia d’aquest reconeixement està condicionada, a més, a la subsistència dels requisits que, segons el que disposa la normativa, hagin fonamentat el reconeixement del caràcter cultural o social de les entitats o els establiments.
+
+##### Article 16
+
+Autoritzacions en matèria d’educació i ensenyament superior Tenen la consideració d’entitats privades autoritzades, a les quals es refereix l’article 59, apartat 4 de la Llei de l’impost, els centres educatius o d’ensenyament superior reconeguts o autoritzats pel departament ministerial competent en aquestes matèries.
+
+##### Article 17
+
+Devolucions a exportadors en règim comercial Primer. Els obligats tributaris que, durant l’any natural immediatament anterior, hagin fet operacions exemptes compreses en els articles 14 i 15 de la Llei per un import global superior a 100.000 euros, tenen el dret a la devolució del saldo a favor que hi hagi al terme de cada període de liquidació fins al límit resultant d’aplicar el tipus de gravamen general de l’impost a l’import total del període mencionat de les operacions esmentades.
+
+Si les operacions indicades en el paràgraf anterior van originar pagaments anticipats, es poden acollir igualment al dret a la devolució regulat en aquest article, com a exportacions, lliuraments de béns o prestacions de serveis efectivament realitzats durant l’any natural corresponent.
+
+Segon. Els obligats tributaris que superin, durant l’any natural en curs, el límit de les operacions indicades en l’apartat anterior poden sol·licitar la devolució del saldo al seu favor en les condicions establertes en aquest apartat, a partir del període de liquidació, semestral, trimestral o mensual, en què superin el límit d’operacions.
+
+Tercer. La devolució del saldo es pot sol·licitar en la declaració de liquidació corresponent al període en què se superi la xifra d’operacions indicada i fins al límit resultant d’aplicar el percentatge corresponent a l’import de les operacions amb dret a la devolució realitzades des de l’inici de l’any natural a què es refereixin.
+
+##### Article 18
+
+Devolucions a determinats empresaris o professionals no establerts en el territori d’aplicació de l’impost L’exercici del dret a la devolució previst en l’article 73 de la Llei queda condicionat al compliment dels requisits següents:
+
+1. L’empresari o professional ha de sol·licitar la devolució de l’impost en l’imprès subjecte a model oficial que s’aprovi pel ministeri encarregat de les finances, acompanyat dels documents següents:
+
+a. Declaració subscrita per l’empresari o el professional en la qual manifesti que no realitza, en el territori d’aplicació de l’impost, operacions diferents de les indicades en l’article 73.2 de la Llei.
+
+b. Compromís de l’empresari o el professional de reemborsar al ministeri encarregat de les finances l’import de les devolucions que resultin improcedents.
+
+2. L’empresari o el professional ha de mantenir a disposició del ministeri encarregat de les finances, durant el termini de prescripció de l’impost, una certificació emesa per les autoritats fiscals competents del país de la seva seu d’activitat en la qual s’acrediti que en aquell país fa activitats empresarials o professionals subjectes a un tribut de característiques similars.
+
+Es considera de característiques similars a l’impost general indirecte qualsevol impost indirecte amb una estructura impositiva similar a l’establerta a la Directiva comunitària en relació amb l’IVA.
+
+3. Els originals de les factures i altres documents justificatius del dret a la devolució s’han de mantenir a disposició del ministeri encarregat de les finances durant el termini de prescripció de l’impost.
+
+4. Les sol·licituds de devolució poden referir-se a les quotes suportades durant un trimestre natural o en el curs d’un any natural.
+
+El termini per a la presentació de les sol·licituds mencionades conclou al terme dels sis mesos següents a l’any natural en què s’hagin suportat les quotes a què es refereixin les sol·licituds.
+
+5. No són admissibles les sol·licituds de devolucions per un import global inferior a 220 euros.
+
+Segon. El ministeri encarregat de les finances és el competent per tramitar i resoldre les sol·licituds de devolució regulades en aquest article.
+
+Tercer. La decisió respecte a la sol·licitud de devolució s’ha d’adoptar i s’ha de notificar a l’empresari o el professional durant els tres mesos següents a la data de presentació de la sol·licitud. En aquest termini s’ha d’ordenar el pagament de l’import de la devolució, si escau.
+
+Transcorregut el termini establert en l’apartat anterior per notificar l’acord adoptat sense que s’hagi ordenat el pagament de la devolució per causa imputable al ministeri encarregat de les finances, s’ha d’aplicar a la quantitat pendent de devolució l’interès legal a què es refereix l’article 38 de la Llei de bases de l’ordenament tributari, del 19 de desembre del 1996, des de l’endemà de la finalització del termini esmentat i fins a la data d’ordenació del pagament, sense que calgui que l’obligat tributari ho reclami.
+
+##### Article 19
+
+Contingut del règim simplificat Primer. La quota de liquidació es calcula per la diferència entre la suma de les quotes repercutides en el període de liquidació i els percentatges estimatius de les quotes suportades que s’indiquen a continuació, segons el tipus d’activitat econòmica, aplicats sobre la xifra d’ingressos. Dins de la xifra d’ingressos no s’inclouen els procedents de les transmissions d’actius fixos afectes a l’activitat desenvolupada.
+
+Segon. Els percentatges de deducció són els següents:
+
+a) En les activitats comercials, les quotes suportades es quantifiquen amb el 3 per cent de la xifra d’ingressos.
+
+b) En la resta d’activitats, les quotes suportades es quantifiquen amb l’1,5 per cent de la xifra d’ingressos.
+
+Tercer. En un any natural complet només pot ser aplicable el règim simplificat o el règim general per a totes les activitats.
+
+Quart. L’opció i la renúncia per l’aplicació del règim s’han de fer efectives mitjançant un escrit al ministeri encarregat de les finances.
+
+Cinquè. Excepcionalment, en cas d’un incendi, una inundació, una gran avaria d’un equip industrial o altres circumstàncies excepcionals, els interessats afectats poden demanar la renúncia a aquest règim, amb efecte immediat, en el termini d’un mes a comptar de la data en què es produeixin aquestes circumstàncies, aportant les proves que es considerin oportunes.
+
+##### Article 20
+
+Exclusió del règim simplificat Primer. Determina l’exclusió del règim simplificat haver superat en el període de liquidació el volum d’operacions de 100.000 euros, segons el que estableix l’article 74 de la Llei de l’impost.
+
+Segon. En un mateix any natural només es pot aplicar el règim ordinari o el simplificat. En conseqüència, aquesta causa d’exclusió té efectes en relació amb totes les transaccions realitzades dins l’any natural, si bé es regularitzen en la declaració de liquidació immediata posterior.
+
+##### Article 21
+
+Declaracions-liquidacions Els obligats tributaris acollits al règim simplificat han de presentar les declaracions-liquidacions d’acord amb les normes generals de liquidació de l’impost establertes a l’article 27 d’aquest Reglament.
+
+##### Article 22
+
+Llibres registre de l’impost general indirecte 1. Els empresaris o professionals i altres obligats tributaris de l’impost general indirecte han de portar i conservar, amb caràcter general i en els termes disposats en aquest Reglament, els llibres registre següents:
+
+a) Llibre registre de factures emeses b) Llibre registre de factures rebudes 2. El que disposa l’apartat anterior en relació amb el llibre registre de factures rebudes no és aplicable al règim especial simplificat.
+
+3. Els llibres registre no han de ser exclusivament per complir les obligacions formals de l’impost general indirecte. Qualsevol llibre registre és vàlid, sempre que s’ajusti als requisits mínims establerts.
+
+4. Qui sigui titular de diversos establiments situats dins del territori d’aplicació de l’impost pot dur a terme, en cadascun, els llibres de registre establerts en l’apartat 1, en els quals ha d’anotar per separat les operacions efectuades des dels establiments, sempre que els assentaments resum es traslladin als corresponents llibres de registre generals, que s’han de portar en el domicili fiscal de l’obligat tributari.
+
+5. El ministeri encarregat de les finances pot autoritzar la substitució dels llibres de registre mencionats en l’apartat 1 per un sistema de registre diferent, així com la modificació dels requisits exigits per a les anotacions registrals, sempre que responguin a l’organització administrativa i comptable dels obligats tributaris i, al mateix temps, quedi garantida plenament la comprovació de les seves obligacions tributàries per l’impost general indirecte. Les autoritzacions són revocables en qualsevol moment.
+
+##### Article 23
+
+Llibre registre de factures emeses 1. El llibre registre de factures emeses és el registre en què s’anoten de forma individualitzada i consecutiva tant les factures completes com les factures simplificades.
+
+2. En relació amb les factures completes, el registre ha d’incloure les dades següents:
+
+a) Número de factura b) Data d’emissió c) Nom i cognoms o raó social del destinatari d) Número de registre tributari del destinatari e) Base de tributació o import de l’operació f) Tipus de gravamen g) Quota tributària 3. En relació amb les factures simplificades, el registre ha d’incloure les dades següents:
+
+a ) Número de factura b ) Data d’emissió c ) Base de tributació o import de l’operació d ) Tipus de gravamen e ) Quota tributària 4. En cas que una factura incorpori operacions subjectes a diferents tipus de gravamen, s’ha d’anotar individualment cadascuna d’aquestes operacions per tipus de gravamen.
+
+5. Les factures emeses quan l’empresari o professional sigui l’obligat tributari de serveis prestats per un empresari o professional no establert a Andorra, així com les rectificatives, també han de ser objecte d’anotació en el llibre registre de factures emeses.
+
+6. El llibre registre es pot portar, conservar i mantenir en format electrònic.
+
+##### Article 24
+
+Llibre registre de factures rebudes 1. El llibre registre de factures rebudes és el document genèric en què s’anoten, de forma individualitzada, totes les factures rebudes i els documents de la Duana, relatius als béns adquirits o importats, i als serveis rebuts en l’exercici de l’activitat empresarial o professional.
+
+2. L’anotació, una per una, de les factures o els documents equivalents ha d’incloure les dades següents:
+
+a) Número de factura o de document equivalent b) Data de factura c) Nom i cognoms o raó social del proveïdor d) Número de registre tributari e) Base de tributació o import de l’operació f) Tipus de gravamen g) Quota tributària 3. En cas que una factura incorpori operacions subjectes a diversos tipus de gravamen, s’ha d’anotar individualment cadascuna d’aquestes operacions per tipus de gravamen.
+
+4. Igualment, s’han d’anotar les factures a què es refereix l’apartat 5 de l’article anterior.
+
+5. El llibre registre es pot portar, conservar i mantenir en format electrònic.
+
+##### Article 25
+
+Terminis per a les anotacions registrals 1. Les operacions que hagin de ser objecte d’anotació registral han d’estar assentades en els corresponents llibres registre en el moment en què finalitzi el termini legal per fer la liquidació i el pagament de l’impost en període voluntari.
+
+2. Les factures rebudes s’han d’anotar en el llibre registre corresponent dins del període de liquidació en què se n’efectuï la deducció.
+
+##### Article 26
+
+Rectificació de les anotacions comptables Quan els empresaris hagin incorregut en algun error material en efectuar les anotacions registrals a què es refereixen els articles anteriors, les han de rectificar. Aquesta rectificació s’ha d’efectuar en finalitzar el període de liquidació mitjançant una anotació o un grup d’anotacions que permeti determinar, per cada període de liquidació, el corresponent impost meritat i suportat, una vegada practicada la rectificació.
+
+##### Article 27
+
+Liquidació de l’impost. Normes generals 1. Excepte el que s’estableix en relació amb les importacions, els obligats tributaris han de realitzar per si mateixos la determinació del deute tributari mitjançant declaracions de liquidació ajustades a les normes compreses en els apartats següents.
+
+Els empresaris i professionals han de presentar les declaracions-liquidacions periòdiques a què es refereixen els apartats 3 i 4 d’aquest article, així com la declaració resum anual prevista en l’apartat 6. Extraordinàriament, en els casos en què no hi hagi quotes meritades ni es practiqui deducció de quotes suportades o satisfetes, es pot sol·licitar al ministeri encarregat de les finances l’exempció en la presentació de les declaracions mencionades.
+
+2. Les declaracions-liquidacions s’han de presentar directament a l’òrgan competent del ministeri encarregat de les finances o a les entitats col·laboradores designades.
+
+3. El període de liquidació es determina en funció de la xifra anual de negocis:
+
+a) Quan l’import net de la xifra anual de negocis pel conjunt d’activitats dutes a terme per l’obligat tributari, l’any immediatament anterior, sigui inferior a 250.000 euros, les declaracions-liquidacions es fan els mesos de juliol i gener.
+
+b) Quan l’import net de la xifra anual de negocis pel conjunt d’activitats dutes a terme per l’obligat tributari, l’any immediatament anterior, sigui inferior a 3.600.000 euros, les declaracions-liquidacions es fan els mesos d’abril, juliol, octubre i gener.
+
+c) En els altres casos, les declaracions-liquidacions es fan mensualment.
+
+4. La declaració-liquidació ha d’ajustar-se al model que, per cada supòsit, determini el ministeri encarregat de les finances i ha de presentar-se durant el mes següent al corresponent període de liquidació.
+
+5. La declaració-liquidació és única per cada empresari o professional, sense perjudici del que estableixi el ministeri encarregat de les finances pel que fa a les característiques dels règims especials establerts en l’impost.
+
+6. A més de les declaracions-liquidacions a què es refereix l’apartat 4 d’aquest article, els obligats tributaris han de formular una declaració resum anual que s’ha de ser presentar durant tot el mes de gener.
+
+##### Article 28
+
+Obligacions dels fedataris públics Als efectes del que preveu l’article 80 de la Llei de l’impost, i sense perjudici de qualsevol altre mitjà de prova admès en dret, també es considera document acreditatiu de la condició d’empresari o professional la còpia de la sol·licitud presentada davant del Govern d’Andorra per sol·licitar l’alta censal com a obligat tributari de l’impost.
+
+En el supòsit que per circumstàncies concretes de l’obligat tributari no sigui possible aportar cap dels documents previstos en l’article 80 de la Llei o el document previst en el paràgraf anterior, també es considera un element acreditatiu de la condició d’empresari la manifestació expressa en l’escriptura pública d’aquesta circumstància per part de l’obligat tributari.
+
+##### Article 29
+
+Meritació de l’impost en les importacions 1. Les mercaderies que abandonin les àrees mencionades en l’article 16 o que es desvinculin dels règims establerts en l’article 17, ambdós de la Llei de l’impost, es meriten de conformitat amb el que estableix l’article 46 de la Llei de l’impost, sempre que la importació d’aquestes mercaderies es produeixi de conformitat amb el que estableix l’article12.2 de la Llei de l’impost.
+
+2. Les operacions assimilades a les importacions previstes a l’article 13 de la Llei de l’impost es meriten de conformitat amb el que preveu l’article 45 de la Llei de l’impost.
+
+##### Article 30
+
+Recaptació de l’impost. Normes generals L’ingrés de les quotes resultants de les declaracions-liquidacions i la sol·licitud de les devolucions a favor de l’obligat tributari s’han d’efectuar amb els impresos i en el lloc, la forma i els terminis que estableixi el ministeri encarregat de les finances.
+
+##### Article 31
+
+Liquidació de l’impost en les importacions 1. Les operacions d’importació s’han de liquidar en la forma i els terminis previstos en la legislació duanera, amb independència que aquestes operacions d’importació hagin de liquidar o no els drets a la importació.
+
+S’entén inclòs en el paràgraf anterior i, per tant, es liquiden de la mateixa forma les mercaderies que abandonin les àrees mencionades en l’article 16 o que es desvinculin dels règims establerts en l’article 17, ambdós de la Llei de l’impost.
+
+2. Les quotes de l’impost meritades per fer operacions assimilades a les importacions previstes a l’article 13 de la Llei de l’impost es liquiden en la forma prevista en l’apartat anterior, i en el termini màxim de 15 dies a comptar de la meritació.
+
+##### Article 32
+
+Obligacions dels obligats tributaris no establerts 1. De conformitat amb el que preveu l’article 76.1.g de la Llei de l’impost, i sense perjudici del que estableix l’apartat 3 d’aquest article, els obligats tributaris no establerts al territori d’aplicació de l’impost estan obligats a nomenar i fer saber al ministeri encarregat de les finances, amb anterioritat a la realització de les operacions subjectes, una persona física o jurídica amb domicili a Andorra perquè els representi en relació amb el compliment de les obligacions establertes en la Llei de l’impost i en aquest Reglament.
+
+2. Els obligats tributaris no establerts al territori d’aplicació de l’impost que realitzin exclusivament operacions exemptes previstes en els articles 16 i 17 de la Llei no han de complir les obligacions formals a què es refereix l’article 76 de la Llei.
+
+3. El que disposa aquest article s’entén sense perjudici del que estableix l’article 73.3 de la Llei de l’impost.
+
+##### Article 33
+
+Requisits de les factures 1. De conformitat amb el que preveuen els articles 55 i 76 de la Llei, l’obligat tributari ha d’expedir i lliurar factures o documents substitutius per totes les seves operacions.
+
+2. Les factures o els documents substitutius poden ser de tres tipus:
+
+a ) Factures completes b ) Factures simplificades c ) Tiquets 3. Els obligats tributaris, amb caràcter general, han de documentar les seves transaccions mitjançant l’expedició d’una factura simplificada. No obstant això, han d’emetre una factura completa sempre que:
+
+a ) el destinatari de la transacció sigui empresari o professional.
+
+b ) el destinatari de la transacció ho sol·liciti.
+
+c ) es tracti d’operacions exemptes d’acord amb els articles 14 a 17 de la Llei.
+
+d ) es tracti d’operacions no localitzades al territori andorrà.
+
+4. Els obligats tributaris poden documentar les seves transaccions mitjançant l’expedició de tiquets quan l’import dels lliuraments de béns i de la prestació de serveis no superi la xifra anual de 40.000 euros.
+
+5. Les factures completes han de contenir les dades i han de complir els requisits següents:
+
+a ) Número i, si escau, sèrie.
+
+b ) Data d’emissió.
+
+c ) Data de l’operació si es merita en un període de liquidació diferent del que correspon a la data d’emissió.
+
+d ) Noms i cognoms, raó o denominació social completa de l’emissor i el destinatari de l’operació.
+
+e ) Domicili de l’obligat tributari i el destinatari de l’operació. Si disposen de diversos llocs fixos de negoci, cal indicar el lloc en què s’ha dut a terme el lliurament de béns o la prestació de serveis i, respectivament, el lloc de destí efectiu, sempre que aquesta referència sigui rellevant per determinar el règim de tributació.
+
+f ) Número de registre tributari (NRT) assignat per l’Administració andorrana o, si escau, el número d’identificació assignat pel país de residència de l’empresari o el professional, tant de l’emissor com del destinatari de l’operació.
+
+g ) Descripció de l’operació.
+
+h ) Base de tributació, tipus de gravamen aplicat, quota de l’impost repercutit i import total de l’operació.
+
+i ) En el supòsit que l’operació no meriti l’impost general indirecte, indicació del precepte que empara la no-tributació.
+
+6. Les factures simplificades han de contenir les dades i han de complir els requisits següents:
+
+a ) Número i, si escau, sèrie.
+
+b ) Data d’emissió.
+
+c ) Nom i cognoms, raó o denominació social completa de l’emissor.
+
+d ) Domicili de l’obligat tributari. Si disposa de diversos llocs fixos de negoci, cal indicar el lloc en què s’ha dut a terme el lliurament de béns o la prestació de serveis i el lloc de destí efectiu, sempre que aquesta referència sigui rellevant per determinar el règim de tributació.
+
+e ) Número de registre tributari (NRT) de l’emissor assignat per l’Administració andorrana o, si escau, el número d’identificació assignat pel país de residència de l’empresari o el professional.
+
+f )Descripció de l’operació.
+
+g ) Tipus de gravamen aplicat o la indicació “IGI inclòs”.
+
+h ) Import total de l’operació.
+
+7. Els tiquets han de contenir les dades i han de complir els requisits següents:
+
+a ) Número i, si escau, sèrie.
+
+b ) Data d’emissió.
+
+c ) Noms i cognoms, raó o denominació social completa de l’emissor.
+
+d ) Número de registre tributari (NRT) assignat per l’Administració andorrana.
+
+e ) Tipus de gravamen aplicat o la indicació “IGI inclòs”.
+
+f ) Import total de l’operació.
+
+8. En els supòsits previstos per a l’autoconsum de béns o de serveis, l’empresari o el professional ha d’emetre un document, el destinatari del qual sigui ell mateix, amb els mateixos requisits que una factura.
+
+9. Les factures o els documents substitutius han de tenir una numeració consecutiva i s’han d’emetre en el moment de fer l’operació. No obstant això, si el destinatari és empresari o professional, les factures s’han d’emetre abans del dia 20 del mes següent.
+
+10. En el cas d’expedir una còpia d’una factura cal esmentar aquesta condició en el document duplicat.
+
+#### Disposició transitòria primera
+
+Règim del perfeccionament actiu fiscal – Sistema de la suspensió per determinació objectiva Amb l’entrada en vigor de l’impost general indirecte, el règim de perfeccionament actiu fiscal, sistema de la suspensió per determinació objectiva, ha quedat derogat. Les persones que en el moment de l’entrada en vigor de la Llei de l’impost i d’aquest Reglament tinguin autoritzat el benefici del règim del perfeccionament actiu han de tancar aquest règim. En el termini de 7 dies naturals han de presentar una declaració per atorgar un nou règim fiscal a totes les mercaderies, els productes de base i els productes compensadors que estiguin sota el règim de perfeccionament actiu fiscal, sistema de la suspensió per determinació objectiva.
+
+La mercaderia o els productes que es posin al consum a comptar de l’1 de gener del 2013, per posar fi al règim del perfeccionament actiu, sistema de la suspensió per determinació objectiva, estaran subjectes a l’impost general indirecte.
+
+Les persones que tanquin el règim de perfeccionament actiu fiscal, sistema de la suspensió per determinació objectiva, també han de presentar les declaracions de regularització corresponents per totes les mercaderies que hagin estat posades al mercat intern o reexportades durant el quart període del 2012 amb efecte el 31 de desembre del 2012.
+
+#### Disposició transitòria segona
+
+Devolució parcial de l’IMI Les operacions d’exportació amb devolució parcial de l’impost de mercaderies indirecte per a les quals s’ha produït el fet generador abans del 31 de desembre del 2012 o el mateix dia es regeixen, fins al tancament, per les disposicions previstes en el Reglament, del 10 de setembre del 2008, regulador de l’operació d’exportació amb devolució parcial de l’impost de mercaderies indirecte i de modificació de l’article 27 del Reglament de l’impost indirecte sobre la prestació de serveis empresarials i professionals, de l’impost indirecte sobre la producció interna i de l’impost sobre les activitats comercials, del 3 de gener del 2007.
+
+#### Disposició transitòria tercera
+
+Règim de l’admissió temporal en exempció parcial Les operacions efectuades a l’empara del règim de l’admissió temporal en exempció parcial abans de l’1 de gener del 2013 i que hagin generat un deute de l’impost de mercaderies indirecte i de l’impost d’activitats comercials fins al 31 de desembre del 2012 es regularitzaran d’ofici durant el mes de gener del 2013. El Departament de Duana notificarà al subjecte afectat l’import que liquidarà i posteriorment practicarà una liquidació d’ofici. Aquesta liquidació no posa fi al règim de l’admissió temporal en exempció parcial, i a partir del gener del 2013 el règim es regeix per les disposicions d’aquest Reglament fins a la data del tancament. La durada del temps d’estada sota el règim es computa a partir de la data inicial de posada sota el règim.
+
+#### Disposició transitòria quarta
+
+Règim de l’admissió temporal en exempció parcial. Mitjans de transport Els mitjans de transport no es beneficien del règim de l’admissió temporal en exempció parcial a comptar de l’1 de gener del 2013. S’atorga un termini de 30 dies naturals per tancar el règim d’admissió temporal en exempció parcial per als mitjans de transport que l’1 de gener del 2013 no s’hagin posat al consum.
+
+#### Disposició final
+
+Entrada en vigor Aquest Reglament entra en vigor el dia 1 de gener del 2013.
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 24 d’octubre del 2012 Antoni Martí Petit Cap de Govern
+
+#### Annex 1. Tipus de gravamen reduït
+
+Els productes de les partides relatives als capítols, les posicions o les subposicions de la Nomenclatura general de productes represos en la taula següent es graven amb el tipus reduït.
+
+### CAPÍTOL
+
+POSICIÓ / SUBPOSICIÓ Queden excloses d’aquesta taula les partides següents 01 02 03 04 (ex)050504 06 07 08 09 10 11 12 13 (ex)15(ex)15011501 10 10 1501 20 10 (ex)15021502 10 10 1502 90 10 (ex)15031503 00 11 1503 00 30 1504 1506 (ex)15071507 10 10 1507 90 10 (ex)15081508 10 10 1508 90 10 1509 1510 (ex)15111511 10 10 1511 90 91 (ex)15121512 11 10 1512 19 10 1512 21 10 1512 29 10 (ex)15131513 11 10 1513 19 30 1513 21 10 1513 29 30 (ex)15141514 11 10 1514 19 10 1514 91 10 1514 99 10 (ex)15151515 19 10 1515 21 10 1515 29 10 1515 30 10 1515 50 11 1515 50 91 1515 90 21 1515 90 31 1515 90 40 1515 90 60 (ex)15161516 20 10 1516 20 95 1517 16 17 18 19 20 21 (ex)222201 – 2202 - 2209 23 (ex)252501 Només 2501 00 91 (ex)494901 (ex)4902 Només 4902 10 00B 4902 90 00B 4903 4904 (ex)4905 Només 4905 91 00 Nota: (ex) equival a dir que només part del capítol o la posició afectada fan part d’aquesta taula.
+
+Descarrega el document
+
