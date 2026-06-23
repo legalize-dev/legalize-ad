@@ -1,82 +1,44 @@
-# Legalize AD
+# legalize-ad
 
-### Legislació andorrana consolidada en Markdown, versionada amb Git.
+Andorra — legislació en Markdown, amb control de versions com a repositori git.
 
-Cada llei és un fitxer. Cada reforma és un commit.
+Cada llei és un fitxer; cada reforma és un commit datat amb la data de publicació oficial real. El `git log` de qualsevol llei mostra el seu historial complet: quan es va promulgar, quins articles van canviar i per quina norma.
 
-**Font oficial:** [BOPA](https://www.bopa.ad) — Butlletí Oficial del Principat d'Andorra
+Aquest repositori recull les normes de rang superior publicades al BOPA per quatre organismes emissors: Lleis i Lleis qualificades i la Constitució (Consell General), i Legislació delegada i Reglaments (Govern). El BOPA és la publicació oficial d'Andorra; la versió electrònica és la jurídicament autèntica des de la Llei 25/2014. La cobertura històrica arrenca el 1989.
 
-Forma part del projecte [Legalize](https://github.com/legalize-dev/legalize) · [legalize.dev](https://legalize.dev)
+## Què conté
 
-> **Fase inicial** — Aquest dipòsit està en desenvolupament actiu. L'estructura dels fitxers, l'historial de commits i el contingut poden canviar significativament, incloent regeneracions completes.
+- **Lleis i lleis qualificades** (`BOPA-L-XXXX-NN.md`) — `ad/BOPA-L-2024-18.md`
+- **Reglaments (decrets)** (`BOPA-D-XXXX-NN.md`) — `ad/BOPA-D-2024-501.md`
+- **Legislació delegada (decrets legislatius)** (`BOPA-LD-XXXX-NN.md`) — `ad/BOPA-LD-2024-5.md`
+- **Constitució del Principat d'Andorra** (`BOPA-C-1993.md`) — `ad/BOPA-C-1993.md`
 
-## Inici ràpid
+## Font de les dades
 
-```bash
-# Clonar la legislació andorrana
-git clone https://github.com/legalize-dev/legalize-ad.git
+- **Butlletí Oficial del Principat d'Andorra (BOPA) — Govern del Principat d'Andorra i Consell General**
+  - Portal: https://www.bopa.ad/
+  - API (Azure Functions): https://bopaazurefunctions.azurewebsites.net/api/
+  - Magatzem de documents (Azure Blob): https://bopadocuments.blob.core.windows.net/bopa-documents/
 
-# Cercar a la Llei de caça
-grep -A 5 "Article 1" ad/BOPA-L-2024-18.md
+## Atribució
 
-# Historial de modificacions d'una llei
-git log --oneline -- ad/BOPA-L-2024-18.md
+> Font: Butlletí Oficial del Principat d'Andorra (BOPA) — Govern del Principat d'Andorra i Consell General (https://www.bopa.ad/). Els textos oficials estan exclosos de la protecció del dret d'autor segons l'article 4.2 de la Llei sobre drets d'autor i drets veïns (1999). Aquest repositori és un mirall **no oficial**; el BOPA continua sent l'única font autèntica de la legislació andorrana.
 
-# Llegir la Constitució del Principat d'Andorra
-less ad/BOPA-C-1993.md
-```
+## Limitacions conegudes
 
-## Estructura
+- L'API `GetDocumentsByBOPA` està limitada a 132 resultats per butlletí independentment del total real; els organismes objectiu (02. Consell General, 03. Govern) ocupen els primers llocs de l'ordre, de manera que rarament queden truncats.
+- Coexisteixen dos formats HTML d'origen: el modern (InDesign, ≈2015 endavant) amb classes CSS semàntiques i alta fidelitat, i el llegat (1989–≈2014) en text pla amb només salts de línia, de fidelitat inferior (la Constitució de 1993 és en format llegat).
+- El BOPA no publica textos consolidats: cada document publicat és una unitat legal autònoma. Per tant, cada modificació es publica com a norma independent i no com a refosa del text original.
 
-```
-ad/
-  BOPA-C-1993.md         — Constitució del Principat d'Andorra
-  BOPA-L-2024-18.md      — Llei 18/2024, de caça
-  BOPA-D-2024-501.md     — Decret 501/2024, d'aprovació del Reglament...
-  BOPA-LD-{any}-{n}.md   — Legislació delegada
-  ...
-```
+## Altres països
 
-L'estructura del fitxer és **plana** — un sol directori per país, sense subdirectoris per rang. El tipus de norma està al frontmatter YAML de cada fitxer:
+Aquest repositori forma part de **Legalize**, que manté la legislació de múltiples països com a repositoris git. Consulteu https://legalize.dev per al catàleg complet.
 
-| Prefix | Tipus |
-|---|---|
-| `BOPA-L-` | Llei (organisme 02. Consell General) |
-| `BOPA-LD-` | Legislació delegada (organisme 03. Govern) |
-| `BOPA-D-` | Decret aprovant un Reglament (organisme 03. Govern) |
-| `BOPA-C-` | Constitució del Principat d'Andorra |
+## Suport
 
-## Format
-
-Cada fitxer és Markdown amb frontmatter YAML:
-
-```yaml
----
-title: "Llei 18/2024, del 19 de desembre, de caça"
-identifier: "BOPA-L-2024-18"
-country: "ad"
-rank: "llei"
-publication_date: "2025-01-14"
-last_updated: "2025-01-14"
-status: "in_force"
-source: "https://www.bopa.ad/bopa/037004/Pagines/CGL_2025_01_08_10_50_58.aspx"
-department: "Govern del Principat d'Andorra"
-signature_date: "2024-12-19"
-bopa_issue: "BOPA 4/2025"
-bopa_document_id: "CGL_2025_01_08_10_50_58"
----
-```
-
-Els tipus de commit són: `[bootstrap]` (publicació original), `[reforma]` (modificació) i `[correccion]` (correcció d'errata).
-
-## Font
-
-Les dades provenen de l'API pública de BOPA (Azure Functions + Blob Storage), que des de la Llei 25/2014 és la versió oficial i autèntica del Butlletí Oficial del Principat d'Andorra. No s'utilitzen fonts privades de tercers.
+Legalize és gratuït i obert. Si aquesta feina us és útil, podeu ajudar a sostenir-ne l'allotjament i el desenvolupament: [Doneu suport a aquest projecte](https://buymeacoffee.com/legalizedev).
 
 ## Llicència
 
-[MIT](LICENSE) — el contingut de les normes és de domini públic, el codi del pipeline és MIT.
-
----
-
-Generat pel pipeline [legalize-pipeline](https://github.com/legalize-dev/legalize-pipeline).
+- **Codi del pipeline**: MIT (https://github.com/legalize-dev/legalize-pipeline)
+- **Dades**: Domini públic — els textos oficials estan exclosos de la protecció del dret d'autor (art. 4.2 de la Llei sobre drets d'autor i drets veïns, 1999)
